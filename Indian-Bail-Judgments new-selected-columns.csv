@@ -1,0 +1,1201 @@
+case_id,case_title,court,date,judge,bail_type,bail_cancellation_case,landmark_case,accused_name,accused_gender
+0923,The State Of Maharashtra vs Tukaram Shiva Patil,Bombay High Court,1975-08-18,"Justice Vaidya, Justice J.",Regular,TRUE,TRUE,Tukaram Shiva Patil and others,Male
+1086,Prem Raj And Anr. vs The State Of Rajasthan,Rajasthan High Court,1975-12-11,Justice P.D. Kudal,Regular,FALSE,TRUE,Prem Raj and Nand Lal,Male
+0233,Ashok Dhariwal vs State Of Rajasthan,Rajasthan High Court,1982-05-19,Justice G.M. Lodha,Anticipatory,FALSE,TRUE,Ashok Dhariwal,Male
+0066,Pokar Ram vs State Of Rajasthan And Anr,Supreme Court of India,1985-04-17,"Justice D.A. Desai, Justice V.D. Tulzapurkar, Justice A.P. Sen",Anticipatory,TRUE,TRUE,Chandan Singh,Male
+0564,Narinder Singh vs Union Of India And Others,Delhi High Court,1985-12-04,Justice D.K. Kapur,Regular,FALSE,TRUE,Narinder Singh,Male
+0547,Vijender Kumar Jain vs Union Of India And Ors.,Delhi High Court,1985-12-10,"Justice Aggarwal, Justice J.",Regular,FALSE,TRUE,Vijender Kumar Jain,Male
+1084,Powell Nwawa Ogechi vs The State (Delhi Administration),Delhi High Court,1986-07-30,Justice Malik Shariefud-Din,Regular,FALSE,TRUE,Powell Nwawa Ogechi,Male
+0924,Chhaila Pradhan And State Of Orissa vs Bansidhar Pradhan And Two Ors.,Orissa High Court,1986-09-22,Justice B.K. Behera and P.C. Misra,Regular,TRUE,TRUE,"Bansidhar Pradhan, Giridhari Pradhan, Bhagaban Pradhan, Nabakishore Pradhan",Male
+0011,Shahzad Hasan Khan vs Ishtiaq Hasan Khan & Anr,Supreme Court of India,1987-04-28,"Justice M.P. Thakkar, Justice K.N. Singh",Regular,TRUE,TRUE,Ishtiaq Hasan Khan,Male
+0550,Martins Hans Peter vs Union Of India And Others,Delhi High Court,1987-08-03,Justice M.K. Chawla,Regular,FALSE,TRUE,Martins Hans Peter,Male
+0549,Kirpal Mohan Virmani vs Tarun Roy And Ors.,Delhi High Court,1987-08-26,Justice M.K. Chawla,Regular,FALSE,TRUE,Kirpal Mohan Virmani,Male
+0101,State Of Gujarat vs Lalji Popat And Ors.,Gujarat High Court,1988-04-02,Justice M.B. Shah,Regular,TRUE,TRUE,Lalji Popat and others,Male
+0008,V.S. Norti And Ors. vs State Of Karnataka,Karnataka High Court,1989-02-09,Justice S. S. Vastrad,Anticipatory,FALSE,TRUE,V.S. Norti and Others,Male
+0568,Surendra Singh vs Union Of India UOI And Ors.,Patna High Court,1989-08-29,Justice Surendra Narain Jha,Regular,FALSE,TRUE,Surendra Singh,Male
+0169,I.Y. Chanda Earappa vs State Of Karnataka,Karnataka High Court,1989-09-18,"Justice M. Rama Jois, Justice Acting Chief Justice",Anticipatory,FALSE,TRUE,I.Y. Chanda Earappa,Male
+0019,Chain Singh Dhakad vs Hargovind And Ors.,Madhya Pradesh High Court,1989-12-14,Justice Gulab C. Gupta,Anticipatory,TRUE,TRUE,"Hargovind, Kanhaiyalal, Ramgopal",Male
+0542,Kubic Dariusz vs Union Of India & Ors,Supreme Court of India,1990-01-18,Justice K.N. Saikia and B.C. Ray,Regular,FALSE,TRUE,Kubic Dariusz,Male
+0425,"Narendra Govind Mangela vs The Inspector Of Police, Virar Police",Bombay High Court,1991-09-09,"Justice Pendse, Justice J.",Regular,FALSE,TRUE,Narendra Govind Mangela,Male
+0538,Abdul Sathar Ibrahim Manik Etc vs Union Of India And Ors,Supreme Court of India,1991-10-08,Justice K. Jayachandra Reddy and S.R. Pandian,Regular,FALSE,TRUE,Abdul Sathar Ibrahim Manik,Male
+0302,Ram Dayal vs Central Narcotic Bureau,Madhya Pradesh High Court,1992-09-03,Justice R.C. Lahoti and S.K. Dubey,Regular,FALSE,TRUE,Ram Dayal,Male
+0009,Aslam Babalal Desai vs State Of Maharashtra,Supreme Court of India,1992-09-15,"Justice A.M. Ahmadi, Justice M.M. Punchhi, Justice K. Ramaswamy",Regular,TRUE,TRUE,Aslam Babalal Desai,Male
+0082,Nanha S/O Nabhan Kha vs State Of U.P.,Allahabad High Court,1992-09-18,Justice G.D. Dube and Virendra Saran,Regular,FALSE,TRUE,Nanha,Male
+1057,Jarin Khan vs State Of Rajasthan,Rajasthan High Court,1992-10-16,Justice N.K. Jain,Regular,FALSE,TRUE,Jarin Khan,Male
+0567,"Burhanuddin Pahevali Bilaspurwala vs Administrator, Union Territory Of Delhi",Delhi High Court,1993-03-10,Justice Sat Pal,Regular,FALSE,TRUE,Burhanuddin Pahevali Bilaspurwala,Male
+0303,Sardarsingh Nagsingh Rajput (Sisodia) vs State Of Gujarat,Gujarat High Court,1993-04-23,Justice K.J. Vaidya,Regular,FALSE,TRUE,Sardarsingh Nagsingh Rajput (Sisodia),Male
+0561,Mariamma vs Union Of India UOI And Ors,Kerala High Court,1993-08-13,Justice M. Jagannadha Rao,Regular,FALSE,TRUE,M.L. Kunjumon,Male
+0266,Hasmukh D. Prajapati vs State Of Gujarat,Gujarat High Court,1994-05-05,Justice K.J. Vaidya,Regular,FALSE,TRUE,Hasmukh D. Prajapati,Male
+0576,Farman Ali vs NCT (State Of Delhi),Delhi High Court,1994-09-20,Justice Dalveer Bhandari,Anticipatory,FALSE,TRUE,Farman Ali,Male
+0928,State And Others vs E. Veeramani,Madras High Court,1994-10-19,Not Present,Regular,TRUE,TRUE,E. Veeramani,Male
+0018,Jagan Nath vs State Of Haryana And Anr.,Punjab and Haryana High Court,1994-11-21,Justice V.K. Jhanji,Regular,TRUE,FALSE,Tarsem Lal and Bimla Devi,Multiple
+1068,"Tamizharasi And Another vs Assistant Director, Narcotic Control",Madras High Court,1994-12-14,"Justice Arunachalam, Justice J.",Regular,FALSE,TRUE,"Arumugham, Y. V. Nagaraj, Mohammed Shabeer",Male
+0540,Brij Mohan And 20 Ors. vs State And Ors.,Rajasthan High Court,1995-03-20,Justice N.K. Jain,Interim,FALSE,FALSE,"Multiple accused including Brij Mohan, Shankerlal, Manohar Lal Paliwal, and others",Male
+0544,Ram Niwas Gupta vs Union Of India And Ors.,Delhi High Court,1995-04-01,Justice Mohd. Shamim,Regular,FALSE,TRUE,Ram Niwas Gupta,Male
+0551,Ram Niwas Gupta vs Union Of India And Ors.,Delhi High Court,1995-04-01,Justice Mohd. Shamim,Regular,FALSE,TRUE,Ram Niwas Gupta,Male
+0017,"State Of Kadugodi Police, Bangalore vs Gulzar Khan",Karnataka High Court,1995-08-11,Not Present,Anticipatory,TRUE,TRUE,Gulzar Khan,Male
+0903,Adhi Rajaram vs State Rep. By The Inspector Of Police And Anr,Madras High Court,1995-10-17,"Justice Shivappa, Justice J.",Anticipatory,FALSE,TRUE,Adhi Rajaram,Male
+1083,Jyotiben Ramlal Purohit And Etc. vs State Of Gujarat And Anr.,Gujarat High Court,1995-12-14,Justice B.C. Patel,Regular,FALSE,TRUE,Ranilal Gallaji Purohit,Male
+0157,Dr. Bipin Shantilal Panchal vs State Of Gujarat,Supreme Court of India,1996-01-08,"Justice N.P. Singh, Justice A.M. Ahmadi, Justice B.P. Jeevan Reddy",Regular,FALSE,TRUE,Dr. Bipin Shantilal Panchal,Male
+1164,S.K. Gandhi vs State Of Gujarat,Gujarat High Court,1997-01-07,Justice N.N. Mathur,Regular,FALSE,FALSE,S.K. Gandhi,Male
+0002,State By The Superintendent Of Police vs Mehboob Batcha And Others,Madras High Court,1997-09-30,Justice E. Padmanabhan,Regular,TRUE,FALSE,Mehboob Batcha and others (A1 to A11),Male
+0098,Shri Indrajeet Roy vs Republic Of India,Orissa High Court,1997-10-10,Justice P.K. Misra,Regular,FALSE,TRUE,Shri Indrajeet Roy,Male
+0165,Pawan Kumar & Ors vs State Of Haryana,Supreme Court of India,1998-02-09,Justice A.P. Misra,Regular,FALSE,TRUE,Pawan Kumar,Male
+0541,Directorate Of Revenue Intelligence vs Attarpal Singh,Delhi High Court,1998-07-28,Justice J.B. Goel,Regular,TRUE,FALSE,Attarpal Singh,Male
+0205,Urmila Srivastava vs State,Delhi High Court,1998-12-03,Justice J.B. Goel,Anticipatory,FALSE,FALSE,Urmila Srivastava,Female
+0743,Nafees Ahmad Siddiqui And Ors. vs State,Delhi High Court,1999-04-19,Justice J.B. Goel,Regular,TRUE,FALSE,Nafees Ahmad Siddiqui,Male
+0327,Islamuddin @ Chottey vs State Of Delhi,Delhi High Court,1999-08-16,Justice Cyriac Joseph,Interim,FALSE,TRUE,Islamuddin @ Chottey,Male
+1100,Shri Anil S/O Damodhar Paunipagar vs State Of Maharashtra And Ors.,Bombay High Court,1999-10-21,"Justice J.N. Patel, Justice S.G. Mahajan",Regular,FALSE,TRUE,Shri Anil S/O Damodhar Paunipagar,Male
+0166,Balbir Kumar Datta vs The State & Ors.,Delhi High Court,2000-12-05,Justice Dalveer Bhandari,Regular,TRUE,FALSE,Rakesh Bali and others,Male
+0902,U.N. Pai vs State Of Gujarat And Anr.,Gujarat High Court,2000-12-13,Justice D.H. Waghela,Regular,FALSE,FALSE,U.N. Pai,Male
+0741,"Prahlad Singh Bhati vs N.C.T., Delhi & Anr",Supreme Court of India,2001-03-23,Justice K.T. Thomas and R.P. Sethi,Regular,TRUE,TRUE,Respondent No. 2 (name not specified),Male
+0075,G.S. Jhaj vs State Of Punjab,Punjab and Haryana High Court,2001-03-29,Justice S.S. Sudhalkar,Regular,FALSE,TRUE,Jagsir Singh,Male
+0074,Durgalal Vijay vs Govt. Of M.P. And Others,Madhya Pradesh High Court,2001-03-31,Justice S.S. Jha,Regular,FALSE,TRUE,Durgalal Vijay,Male
+0712,Shivasubramanyam vs State Through Chamarajanagar East,Karnataka High Court,2002-01-30,Justice R. Gururajan,Regular,FALSE,FALSE,Shivasubramanyam,Male
+0543,Chowdarapu Raghunandan vs State Of Tamil Nadu And Others,Supreme Court of India,2002-03-15,Justice M.B. Shah,Regular,FALSE,TRUE,Chowdarapu Raghunandan,Male
+0556,Sh. Rajesh Gulati vs Lt. Governor Of NCT Of Delhi,Delhi High Court,2002-05-08,Justice J. Khan,Regular,FALSE,FALSE,Rajesh Gulati,Male
+0004,Rashbehari Karmakar vs Indrajit Mukherjee And Anr.,Calcutta High Court,2002-07-12,"Justice P.K. Biswas, Justice S. Barman Roy",Regular,TRUE,FALSE,Indrajit Mukherjee,Male
+0539,Rajesh Gulati vs Govt. Of N.C.T. Of Delhi & Anr,Supreme Court of India,2002-08-29,Justice Ruma Pal and Arijit Pasayat,Regular,FALSE,TRUE,Rajesh Gulati,Male
+0172,Mahant Chand Nath Yogi & Anr vs State Of Haryana,Supreme Court of India,2002-10-24,"Justice Shivaraj V. Patil, Justice Doraiswamy Raju",Anticipatory,TRUE,FALSE,Mahant Chand Nath Yogi,Male
+1073,Asgar and Anr vs State Of Rajasthan,Rajasthan High Court,2003-01-31,"Justice Bansal, Justice J.",Regular,FALSE,FALSE,Asgar and Mazid,Male
+1090,"Shahid Mohd. Yusuf Shaikh vs Shri M.N. Singh, Commissioner Of Police",Bombay High Court,2003-02-26,"Justice S. Radhakrishnan, Justice D.B. Bhosale",Regular,FALSE,TRUE,Shahid Mohd. Yusuf Shaikh,Male
+0094,Salimbhai Abdulgaffar Shaikh vs State Of Gujarat,Gujarat High Court,2003-07-04,Justice C.K. Buch,Regular,FALSE,FALSE,Salimbhai Abdulgaffar Shaikh,Male
+1098,"Shri Noor Alam Naimulla Khan @ Pinto vs Shri M.N. Singh, Commissioner Of Police",Bombay High Court,2003-09-12,"Justice V.M. Kanade, Justice S.R. Sathe",Regular,FALSE,TRUE,Shri Noor Alam Naimulla Khan @ Pinto,Male
+0154,"Customs, New Delhi vs Ahmadalieva Nodira",Supreme Court of India,2004-03-11,"Justice S. Rajendra Babu, Justice Arijit Pasayat, Justice G.P. Mathur",Regular,TRUE,FALSE,Ahmadalieva Nodira,Female
+0340,Premwati vs Narcotics Control Bureau,Delhi High Court,2005-03-14,Justice Badar Durrez Ahmed,Regular,FALSE,FALSE,Premwati,Female
+0329,Kapil Dev vs The State,Delhi High Court,2005-05-24,Justice Badar Durrez Ahmed,Regular,FALSE,TRUE,Kapil Dev,Male
+1156,State Of Gujarat vs Babubhai Somabhai Gamit,Gujarat High Court,2005-08-24,Justice C.K. Buch,Regular,TRUE,FALSE,Babubhai Somabhai Gamit,Male
+0199,Umesh Chandra Son Of Late Sri Harish vs State Of Uttar Pradesh Through,Allahabad High Court,2005-10-24,"Justice B.S. Chauhan, Justice Bharati Sapru",Regular,FALSE,TRUE,Atul Mehrotra,Male
+0170,Sri Jayendra Saraswathy vs State Of Tamil Nadu And Others,Supreme Court of India,2005-10-26,"Justice R.C. Lahoti, Justice G.P. Mathur",Regular,FALSE,TRUE,Sri Jayendra Saraswathy Swamigal,Male
+1045,State Of Kerala vs Vishnu,Kerala High Court,2005-12-23,Justice K. Padmanabhan Nair,Anticipatory,TRUE,TRUE,Vishnu,Male
+0555,Usha Agarwal vs Union Of India UOI And Ors,Calcutta High Court,2006-04-21,Justice Debiprasad Sengupta and Justice Sadhan Kumar Gupta,Regular,FALSE,TRUE,Sandip Agarwal,Male
+0232,Md. Naimul Haque Ansari @ Naimul Haque vs The State Of Bihar,Patna High Court,2006-05-11,Justice Navin Sinha,Regular,FALSE,TRUE,Md. Naimul Haque Ansari @ Naimul Haque,Male
+0406,Usha Devi vs The State Of Bihar And Ors,Patna High Court,2006-06-20,Justice Chandramauli Kr. Prasad,Regular,TRUE,TRUE,Usha Devi,Female
+0181,Tulaseedharan Nair vs State Of Kerala,Kerala High Court,2006-07-14,Justice R. Basant,Regular,TRUE,TRUE,Tulaseedharan Nair and others (petitioners 1 to 9),Male
+0175,Rajender vs BSES Rajdhani Power Ltd. and Anr.,Delhi High Court,2007-01-11,Justice A.K. Sikri,Anticipatory,FALSE,FALSE,Rajender,Male
+0470,Smt. Bindu Mehra vs Sushil Kumar Mehra,Delhi High Court,2007-03-16,Justice S. Ravindra Bhat,Anticipatory,TRUE,FALSE,Sushil Kumar Mehra,Male
+0882,Manish Bajaj vs The State,Delhi High Court,2007-05-31,Justice S. Ravindra Bhat,Regular,TRUE,FALSE,Manish Bajaj,Male
+1088,"Rameshwar Ram, Sub Inspector vs The State Of U.P.",Allahabad High Court,2007-08-08,Justice Ravindra Singh,Regular,FALSE,FALSE,"Rameshwar Ram, Ashok Kumar, Ravindra Maurya",Male
+0301,Union Of India vs Shri Shiv Shanker Kesari,Supreme Court of India,2007-09-14,Justice Dr. Arijit Pasayat & D.K. Jain,Regular,TRUE,TRUE,Shri Shiv Shanker Kesari,Male
+1075,Central Bureau Of Investigation vs Akhand Pratap Singh,Delhi High Court,2007-11-05,Justice V.B. Gupta,Regular,TRUE,FALSE,Akhand Pratap Singh,Male
+0139,Ravinder Kumar Arora @ Ajju @ Ajay vs CBI,Delhi High Court,2007-11-07,Justice Shiv Narayan Dhingra,Regular,FALSE,FALSE,Ravinder Kumar Arora @ Ajju @ Ajay,Male
+0147,Prithivi Raj Arora @ Netaji vs CBI,Delhi High Court,2007-11-07,Justice Shiv Narayan Dhingra,Regular,FALSE,FALSE,Prithivi Raj Arora @ Netaji,Male
+0326,The State Of Maharashtra vs Shri Ananda Tukaram Akale and Tasgaon Co-op Bank,Bombay High Court,2007-11-27,Justice V.C. Daga,Anticipatory,TRUE,TRUE,Ananda Tukaram Akale,Male
+0191,Smt. Radha Wife Of Late Sri Karuna vs State Of U.P. And Arvind Kumar,Allahabad High Court,2007-12-11,Justice Shiv Charan,Regular,TRUE,TRUE,Arvind Kumar @ Gunnu Mishra,Male
+0012,Gobarbhai Naranbhai Singala vs State Of Gujarat & Ors,Supreme Court of India,2008-01-29,"Justice Ashok Bhan, Justice Altamas Kabir",Regular,TRUE,TRUE,Jayrajsinh Temubha Jadeja,Male
+0335,Gopal Sen vs The State (Govt. Of NCT Of Delhi),Delhi High Court,2008-01-31,Justice Sanjay Kishan Kaul,Regular,FALSE,FALSE,Gopal Sen,Male
+0929,Chironjilal vs State Of Madhya Pradesh,Madhya Pradesh High Court,2008-02-14,Justice S.A. Naqvi,Regular,FALSE,TRUE,Chironjilal,Male
+0099,Sri Braja Bhai vs State Of Orissa,Orissa High Court,2008-04-18,Justice M.M. Das,Regular,FALSE,FALSE,Sri Braja Bhai,Male
+0758,State Of Gujarat vs Javedkhan @ Jahidkhan Azizkhan Pathan,Gujarat High Court,2008-06-16,Justice M.R. Shah and J.R. Vora,Regular,TRUE,FALSE,Javedkhan @ Jahidkhan Azizkhan Pathan,Male
+0782,State vs Javedkhan,Gujarat High Court,2008-06-16,Justice J.R. Vora and M.R. Shah,Regular,TRUE,FALSE,Javedkhan @ Jahidkhan Azizkhan Pathan,Male
+0003,Hyderali vs State Of Kerala,Kerala High Court,2008-08-05,Justice K. Hema,Anticipatory,FALSE,TRUE,Hyderali,Male
+0311,Syed vs State,Gujarat High Court,2008-10-13,Justice H.K. Rathod,Regular,FALSE,FALSE,Syed Babar Chisty,Male
+1144,Prasad A-5 S/O Manivonnan vs State By Byatarayanapura Police,Karnataka High Court,2009-02-11,Justice K. Bhakthavatsala,Regular,FALSE,FALSE,Prasad A-5 S/O Manivonnan,Male
+0260,Achi vs The Station House Officer,Kerala High Court,2009-06-10,Justice K.T. Sankaran,Regular,FALSE,FALSE,Achi,Female
+0015,Savitri Agarwal & Ors vs State Of Maharashtra & Anr,Supreme Court of India,2009-07-10,"Justice D.K. Jain, Justice R.M. Lodha",Anticipatory,TRUE,TRUE,Savitri Agarwal & Others,Unknown
+0566,Moideen Munnakkaparambil Bavu vs State Of Kerala,Kerala High Court,2009-09-24,Justice Chief Justice S.R. Bannurmath and Justice Kurian Joseph,Regular,FALSE,TRUE,Moideen Munnakkaparambil Bavu,Male
+0148,Vikas Yadav vs State Of U.P & Anr,Delhi High Court,2009-10-23,Justice Anil Kumar and Vipin Sanghi,Interim,FALSE,FALSE,Vikas Yadav,Male
+1008,Ravindra Saxena vs State Of Rajasthan,Supreme Court of India,2009-12-15,"Justice Surinder Singh Nijjar, Justice Tarun Chatterjee",Anticipatory,FALSE,TRUE,Ravindra Saxena,Male
+0176,HDFC Bank Ltd vs J.J. Mannan @ J.M. John Paul & Anr,Supreme Court of India,2009-12-16,"Justice Altamas Kabir, Justice Deepak Verma",Anticipatory,TRUE,FALSE,J.J. Mannan @ J.M. John Paul,Male
+0794,Shrikant Tyagi vs State Of U.P.,Allahabad High Court,2010-02-01,Justice Surendra Singh,Regular,FALSE,FALSE,Shrikant Tyagi,Male
+1193,Lotha Dom @ Lothwa Dom & Anr vs State Of Bihar,Patna High Court,2010-02-18,Justice Rakesh Kumar,Regular,FALSE,FALSE,Lotha Dom @ Lothwa Dom and Mantu Dom @ Mantu Ram,Male
+0869,Sanjaybhai vs State,Gujarat High Court,2010-03-22,Justice H.B. Antani,Regular,FALSE,FALSE,Sanjaybhai Babubhai Patel,Male
+1085,Pradeep Kumar Singh vs State Of U.P. And Others,Allahabad High Court,2010-04-02,Justice Rajesh Dayal Khare,Regular,FALSE,TRUE,Pradeep Kumar Singh,Male
+0021,State vs Daya Devi,"Tis Hazari Courts (West), Delhi",2010-04-21,Justice Raj Kumar Chauhan,Anticipatory,FALSE,FALSE,Daya Devi,Female
+1117,Lt. Col. Bikram Singh vs State Of Punjab & Anr,Punjab and Haryana High Court,2010-05-14,Justice Daya Chaudhary,Anticipatory,TRUE,FALSE,Jeevan Parkash Khanna,Male
+0887,Srinivas Gundluri & Ors vs M/S. Sepco Electric Power Const. Corpn,Supreme Court of India,2010-07-30,"Justice P. Sathasivam, Justice Anil R. Dave",Interim,FALSE,TRUE,Srinivas Gundluri,Male
+0904,Ravi Kumar @ Sonu vs State,Delhi High Court,2010-10-05,Justice Anil Kumar and Suresh Kait,Regular,FALSE,FALSE,Ravi Kumar @ Sonu,Male
+1137,Jose Muthuparambil vs Station House Officer,Kerala High Court,2010-10-18,Justice V. Ramkumar,Anticipatory,FALSE,FALSE,Jose Muthuparambil,Male
+0947,Ramesh And Ors. vs State Of U.P.,"Allahabad High Court, Lucknow Bench",2010-12-01,Justice Rajiv Sharma,Regular,FALSE,TRUE,Vishram,Male
+0759,Abdul Sajed S/O Abdul Sattar vs The State Of Maharashtra,Bombay High Court,2011-02-01,Justice S.S. Shinde,Anticipatory,FALSE,FALSE,Abdul Sajed S/O Abdul Sattar,Male
+0447,Manish Malik vs State Of Haryana And Others,Punjab and Haryana High Court,2011-03-16,Justice S.S. Saron,Regular,TRUE,FALSE,Rajesh and Mahavir,Unknown
+1121,Nannach Sk. & Anr vs Unknown,Calcutta High Court,2011-03-16,Justice Ashim Kumar Roy,Regular,FALSE,FALSE,Nannach Sk. & Anr,Male
+0325,CBI Hyderabad vs Subramani Gopalakrishnan and Anr,Supreme Court of India,2011-04-21,"Justice P. Sathasivam, Justice B.S. Chauhan",Regular,TRUE,TRUE,Subramani Gopalakrishnan,Male
+0920,Nirmalkumar vs State,Gujarat High Court,2011-05-10,Justice K.S. Jhaveri,Regular,TRUE,FALSE,Nirmalkumar Tulsiram Rakhecha,Male
+0593,Mirtunjay Mishra vs The State Of Bihar,Patna High Court,2011-07-20,Justice Navaniti Prasad Singh,Regular,FALSE,FALSE,Mirtunjay Mishra,Male
+1175,Satish Lodhi vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur",2011-07-20,Justice J.K. Maheshwari,Regular,TRUE,FALSE,Satish Babu Lodhi,Male
+0001,Jibangshu Paul vs National Investigation Agency,Gauhati High Court,2011-07-27,"Justice I. A. Ansari, Justice A. K. Goswami",Regular,TRUE,TRUE,Jibangshu Paul,Male
+1124,Telma Joseph vs State Of Kerala,Kerala High Court,2011-08-02,Justice K.T. Sankaran,Anticipatory,FALSE,FALSE,Telma Joseph,Female
+1097,Pradeep vs State,Delhi High Court,2011-10-03,Justice Mukta Gupta,Regular,FALSE,FALSE,Pradeep,Male
+1080,Gurwinder Singh @ Mintu vs State Of Punjab,Punjab and Haryana High Court,2011-11-02,Justice Rakesh Kumar Jain,Regular,FALSE,FALSE,Gurwinder Singh @ Mintu,Male
+0016,Rahul Dutta vs State Of Haryana,Punjab and Haryana High Court,2011-12-12,Justice Rakesh Kumar Jain,Regular,FALSE,TRUE,Rahul Dutta,Male
+0119,Payalben vs State,Gujarat High Court,2012-01-24,Justice Z.K. Saiyed,Regular,FALSE,FALSE,Payalben Bhagvandas Bhagchandani,Female
+1119,Md. Wasim @ Banti vs State Of Jharkhand,Jharkhand High Court,2012-02-10,Justice H.C. Mishra,Regular,FALSE,FALSE,Md. Wasim @ Banti,Male
+0466,Kulwant Singh vs State Of Punjab,Punjab and Haryana High Court,2012-02-23,Justice Vijender Singh Malik,Regular,FALSE,FALSE,Kulwant Singh,Male
+0933,Mangesh Vasantrao Deshpande vs Dr. Ganesh Shivramji Mehare and others,Bombay High Court (Nagpur Bench),2012-02-29,Justice A.P. Bhangale,Anticipatory,TRUE,TRUE,Dr. Ganesh Mehare and Ganesh Raut,Male
+0161,Krishan Murari Agrawal vs State Of Rajasthan Through P.P.,"Rajasthan High Court, Jaipur Bench",2012-03-20,Justice Mahesh Chandra Sharma,Regular,FALSE,FALSE,Krishan Murari Agrawal,Male
+0757,Susheel Kumar And Others vs State Of Haryana,Punjab and Haryana High Court,2012-05-21,Justice Paramjeet Singh,Anticipatory,FALSE,FALSE,Susheel Kumar and Others,Male
+0092,Redaul Hussain Khan vs The National Investigation Agency,Gauhati High Court,2012-09-10,"Justice I.A. Ansari, Justice A.C. Upadhyay",Regular,TRUE,TRUE,Redaul Hussain Khan,Male
+0536,Nagaraj S/O Gurubasappa Purad vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2012-09-11,Justice Jawad Rahim,Anticipatory,FALSE,FALSE,Nagaraj S/O Gurubasappa Purad,Male
+0120,Ash Mohammad vs Shiv Raj Singh @ Lalla Babu & Anr,Supreme Court of India,2012-09-20,"Justice Dipak Misra, Justice K. S. Radhakrishnan",Regular,TRUE,TRUE,Shiv Raj Singh @ Lalla Babu,Male
+0164,Manik Mochi vs The State Of Jharkhand,"Jharkhand High Court, Ranchi",2012-09-21,Justice H.C. Mishra,Regular,FALSE,FALSE,Manik Mochi,Male
+0792,Central Bureau Of Investigation vs Amitbhai Anil Chandra Shah And Anr,Supreme Court of India,2012-09-27,Justice Aftab Alam and Ranjana Prakash Desai,Regular,TRUE,TRUE,Amitbhai Anil Chandra Shah,Male
+0796,State Of Maharashtra vs Vishwanath Maranna Shetty,Supreme Court of India,2012-10-19,Justice P. Sathasivam and Ranjan Gogoi,Regular,TRUE,TRUE,Vishwanath Maranna Shetty,Male
+0901,Padmakar Tukaram Bhavnagare & Anr vs State Of Maharashtra & Anr,Supreme Court of India,2012-11-26,"Justice Ranjana Prakash Desai, Justice Aftab Alam",Anticipatory,TRUE,FALSE,Padmakar Tukaram Bhavnagare and his wife,Male
+0524,Ajay Goel And Another vs State Of Haryana And Another,Punjab and Haryana High Court,2012-12-04,Justice Daya Chaudhary,Anticipatory,FALSE,FALSE,Ajay Goel and another,Male
+0299,Babu vs The State,"Karnataka High Court, Bangalore Bench",2013-01-29,Justice K.N. Keshavanarayana,Regular,FALSE,FALSE,Babu and Others,Male
+1143,Yashwant Kumar Singh @ Yashwant Singh vs The State Of Bihar,Patna High Court,2013-05-02,Justice Anjana Prakash,Regular,FALSE,FALSE,Yashwant Kumar Singh @ Yashwant Singh,Male
+1133,Rana Pratap Jaiswal vs The State Of Bihar,Patna High Court,2013-06-21,Justice Gopal Prasad,Anticipatory,FALSE,FALSE,Rana Pratap Jaiswal,Male
+1187,Madhusudan Panigrahi vs State Of Orissa,Orissa High Court,2013-07-30,Justice B.N. Mahapatra,Regular,FALSE,TRUE,Madhusudan Panigrahi,Male
+1188,Tirupati Choudhury vs State Of Orissa,Orissa High Court,2013-07-30,Justice B.N. Mahapatra,Regular,FALSE,TRUE,Tirupati Choudhury,Male
+1003,Sumit Mehta vs State Of N.C.T. Of Delhi,Supreme Court of India,2013-09-13,Justice P. Sathasivam and Ranjana Prakash Desai,Anticipatory,FALSE,TRUE,Sumit Mehta,Male
+0298,Santosh Kumar Bhagat vs The State Of Bihar,Patna High Court,2013-09-20,Justice Vikash Jain,Regular,FALSE,FALSE,Santosh Kumar Bhagat,Male
+1005,Manish Chawla vs State,Delhi High Court,2013-09-23,Justice Veena Birbal,Regular,FALSE,FALSE,Manish Chawla,Male
+0212,Mrs. Rafiya Bi vs The State Of Karnataka,"Karnataka High Court, Bangalore",2014-01-03,Justice R.B. Budihal,Anticipatory,FALSE,FALSE,Mrs. Rafiya Bi,Female
+0753,Gagan Nayak And Anr vs The State Of Jharkhand,Jharkhand High Court,2014-01-16,Justice H.C. Mishra,Regular,FALSE,FALSE,Gagan Nayak and Ajay Demta,Male
+0188,Parvez vs State Of U.P. And Anr.,Allahabad High Court,2014-01-31,Justice Het Singh Yadav,Regular,FALSE,TRUE,Parvez @ Parvez Khan,Male
+0783,Ram Jatan Sahu vs The State Of Jharkhand,Jharkhand High Court,2014-03-03,Justice Amitav K. Gupta,Anticipatory,FALSE,FALSE,Ram Jatan Sahu,Male
+0300,Sri Kirthiraj @ Kirthi vs State Of Karnataka,"Karnataka High Court, Bangalore Bench",2014-03-04,Justice R.B. Budihal,Regular,FALSE,FALSE,Sri Kirthiraj @ Kirthi,Male
+0437,Umesh Agarwal vs The State Of Jharkhand,Jharkhand High Court,2014-03-13,Justice H.C. Mishra,Regular,FALSE,FALSE,Umesh Agarwal,Male
+0729,Kameshwar Baraik Alias Guthlu vs The State Of Jharkhand,Jharkhand High Court,2014-03-13,Justice H.C. Mishra,Regular,FALSE,FALSE,Kameshwar Baraik Alias Guthlu,Male
+0521,Keshava @ Channakeshava vs State Of Karnataka,"Karnataka High Court, Bangalore",2014-03-26,Justice R.B. Budihal,Anticipatory,FALSE,FALSE,Keshava @ Channakeshava and others,Male
+0473,Sri Sharwari Alagharu vs State Of Andhra Pradesh,"Karnataka High Court, Bangalore",2014-04-03,Justice R.B. Budihal,Anticipatory,FALSE,FALSE,Sharwari Alagharu,Female
+0226,Arnesh Kumar vs State Of Bihar & Anr,Supreme Court of India,2014-07-02,"Justice Chandramauli Kr. Prasad, Justice Pinaki Chandra Ghose",Anticipatory,FALSE,TRUE,Arnesh Kumar,Male
+0662,Chandra Patra & Vikash Chandra Patra vs State Of West Bengal,Calcutta High Court,2014-07-24,Justice Jayanta Kumar Biswas and Justice Sahidullah Munshi,Anticipatory,FALSE,FALSE,Chandra Patra & Vikash Chandra Patra,Male
+0039,Amit vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2014-08-20,Justice D.K. Paliwal,Regular,FALSE,FALSE,Amit,Male
+0560,Adarsh Pal Singh vs Union Of India & Anr.,Delhi High Court,2014-08-21,Justices S. Ravindra Bhat and Vipin Sanghi,Regular,FALSE,TRUE,Adarsh Pal Singh,Male
+1089,Ramjaan Masoori vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2014-08-26,Justice Tarun Kumar Kaushal,Regular,FALSE,FALSE,Ramjaan Masoori,Male
+0936,Kosalai vs The Secretary To Government,Madras High Court (Madurai Bench),2014-09-08,"Justice S. Manikumar, Justice V.S. Ravi",Not applicable,FALSE,FALSE,Suthan,Male
+1040,Anil Rai vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2014-09-17,Justice Tarun Kumar Kaushal,Anticipatory,FALSE,FALSE,Anil Rai,Male
+1190,Sonu @ Anand vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2014-10-14,Justice Sheel Nagu,Regular,FALSE,FALSE,Sonu @ Anand,Male
+0900,Sukhdeo Kumar @ Sukhdee vs The State Of Jharkhand,Jharkhand High Court,2014-10-17,Justice D. N. Upadhyay,Regular,FALSE,FALSE,Sukhdeo Kumar @ Sukhdee,Male
+0215,Sri Parashiva vs State Of Karnataka By,"Karnataka High Court, Bengaluru",2014-12-26,Justice B. Manohar,Anticipatory,FALSE,FALSE,Sri Parashiva and Smt. B.K. Anuradha,Male
+1189,Jitendra Kumar vs The State Of Bihar,Patna High Court,2015-01-08,Justice Anjana Prakash,Regular,FALSE,FALSE,Jitendra Kumar,Male
+0230,Devendra Singh Lodhi vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2015-03-03,Justice Subhash Kakade,Regular,FALSE,FALSE,Devendra Singh Lodhi,Male
+0584,K. Varalakshmi W/O Keshavan vs Keshavan @ Govindaiah,"Metropolitan Magistrate, Traffic Court-I, Bangalore",2015-03-11,Justice Jyothishree Ramagowda Patil,Regular,FALSE,FALSE,Keshavan @ Govindaiah,Male
+0800,Shah Mudassir & Another vs State Of Telangana,Telangana High Court,2015-03-20,Justice C. Praveen Kumar,Regular,TRUE,TRUE,Shah Mudassir and Another,Male
+0167,Smt. Sheela Devi vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2015-04-23,Justice S.K. Palo,Regular,FALSE,FALSE,Smt. Sheela Devi,Female
+0077,Hemu Pant @ Hemu Kalu & Another vs State Of Uttarakhand,Uttarakhand High Court,2015-06-23,"Justice Alok Singh, Justice Servesh Kumar Gupta, Justice U.C. Dhyani",Regular,FALSE,TRUE,Hemu Pant @ Hemu Kalu,Male
+0837,Jabbar vs State Of Kerala,Kerala High Court,2015-06-26,Justice K. Abraham Mathew,Anticipatory,FALSE,TRUE,Jabbar and Shahitha,Male
+0133,Naresh Kumar Son Of Shri Kesru Ram vs State Of H.P.,"Himachal Pradesh High Court, Shimla",2015-07-15,Justice P.S. Rana,Anticipatory,FALSE,FALSE,Naresh Kumar,Male
+0734,Srikanta Kishore Mallick vs State Of Orissa,Orissa High Court,2015-07-27,Justice S.K. Sahoo,Regular,FALSE,FALSE,Srikanta Kishore Mallick,Male
+1006,Harbhajan Singh Chopra And Anr vs M/S Fountainhead Motels Pvt Ltd & Ors,Delhi High Court,2015-07-29,Justice Manmohan Singh,Regular,FALSE,FALSE,Harbhajan Singh Chopra,Male
+0053,Sunil Mahadev Patil vs The State Of Maharashtra,Bombay High Court,2015-08-03,Justice Mridula Bhatkar,Regular,FALSE,FALSE,Sunil Mahadev Patil,Male
+0040,Jyothin Aged 19 Years vs State Of Kerala,High Court of Kerala,2015-09-09,Justice Babu Mathew P. Joseph,Anticipatory,FALSE,FALSE,Jyothin,Male
+0639,Dharmendra Pradipkumar Jagada vs Director Of Revenue Intelligence,Gujarat High Court,2015-09-11,Justice Anant S. Dave,Regular,FALSE,FALSE,Dharmendra Pradipkumar Jagada,Male
+0263,Subhash Choudhary Alias Subhash vs The State Of Jharkhand,Jharkhand High Court,2015-09-23,Justice H. C. Mishra,Regular,FALSE,FALSE,Subhash Choudhary @ Subhash Jaiswal,Male
+0262,Somar Yadav vs The State Of Bihar,Patna High Court,2015-09-30,Justice Prabhat Kumar Jha,Regular,FALSE,FALSE,Somar Yadav,Male
+0137,Suman vs State Of Himachal Pradesh,"Himachal Pradesh High Court, Shimla",2015-10-01,Justice Tarlok Singh Chauhan,Anticipatory,FALSE,FALSE,Suman,Female
+0491,Mitthu Lal vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2015-10-27,Justice Sheel Nagu,Regular,FALSE,FALSE,Mitthu Lal,Male
+0573,"Manjunath vs D R I, Noida, U P",Delhi High Court,2015-11-20,Justice P.S. Teji,Regular,FALSE,FALSE,Manjunath,Male
+0791,Sri N Narasimha Murthy vs State Of Karnataka,Karnataka High Court,2015-11-24,Justice A.V. Chandrashekara,Regular,FALSE,FALSE,Sri N. Narasimha Murthy,Male
+0472,Gautam Jain vs State (NCT Of Delhi),Delhi High Court,2015-12-02,Justice P.S. Teji,Regular,FALSE,FALSE,Gautam Jain,Male
+0711,Yasinsha Motisha Fakir vs State Of Gujarat,Gujarat High Court,2016-01-08,Justice S.H. Vora,Regular,FALSE,FALSE,Yasinsha Motisha Fakir,Male
+0061,Kaddu @ Rihan Qureshi vs The State Of Madhya Pradesh,High Court of Madhya Pradesh,2016-01-28,Justice Sheel Nagu,Regular,FALSE,FALSE,Kaddu @ Rihan Qureshi,Male
+1094,Suresh Kumar Gupta (Bhujwa) vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2016-02-09,Justice S.K. Gangele,Regular,FALSE,FALSE,Suresh Kumar Gupta,Male
+0931,Ajith Kumar vs State Rep. By,Madras High Court (Madurai Bench),2016-02-16,Justice P.N. Prakash,Regular,FALSE,TRUE,"Ajith Kumar (and other juveniles including Saravanakumar, L. Mahesh, Mani @ Manikandan, Sudhakar)",Male
+0281,Shakeer Khan vs State Of Chhattisgarh,Chhattisgarh High Court,2016-02-17,Justice Sanjay K. Agrawal,Regular,FALSE,FALSE,Shakeer Khan,Male
+0025,State Of Karnataka vs Nagaraja,"Karnataka High Court, Bengaluru",2016-02-23,Justice A.V. Chandrashekara,Regular,TRUE,FALSE,Nagaraja,Male
+0102,State Of Karnataka vs Nagaraja,Karnataka High Court,2016-02-23,Justice A.V. Chandrashekara,Regular,TRUE,FALSE,Nagaraja,Male
+0189,Mani Prasad Singh vs The State Of West Bengal & Anr,Calcutta High Court,2016-04-12,"Justice Nadira Patherya, Justice Indrajit Chatterjee",Anticipatory,TRUE,TRUE,Opposite Party No. 2 (not explicitly named in judgment),Male
+1191,Ayub Khan vs State Of Karnataka,Karnataka High Court,2016-05-05,Justice Anand Byrareddy,Regular,FALSE,FALSE,Ayub Khan,Male
+0754,Om Prakash Srivastava @ Babloo vs State Of U.P. And Anr.,Allahabad High Court,2016-05-13,Justice V.K. Shukla and Umesh Chandra Srivastava,Regular,FALSE,FALSE,Om Prakash Srivastava @ Babloo,Male
+0404,Amit Kumar Gupta & Monu vs State,Delhi High Court,2016-05-23,Justice P.S. Teji,Regular,FALSE,FALSE,Amit Kumar Gupta,Male
+0504,Umamaheshwari vs State Through,"Madras High Court, Madurai Bench",2016-06-29,Justice V.M. Velumani,Regular,TRUE,FALSE,Karmegam and Nagamani,Male
+0891,Subodh Kumar Singh & Ors vs The State Of Bihar,Patna High Court,2016-07-05,Justice Shivaji Pandey,Regular,TRUE,TRUE,"Subodh Kumar Singh, Nawal Kumar Sahni, Noor Alam",Male
+0535,Lakshmanan vs Karuthapandi,"Madras High Court, Madurai Bench",2016-07-11,Justice V.M. Velumani,Anticipatory,TRUE,FALSE,Karuthapandi,Male
+0508,Karuppaiah vs P.R. Rajesh Kumar,"Madras High Court, Madurai Bench",2016-07-12,Justice V.M. Velumani,Anticipatory,TRUE,FALSE,P.R. Rajesh Kumar,Male
+0513,Babu Florence Debora vs The Inspector Of Police,"Madras High Court, Madurai Bench",2016-07-12,Justice V.M. Velumani,Anticipatory,TRUE,FALSE,Thavasi Palam Samuvelraj and others,Male
+0134,Satish vs State Of Himachal Pradesh,"Himachal Pradesh High Court, Shimla",2016-07-22,Justice Tarlok Singh Chauhan,Regular,FALSE,FALSE,Satish,Male
+0112,Sanni Malik @ Sanni Jaat vs State Of U.P.,Allahabad High Court,2016-08-10,Justice Harsh Kumar,Regular,FALSE,FALSE,Sanni Malik @ Sanni Jaat,Male
+0044,Heenaben Bharatbhai Prajapati vs Prajapati Rameshbhai Rambhai & Anr,High Court of Gujarat,2016-08-23,Justice Paresh Upadhyay,Anticipatory,TRUE,FALSE,Prajapati Rameshbhai Rambhai,Male
+0339,Ravi Kant Prabhakar vs State Govt Of NCT Of Delhi,Delhi High Court,2016-09-01,Justice P.S. Teji,Regular,FALSE,FALSE,Ravi Kant Prabhakar,Male
+0337,Ved Prakash @ Mistri vs The State (NCT Of Delhi),Delhi High Court,2016-09-05,Justice P.S. Teji,Regular,FALSE,FALSE,Ved Prakash @ Mistri,Male
+0487,Parminder Singh Bawa vs State,Delhi High Court,2016-09-05,Justice P.S. Teji,Regular,FALSE,FALSE,Parminder Singh Bawa,Male
+0842,Babita @ Kavita vs State & Ors.,Delhi High Court,2016-09-09,Justice Pradeep Nandrajog,Anticipatory,TRUE,FALSE,"Ram Prasad, Laxmi Devi, Ved Prakash, Hira Devi",Male
+0529,Revansiddappa S/O Bhimashankar vs The State Of Karnataka,"Karnataka High Court, Kalaburagi Bench",2016-09-15,Justice R.B. Budihal,Regular,FALSE,FALSE,Revansiddappa,Male
+0305,Sher Bahadur Singh Son Of Shri Bhim vs State Of H.P.,Himachal Pradesh High Court,2016-09-20,Justice P.S. Rana,Regular,FALSE,FALSE,Sher Bahadur Singh,Male
+1093,Shravan Kumar @ Munna Tiwari vs The State Of Chhattisgarh,"Chhattisgarh High Court, Bilaspur",2016-09-27,Justice Deepak Gupta and Sanjay K. Agrawal,Regular,FALSE,FALSE,Shravan Kumar @ Munna Tiwari,Male
+0525,Smt Parvathamma vs State Of Karnataka,Karnataka High Court,2016-10-05,Justice R.B Budihal,Regular,FALSE,FALSE,Smt. Parvathamma,Female
+1002,Sunil Dahiya vs State (Govt Of NCT Of Delhi),Delhi High Court,2016-10-18,Justice Vipin Sanghi,Regular,FALSE,FALSE,Sunil Dahiya,Male
+0178,Dr. Manish Sharma vs State Of Himachal Pradesh & Ors,Himachal Pradesh High Court,2016-10-24,Justice Dharam Chand Chaudhary,Regular,TRUE,FALSE,Not specified,Female
+0592,Devendra Singh Shekhawat vs State,Rajasthan High Court (Jodhpur Bench),2016-11-04,Justice Pankaj Bhandari,Anticipatory,FALSE,FALSE,Devendra Singh Shekhawat,Male
+0534,Sri Narayana Swamy @ Nallur Narayana vs State Of Karnataka,"Karnataka High Court, Bengaluru Bench",2016-11-07,Justice R.B. Budihal,Anticipatory,FALSE,FALSE,Sri Narayana Swamy @ Nallur Narayana and others,Male
+0672,Harimohan Shivhare @ Rinku @ Deepak Kumar @ Naval Kishore @ Mahendra Kumar vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2016-11-16,Justice S.K. Gangele,Regular,FALSE,FALSE,Harimohan Shivhare @ Rinku @ Deepak Kumar @ Naval Kishore @ Mahendra Kumar,Male
+0553,Naeem Abdulla Khan vs The Commissioner Of Police And Ors,Bombay High Court,2016-11-18,Justice V.K. Tahilramani and Justice Mridula Bhatkar,Regular,FALSE,TRUE,Sanaullah Abdul Khan,Male
+1194,Nirmalsinh Umedsinh Zala vs State Of Gujarat,Gujarat High Court,2016-12-02,Justice A.J. Desai,Regular,FALSE,TRUE,Nirmalsinh Umedsinh Zala,Male
+0265,Rabish @ Shahzada Khan vs State Of Jharkhand,Jharkhand High Court,2016-12-05,"Justice H. C. Mishra, Justice Dr. S.N. Pathak",Regular,FALSE,FALSE,Rabish @ Shahzada Khan,Male
+0838,Raghunath Thakur vs The State Of Bihar,Patna High Court,2016-12-06,Justice Kishore Kumar Mandal,Anticipatory,FALSE,FALSE,Raghunath Thakur,Male
+0604,Rizwan Ahmand vs The State Of Jharkhand And Anr,Jharkhand High Court,2017-02-03,Justice Anant Bijay Singh,Anticipatory,FALSE,FALSE,Rizwan Ahmand,Male
+0652,Birendra Kumar Mandal And Anr vs The State Of Jharkhand,Jharkhand High Court,2017-02-04,Justice Rongon Mukhopadhyay,Regular,FALSE,FALSE,Birendra Kumar Mandal and Ajay Kumar @ Ajay Kumar Mandal,Male
+0171,Asha Ranjan vs State Of Bihar And Ors,Supreme Court of India,2017-02-15,"Justice Dipak Misra, Justice Amitava Roy",Regular,FALSE,TRUE,Mohammad Shahabuddin,Male
+0797,Zohra Sheikh vs State Govt Of NCT Of Delhi,Delhi High Court,2017-02-20,Justice Vipin Sanghi,Regular,FALSE,FALSE,Zohra Sheikh,Female
+0240,State vs Mohd. Danish & Anr,"Rajasthan High Court, Jodhpur",2017-02-22,Justice Sandeep Mehta,Regular,TRUE,FALSE,Mohd. Danish and Sabbir Mohd. @ Sabbu,Male
+0415,Shri S C Jayachandra vs Enforcement Directorate,Karnataka High Court,2017-02-23,Justice P.S. Dinesh Kumar,Regular,FALSE,FALSE,Shri S. C. Jayachandra,Male
+0667,Vikash Mandal @ Vikash Kumar Mandal vs The State Of Jharkhand,Jharkhand High Court,2017-02-23,Justice Rongon Mukhopadhyay,Regular,FALSE,FALSE,Vikash Mandal @ Vikash Kumar Mandal,Male
+0876,Tapan Kumar vs The State Of Bihar,Patna High Court,2017-02-23,Justice Sanjay Priya,Anticipatory,FALSE,FALSE,Tapan Kumar,Male
+0517,Suman Yadav vs State (Govt. Of Nct Of Delhi),Delhi High Court,2017-03-03,Justice P.S. Teji,Regular,FALSE,FALSE,Suman Yadav,Female
+0190,Gurmeet Singh & Anr. vs Central Bureau Of Investigation,Delhi High Court,2017-03-06,Justice Mukta Gupta,Regular,FALSE,FALSE,Gurmeet Singh and Subrata Bhattacharya,Male
+1141,Suneshwar Singh Thakur vs State Of Chhattisgarh,"Chhattisgarh High Court, Bilaspur",2017-03-10,Justice Manindra Mohan Shrivastava,Regular,FALSE,FALSE,Suneshwar Singh Thakur,Male
+1185,Alagu Bind vs The State Of Bihar,Patna High Court,2017-03-20,Justice Jitendra Mohan Sharma,Regular,FALSE,FALSE,Alagu Bind,Male
+0850,Kunkun Sah vs The State Of Bihar,Patna High Court,2017-04-19,Justice Dinesh Kumar Singh,Anticipatory,FALSE,FALSE,Kunkun Sah,Male
+1182,Smt. Kamlesh Devi vs State Of Rajasthan Through P.P.,"Rajasthan High Court, Jaipur Bench",2017-05-01,Justice Pankaj Bhandari,Regular,FALSE,FALSE,Master Praveen,Male
+1136,Valsaraj P.V vs State Of Kerala,Kerala High Court,2017-05-09,Justice Raja Vijayaraghavan V,Anticipatory,FALSE,FALSE,Valsaraj P.V,Male
+0638,Nepal Rai vs The State Of Jharkhand,Jharkhand High Court,2017-05-26,Justice Dr. S.N. Pathak,Regular,FALSE,FALSE,Nepal Rai,Male
+0554,Sandhya Jain vs Union Of India & Anr.,Delhi High Court,2017-05-31,Justice Siddharth Mridul and Justice Mukta Gupta,Regular,FALSE,TRUE,Narender Kumar Jain,Male
+0086,Prerna Sharma vs State Of H.P. And Another,Himachal Pradesh High Court,2017-06-02,Justice Tarlok Singh Chauhan,Regular,TRUE,FALSE,Chander Kant,Male
+0197,State Of Bihar vs Md. Ekbal @ Mister,Patna High Court,2017-06-20,Justice Chakradhari Sharan Singh,Anticipatory,TRUE,TRUE,Md. Ekbal @ Mister,Male
+0108,Vineet Kumar vs State Of Himachal Pradesh,Himachal Pradesh High Court,2017-07-10,Justice Sandeep Sharma,Regular,FALSE,FALSE,Vineet Kumar,Male
+0283,Maragubhusain And Ors vs The State Of Karnataka,"Karnataka High Court, Kalaburagi Bench",2017-07-31,Justice B. A. Patil,Regular,FALSE,FALSE,"Maragubhusain, Riyajauddin, Irashad @ Irshad, Araman",Male
+0518,Jayavva D/O Puttappa Muradennanavar vs State Of Karnataka,"Karnataka High Court, Dharwad Bench",2017-08-07,Justice R.B. Budihal,Anticipatory,FALSE,FALSE,Jayavva D/O Puttappa Muradennanavar,Female
+0610,Jinnar Ali vs The State Of West Bengal Ministry Of Home,Supreme Court of India,2017-08-09,Justice J. Chelameswar and Justice S. Abdul Nazeer,Anticipatory,FALSE,FALSE,Jinnar Ali,Male
+0533,Mohd Iqbal vs State And Ors.,"Jammu and Kashmir High Court, Jammu Bench",2017-08-11,Justice Sanjay Kumar Gupta,Regular,TRUE,FALSE,Mohd. Safeer and others,Male
+0294,Anil Kumar Mehta vs The State Of Bihar,Patna High Court,2017-08-16,Justice Arun Kumar,Regular,FALSE,FALSE,Anil Kumar Mehta,Male
+1174,Jabbu Yadav @ Jabbi Yadav vs The State Of Bihar,Patna High Court,2017-08-30,Justice Prabhat Kumar Jha,Regular,FALSE,FALSE,Jabbu Yadav @ Jabbi Yadav,Male
+1087,Rajesh Kumar Sondhiya vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2017-09-22,Justice S.K. Gangele,Regular,FALSE,FALSE,Rajesh Kumar Sondhiya,Male
+0634,Santosh Dutta vs The State Of Jharkhand,Jharkhand High Court,2017-10-06,Justice Amitav K. Gupta,Regular,FALSE,FALSE,Santosh Dutta,Male
+0733,Rajan Khajuria vs State And Anr.,Jammu & Kashmir High Court,2017-10-28,Justice Sanjay Kumar Gupta,Anticipatory,FALSE,FALSE,Rajan Khajuria,Male
+0159,Gavranjeet Singh @ Gavrana vs State,"Rajasthan High Court, Jodhpur Bench",2017-11-01,Justice Pushpendra Singh Bhati,Regular,FALSE,FALSE,Gavranjeet Singh @ Gavrana,Male
+0660,Shankar vs Station House Officer,Karnataka High Court,2017-11-03,Justice R.B. Budihal,Regular,FALSE,FALSE,Shankar,Male
+0565,Bhoda Ram & Ors vs State,Rajasthan High Court (Jodhpur Bench),2017-11-20,Justice Pushpendra Singh Bhati,Regular,FALSE,FALSE,Bhoda Ram & 32 Others,Male
+0611,Sanjay Jain vs State Of NCT Of Delhi,Delhi High Court,2017-12-07,Justice Sangita Dhingra Sehgal,Anticipatory,FALSE,FALSE,Sanjay Jain,Male
+0198,State Of Karnataka vs Inayath @ Immu,Karnataka High Court,2017-12-15,Justice R.B. Budihal,Regular,TRUE,TRUE,Inayath @ Immu,Male
+0261,Sanjeet Kumar vs The State Of Bihar,Patna High Court,2018-01-17,Justice Arun Kumar,Regular,FALSE,FALSE,Sanjeet Kumar,Male
+0109,Manoj Kumar vs State Of Himachal Pradesh,Himachal Pradesh High Court,2018-01-19,Justice Sandeep Sharma,Regular,FALSE,FALSE,Manoj Kumar,Male
+0793,Rambeer Shokeen vs State Of NCT Of Delhi,Supreme Court of India,2018-01-31,"Justice A.M. Khanwilkar, Justice D.Y. Chandrachud, Justice Dipak Misra",Others,FALSE,TRUE,Rambeer Shokeen,Male
+0146,State By J.J. Nagar Police vs Syed Saleem,"Bengaluru Urban District, Child Friendly Court",2018-02-09,Justice Yadav Vanamala Anandrao,Regular,FALSE,FALSE,Syed Saleem,Male
+0626,Dasrath Mandal vs The State Of Jharkhand,Jharkhand High Court,2018-02-09,Justice Shree Chandrashekhar,Regular,FALSE,FALSE,Dasrath Mandal,Male
+0254,Binod Sahni vs The State Of Bihar,Patna High Court,2018-02-20,Justice Arun Kumar,Regular,FALSE,FALSE,Binod Sahni,Male
+0114,Pinku Singh vs State Of Himachal Pradesh,Himachal Pradesh High Court,2018-02-26,Justice Sandeep Sharma,Regular,FALSE,FALSE,Pinku Singh,Male
+0296,Dinesh Kumar @ Dinesh Yadav vs The State Of Bihar,Patna High Court,2018-02-27,Justice Prabhat Kumar Jha,Anticipatory,FALSE,FALSE,Dinesh Kumar @ Dinesh Yadav,Male
+0235,Chetanbhai Natwarlal Shrimadi vs State Of Gujarat,Gujarat High Court,2018-02-28,Justice J.B. Pardiwala,Anticipatory,TRUE,TRUE,Chetanbhai Natwarlal Shrimadi,Male
+1092,Shubham Jatav vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2018-03-08,Justice S.A. Dharmadhikari,Regular,FALSE,FALSE,Shubham Jatav,Male
+0895,Banti Hari vs The State Of Bihar,Patna High Court,2018-03-09,Justice Arun Kumar,Regular,FALSE,FALSE,Banti Hari,Male
+0959,Baldev @ Bali Virbhanu Dangar vs State Of Gujarat,High Court of Gujarat,2018-03-09,Justice A.Y. Kogje,Regular,FALSE,FALSE,Baldev @ Bali Virbhanu Dangar,Male
+0532,Arjun Sarkar & Anr vs State Of Tripura And Ors,Tripura High Court,2018-03-20,Justice S. Talapatra,Interim,TRUE,FALSE,Respondent No. 3 (Name not specified),Male
+0896,Baja @ Kush Kumar vs The State Of Bihar,Patna High Court,2018-03-22,Justice Arun Kumar,Regular,FALSE,FALSE,Baja @ Kush Kumar,Male
+0110,Pritam Kumar vs State Of Himachal Pradesh,Himachal Pradesh High Court,2018-03-24,Justice Sandeep Sharma,Regular,FALSE,FALSE,Pritam Kumar,Male
+0081,Mohd. Khalid vs State Of UP,"High Court of Judicature at Allahabad, Lucknow Bench",2018-03-27,"Justice Hon'ble Virendra Kumar-II, Justice J.",Regular,FALSE,FALSE,Mohd. Khalid,Male
+0974,Kanubhai Mahadevbhai Lamka (Bharwad) vs State Of Gujarat,Gujarat High Court,2018-03-27,Justice J.B. Pardiwala,Anticipatory,TRUE,FALSE,Kanubhai Mahadevbhai Lamka (Bharwad),Male
+0295,Ranjeet Kumar Sah @ Ranjit Kumar vs The State Of Bihar,Patna High Court,2018-03-29,Justice Arun Kumar,Regular,FALSE,FALSE,Ranjeet Kumar Sah @ Ranjit Kumar,Male
+1199,Budhan @ Sonu Kumar @ Budhan Kumar vs The State Of Bihar,Patna High Court,2018-03-30,Justice Arun Kumar,Regular,FALSE,FALSE,Budhan @ Sonu Kumar @ Budhan Kumar,Male
+0848,Binoy George vs State Of Kerala,Kerala High Court,2018-04-03,Justice Raja Vijayaraghavan V,Anticipatory,FALSE,FALSE,"Binoy George, Teena Philip, Chinnamma Varkey",Male
+1197,Amaluddin Dewan @ Amaluddin vs The State Of Bihar,Patna High Court,2018-04-04,Justice Prabhat Kumar Jha,Regular,FALSE,FALSE,Amaluddin Dewan @ Amaluddin,Male
+0145,State By Vidyaranyapura Police vs Mohammed Hussain,"Bengaluru Urban District, Child Friendly Court",2018-04-09,Justice Yadav Vanamala Anandrao,Regular,FALSE,FALSE,Mohammed Hussain,Male
+1196,Birju Mahto @ Birju Kumar Mahto vs The State Of Bihar,Patna High Court,2018-04-16,Justice Arun Kumar,Regular,FALSE,FALSE,Birju Mahto @ Birju Kumar Mahto,Male
+0173,Seema Singh vs Central Bureau Of Investigation And Anr,Supreme Court of India,2018-04-18,"Justice A.K. Sikri, Justice Ashok Bhushan",Regular,TRUE,FALSE,Not specified,Male
+1186,Md. Salam Khan @ Pappu Khan vs The State Of Bihar,Patna High Court,2018-04-18,Justice Arun Kumar,Regular,FALSE,FALSE,Md. Salam Khan @ Pappu Khan,Male
+0035,Patel Kalubhai Pratapbhai vs State Of Gujarat,Gujarat High Court,2018-04-19,Justice A.J. Desai,Anticipatory,FALSE,FALSE,Patel Kalubhai Pratapbhai,Male
+0297,Sonu Kumar vs The State Of Bihar,Patna High Court,2018-04-25,Justice Rakesh Kumar,Regular,FALSE,FALSE,Sonu Kumar,Male
+0116,Kashir Ahmed vs State Of Himachal Pradesh,Himachal Pradesh High Court,2018-05-04,"Justice Sandeep Sharma, Justice J.",Regular,FALSE,FALSE,Kashir Ahmed,Male
+0732,Darshan Singh vs State Of Himachal Pradesh,Himachal Pradesh High Court,2018-05-08,Justice Sandeep Sharma,Anticipatory,FALSE,FALSE,Darshan Singh,Male
+0492,Harsh Bhavi vs State Of Rajasthan Through Pp,"Rajasthan High Court, Jaipur Bench",2018-05-09,Justice Deepak Maheshwari,Regular,FALSE,FALSE,Harsh Bhavi,Male
+0259,Pappu Kumar @ Pappu Rai vs The State Of Bihar,Patna High Court,2018-05-17,Justice Arun Kumar,Regular,FALSE,FALSE,Pappu Kumar @ Pappu Rai,Male
+1038,Subhash Kumar Sharma vs State,Delhi High Court,2018-06-20,Justice C. Hari Shankar,Regular,FALSE,FALSE,Subhash Kumar Sharma,Male
+1049,Subhash Kumar Sharma vs State,Delhi High Court,2018-06-20,Justice C. Hari Shankar,Regular,FALSE,FALSE,Subhash Kumar Sharma,Male
+1035,Deepti Dixit vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2018-07-06,Justice Subodh Abhyankar,Anticipatory,FALSE,FALSE,Deepti Dixit,Female
+1065,Sri Ashish Sarkar vs The State Of Tripura,Tripura High Court,2018-07-23,Justice Arindam Lodh,Regular,FALSE,FALSE,Sudhir Sarkar,Male
+1176,Md. Raza @ Md. Raja @ Md. Rashid Ali Khan vs The State Of Bihar,Patna High Court,2018-07-23,Justice Sanjay Kumar,Regular,FALSE,FALSE,Md. Raza @ Md. Raja @ Md. Rashid Ali Khan,Male
+1081,Gyanendra @ Gyanu Shukla vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2018-07-31,Justice C.V. Sirpurkar,Regular,FALSE,FALSE,Gyanendra @ Gyanu Shukla,Male
+0958,Kirti Shantilal Gandhi vs State Of Gujarat,High Court of Gujarat,2018-08-09,Justice Sonia Gokani,Regular,FALSE,FALSE,Kirti Shantilal Gandhi,Male
+1053,Ankush Kumar @ Sonu vs State Of Punjab,Punjab and Haryana High Court,2018-08-09,Justice Rajbir Sehrawat,Regular,FALSE,TRUE,Ankush Kumar @ Sonu,Male
+0474,Daksh Aadia vs State Of Punjab,Punjab and Haryana High Court,2018-08-17,Justice H.S. Madaan,Anticipatory,FALSE,FALSE,Daksh Aadia,Male
+0084,Omprakash Pal vs The State Of Madhya Pradesh,High Court of Madhya Pradesh,2018-08-20,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Omprakash Pal,Male
+0859,Mohammad Shabbir Banagar vs The State Of Karnataka,Karnataka High Court,2018-08-27,Justice K. Somashekar,Anticipatory,FALSE,FALSE,Mohammad Shabbir Banagar,Male
+0849,Ankur Kumar Aged 31 Years S/O Sh. Chander vs State Of Punjab,Punjab and Haryana High Court,2018-09-04,Justice Jaishree Thakur,Anticipatory,FALSE,FALSE,Ankur Kumar,Male
+0886,Vijay Barku Kokani And Others vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2018-09-07,Justice V.K. Jadhav,Anticipatory,FALSE,FALSE,Vijay Barku Kokani and Others,Male
+0664,Giridhari Das @ Girdhari Das vs State Of Jharkhand,Jharkhand High Court,2018-09-12,Justice Ananda Sen,Regular,FALSE,FALSE,Giridhari Das @ Girdhari Das,Male
+0858,Suresh Ramdas Baviskar And Ors vs The State Of Maharashtra,Bombay High Court,2018-09-21,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Suresh Ramdas Baviskar and Others,Male
+0450,Balnath Kalu More And Anr vs The State Of Maharashtra,Bombay High Court,2018-10-01,Justice Anuja Prabhudessai,Regular,FALSE,FALSE,Balnath Kalu More and Ansaram Kalu More,Male
+0520,Mohd Suhail vs The State Of Maharashtra,Bombay High Court,2018-10-01,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Mohd Suhail,Male
+0619,Sanjay Nana More vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2018-10-05,Justice V. K. Jadhav,Anticipatory,FALSE,FALSE,Sanjay Nana More,Male
+0620,Eknath Bhaurao Jadhav And Anr vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2018-10-12,Justice V.K. Jadhav,Anticipatory,FALSE,FALSE,Eknath Bhaurao Jadhav and Babaji Shankar Dumbare,Male
+0464,Veerpal Kaur vs State Of Punjab,Punjab and Haryana High Court,2018-10-16,Justice Sudhir Mittal,Regular,FALSE,FALSE,Veerpal Kaur,Female
+0925,Gheesa Banjara @ Gheesaram Banjara vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2018-10-29,Justice Sheel Nagu,Regular,FALSE,FALSE,Gheesa Banjara @ Gheesaram Banjara,Male
+0123,K. Santhiya vs The Inspector Of Police,Madras High Court,2018-11-02,Justice M. Dhandapani,Anticipatory,TRUE,FALSE,Saravanan,Male
+0313,Kirta Ram vs State Of Rajasthan,"Rajasthan High Court, Jodhpur",2018-11-29,Justice Vijay Bishnoi,Regular,FALSE,FALSE,Kirta Ram,Male
+1138,Mr. P.K. Biswas vs Mr. B. Choudhury,Tripura High Court,2018-12-07,Justice Arindam Lodh,Anticipatory,FALSE,FALSE,Not specified,Male
+0312,Rohan Gawans vs Union Of India And Anr,Bombay High Court,2018-12-10,Justice Prakash D. Naik,Regular,FALSE,FALSE,Rohan Gawans,Male
+0949,Anthony Infant Raj @ Infant vs State Of Karnataka,Karnataka High Court,2018-12-11,Justice K.S. Mudagal,Regular,FALSE,FALSE,Anthony Infant Raj @ Infant,Male
+0052,Shreyas Dike And Ors vs The State Of Maharashtra,Bombay High Court,2018-12-13,Justice Prakash D. Naik,Regular,FALSE,FALSE,Shreyas Dike and Ors.,Male
+0131,Javaid Ahmad Dar vs State Of J&K Through Advocate General,High Court of Jammu and Kashmir at Srinagar,2018-12-14,Justice Rashid Ali Dar,Regular,FALSE,FALSE,Javaid Ahmad Dar,Male
+0851,Rakesh Kumar Gami @ Rakesh Gami vs The State Of Bihar,Patna High Court,2018-12-18,Justice Vinod Kumar Sinha,Regular,FALSE,FALSE,Rakesh Kumar Gami @ Rakesh Gami,Male
+0234,Damodar Sharma vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2018-12-21,Justice G.S. Ahluwalia,Regular,FALSE,FALSE,Damodar Sharma,Male
+1079,Gotiya @ Hoshiyarsingh vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2018-12-31,Justice Virender Singh,Regular,FALSE,FALSE,Gotiya @ Hoshiyarsingh,Male
+0594,Rehan Raja Khan vs The State Of Jharkhand,Jharkhand High Court,2019-01-11,Justice Pramath Patnaik,Regular,FALSE,FALSE,Rehan Raja Khan,Male
+0661,Sri Hariprasad vs State By K R Puram Police Station,Karnataka High Court,2019-01-18,Justice K. S. Mudagal,Anticipatory,FALSE,FALSE,Sri Hariprasad,Male
+0465,Mohammad Nazim Alias Nazam vs State Of Punjab,Punjab and Haryana High Court,2019-01-29,Justice Sudhir Mittal,Regular,FALSE,FALSE,Mohammad Nazim @ Nazam,Male
+0579,Salim vs State Of Kerala,Kerala High Court,2019-01-30,Justice Raja Vijayaraghavan V,Regular,FALSE,FALSE,Salim,Male
+0877,Sujata W/O. Kuldip Jadhav vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2019-02-01,Justice V. K. Jadhav,Anticipatory,FALSE,FALSE,Sujata W/O. Kuldip Jadhav,Female
+0934,Akhtarbhai Noorbhai Shaikh vs State Of Gujarat,Gujarat High Court,2019-02-01,Justice J.B. Pardiwala,Regular,TRUE,FALSE,"Faizalkhan Khanvalikhan Pathan, Sabirkhan Sahebdalikhan Pathan, Shervalikhan @ Sherkhan Sahebdalikhan Pathan, Saradkhan Sahebdalikhan Pathan",Male
+0659,Anil Rajan Nair vs The State Of Karnataka,Karnataka High Court,2019-02-11,Justice Aravind Kumar,Regular,TRUE,FALSE,Anil Rajan Nair,Male
+0841,Kameshwar Singh vs The State Of Bihar And Anr,Patna High Court,2019-02-26,Justice Prabhat Kumar Jha,Anticipatory,FALSE,FALSE,Kameshwar Singh,Male
+0730,Udhav S/O Gyanoba Budhwant vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2019-02-27,Justice K.K. Sonawane,Anticipatory,FALSE,FALSE,Udhav Gyanoba Budhwant,Male
+0064,Shaikh Babar Shaikh Akhtar vs The State Of Maharashtra,Bombay High Court,2019-03-01,Justice Prakash D. Naik,Regular,FALSE,FALSE,Shaikh Babar Shaikh Akhtar,Male
+0097,Shankar Chakraborty vs The State Of West Bengal,Calcutta High Court,2019-03-04,Justice Subhasis Dasgupta,Regular,TRUE,FALSE,Shankar Chakraborty,Male
+0575,Mayanglambam Arun Singh vs Union Of India,Gauhati High Court,2019-03-06,Justice Manash Ranjan Pathak,Regular,FALSE,FALSE,Mayanglambam Arun Singh,Male
+0274,Dhavalsinh Balubha Sodha vs State Of Gujarat,Gujarat High Court,2019-03-15,Justice A. P. Thaker,Regular,FALSE,FALSE,Dhavalsinh Balubha Sodha,Male
+1066,Sri Haricharan Biswas vs The State Of Tripura,Tripura High Court,2019-03-18,Justice Sanjay Karol,Regular,TRUE,TRUE,Pritam Roy,Male
+0424,National Investigation Agency vs Zahoor Ahmad Shah Watali,Supreme Court of India,2019-04-02,Justice A.M. Khanwilkar and Ajay Rastogi,Regular,TRUE,TRUE,Zahoor Ahmad Shah Watali,Male
+0237,Kaminiben Nitinbhai Rajput vs State Of Gujarat,Gujarat High Court,2019-04-09,Justice A. P. Thaker,Anticipatory,FALSE,FALSE,Kaminiben Nitinbhai Rajput and one other,Female
+0614,Sayyed Lal Amir Sayyed And Others vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2019-04-11,Justice V. K. Jadhav,Regular,FALSE,FALSE,"Sayyed Lal Amir Sayyed, Aalim Sayyedlal Sayyed, Tayra Sayyedlal Sayyed, Raju Shaikhlal Shaikh",Male
+0184,Mathan Turiya vs The State Of Jharkhand,Jharkhand High Court,2019-04-16,"Justice H. C. Mishra, Justice Sanjay Kumar Dwivedi",Regular,FALSE,FALSE,Mathan Turiya,Male
+0229,Dhiru @ Sharda Saket vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2019-05-06,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Dhiru @ Sharda Saket,Male
+1096,"Mukesh Modi vs SFIO, New Delhi And Another",Punjab and Haryana High Court,2019-05-31,Justice Amit Rawal,Regular,FALSE,TRUE,Mukesh Modi,Male
+0073,Dhan Singh S/O Shiv Singh vs Union Of India And Ors,Bombay High Court,2019-06-14,"Justice Indrajit Mahanty, Justice A. M. Badar",Regular,FALSE,TRUE,Dhan Singh S/O Shiv Singh,Male
+0079,Lokesh Sharma S/O Gopal Krishan vs Union Of India And Ors,Bombay High Court,2019-06-14,"Justice Indrajit Mahanty, Justice A. M. Badar",Regular,FALSE,FALSE,Lokesh Sharma,Male
+0080,Manohar S/O Ram Singh Narwaria vs Union Of India And Ors,Bombay High Court,2019-06-14,"Justice A. M. Badar, Justice Indrajit Mahanty",Regular,FALSE,FALSE,Manohar Narwaria,Male
+0090,Rajendra Chaudhary S/O Vikram Singh vs Union Of India Through National Investigation Agency,Bombay High Court,2019-06-14,"Justice A. M. Badar, Justice Indrajit Mahanty",Regular,FALSE,FALSE,Rajendra Chaudhary,Male
+0096,Shafique Ahmed Mohd Salim vs Union Of India And Anr,Bombay High Court,2019-06-14,"Justice Indrajit Mahanty, Justice A.M. Badar",Regular,FALSE,FALSE,"Dhan Singh Shiv Singh @ Ram Lakhan Das Maharaj @ Subhas @ Lakhan, Lokesh Sharma @ Kalu Pandit @ Ajay Tiwari, Manohar Narwaria @ Digaria @ Sumer Thakur, Rajendra Vikramsingh Chaudhari @ Dashrath @ Samander @ Bada Yadav @ Laxman Das",Male
+0973,Renukuntla Sravani vs The State Of Telangana,Telangana High Court,2019-06-27,Justice Raghvendra Singh Chauhan and Shameem Akther,Regular,FALSE,FALSE,Renukuntla Pramod Kumar,Male
+0946,Fatima Al Amoodi vs The State Of Telangana,Telangana High Court,2019-07-04,"Justice Raghvendra Singh Chauhan, Justice Shameem Akther",Not applicable,FALSE,FALSE,Saud Amoodi @ Saud @ Amoodi,Male
+0115,Naresh Kumar vs State Of Himachal Pradesh,Himachal Pradesh High Court,2019-07-09,Justice Sandeep Sharma,Regular,FALSE,FALSE,Naresh Kumar,Male
+1037,Upendra Rai vs Directorate Of Enforcement,Delhi High Court,2019-07-09,Justice Mukta Gupta,Regular,FALSE,FALSE,Upendra Rai,Male
+1050,Upendra Rai vs Directorate Of Enforcement,Delhi High Court,2019-07-09,Justice Mukta Gupta,Regular,FALSE,FALSE,Upendra Rai,Male
+0731,Kanhaiya Alias Kural vs State Of U.P.,Allahabad High Court,2019-07-12,Justice Karuna Nand Bajpayee and Rajeev Misra,Regular,FALSE,FALSE,Kanhaiya Alias Kural,Male
+1074,Brijendra Singh Yadav vs State Of U.P. And 4 Others,Allahabad High Court,2019-07-17,"Justice Pritinker Diwaker, Justice Raj Beer Singh",Regular,FALSE,TRUE,Brijendra Singh Yadav,Male
+1095,Kumail vs State Of U.P. And 3 Others,Allahabad High Court,2019-08-01,"Justice Manoj Misra, Justice Virendra Kumar Srivastava",Others,FALSE,TRUE,Kumail,Male
+0087,Radhika (Juvenile) vs State Of U.P.,Allahabad High Court,2019-08-05,Justice Rahul Chaturvedi,Regular,FALSE,TRUE,Radhika,Female
+0264,Ranjit Kumar @ Ranjit Chaudhari vs The State Of Bihar,Patna High Court,2019-08-07,Justice Vinod Kumar Sinha,Regular,FALSE,FALSE,Ranjit Kumar @ Ranjit Chaudhari,Male
+0888,Ankit Sharma @ Anku vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2019-08-09,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Ankit Sharma @ Anku,Male
+0057,Mrs Bratati @ Pinky vs The State Of Karnataka,Karnataka High Court,2019-08-20,Justice Sreenivas Harish Kumar,Regular,TRUE,FALSE,Hrishikesh Sahoo,Male
+0056,Faiz Rehman vs State Of Odisha,Orissa High Court,2019-08-21,Justice S.K. Sahoo,Regular,FALSE,FALSE,Faiz Rehman,Male
+1101,Ketan Suresh Pawar vs Yuvraj Sandeepan Sawant,Supreme Court of India,2019-08-27,"Justice A.S. Bopanna, Justice R. Banumathi",Regular,TRUE,FALSE,Yuvraj Sandeepan Sawant,Male
+0010,Anil Kumar Alias Neelu vs State Of Himachal Pradesh,Himachal Pradesh High Court,2019-09-09,Justice Anoop Chitkara,Regular,FALSE,FALSE,Anil Kumar alias Neelu,Male
+0860,Kiran M D @ Venu vs The State Of Karnataka,Karnataka High Court,2019-09-24,Justice K.N. Phaneendra,Anticipatory,FALSE,FALSE,Kiran M D @ Venu,Male
+0228,Rajkumar @ Monu vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Indore Bench",2019-09-25,Justice Shailendra Shukla,Regular,FALSE,FALSE,Rajkumar @ Monu,Male
+0076,Gaurav Kumar @ Lakha @ Gaurav Thakur vs The State Of Bihar,Patna High Court,2019-09-30,"Justice Ashwani Kumar Singh, Justice Birendra Kumar",Regular,FALSE,TRUE,Gaurav Kumar @ Lakha @ Gaurav Thakur,Male
+0089,Rajan Kumar vs The State Of Bihar,Patna High Court,2019-09-30,"Justice Ashwani Kumar Singh, Justice Birendra Kumar",Regular,FALSE,TRUE,Rajan Kumar,Male
+0078,Lalu Kumar @ Lal Babu @ Lallu vs The State Of Bihar,Patna High Court,2019-10-01,"Justice Ashwani Kumar Singh, Justice Birendra Kumar",Regular,FALSE,TRUE,Lalu Kumar @ Lal Babu @ Lallu,Male
+0795,Nagbhushan Arkasali vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2019-10-09,Justice Ashok G Nijagannavar,Regular,FALSE,FALSE,Nagbhushan Pandurang Arkasali,Male
+1132,Vishal Gera vs The State Of Bihar,Patna High Court,2019-10-17,Justice Vinod Kumar Sinha,Anticipatory,FALSE,FALSE,Vishal Gera,Male
+0182,Vivek Harivyasi vs Serious Fraud Investigation Office,Punjab and Haryana High Court,2019-11-13,Justice Rajbir Sehrawat,Regular,TRUE,TRUE,Vivek Harivyasi,Male
+0625,Vashist Tiwari vs State Of U.P.,Allahabad High Court,2019-12-17,Justice Sanjay Kumar Singh,Regular,FALSE,FALSE,Vashist Tiwari,Male
+0118,Hasan Deen vs State Of Himachal Pradesh,Himachal Pradesh High Court,2020-01-03,Justice Sandeep Sharma,Regular,FALSE,FALSE,Hasan Deen,Male
+0111,Crmp(M) No. 24722019 vs State Of Himachal Pradesh,Himachal Pradesh High Court,2020-01-06,Justice Sandeep Sharma,Regular,FALSE,FALSE,Parkash Chand and Khimi Devi alias Shalu,Multiple
+0857,Shyam Bihari Sah vs The State Of Bihar,Patna High Court,2020-01-09,Justice Vinod Kumar Sinha,Anticipatory,FALSE,FALSE,Shyam Bihari Sah,Male
+0322,Swapnil Navnath Naiknavare vs The State Of Maharashtra,Bombay High Court,2020-01-23,Justice Prakash D. Naik,Regular,FALSE,FALSE,Swapnil Navnath Naiknavare,Male
+0588,Meenakshi vs State Of Himachal Pradesh,Himachal Pradesh High Court,2020-01-31,Justice Jyotsna Rewal Dua,Anticipatory,FALSE,FALSE,Meenakshi,Female
+0874,Yatin Ajitkumar Malhotra vs The State Of Maharashtra,Bombay High Court,2020-02-03,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Yatin Ajitkumar Malhotra,Male
+0590,Rajendra Thakkar vs The State Of Madhya Pradesh,Madhya Pradesh High Court (Indore Bench),2020-02-13,Justice Shailendra Shukla,Regular,FALSE,FALSE,Rajendra Thakkar,Male
+0103,State vs Omar Sharif @ Sueb,"High Court of Tripura, Agartala",2020-02-14,Justice Arindam Lodh,Regular,TRUE,FALSE,Omar Sharif @ Sueb,Male
+0160,Shailendra Kumar Gupta @ Shailu vs State Of U.P.,Allahabad High Court,2020-03-05,Justice Jayant Banerji,Regular,FALSE,FALSE,Shailendra Kumar Gupta @ Shailu,Male
+0875,Mohammed Mehtab @ Mehtab vs State Of Karnataka,Karnataka High Court,2020-03-11,Justice K.S. Mudagal,Regular,FALSE,FALSE,Mohammed Mehtab @ Mehtab,Male
+0957,Detenu vs The Union Of India,High Court of Tripura,2020-03-11,"Justice Arindam Lodh, Justice Akil Kureshi",Regular,FALSE,FALSE,Sri Biplab Biswas,Male
+0650,Smt. Jyothi Kakkar vs The State Of Karnataka,Karnataka High Court,2020-03-19,Justice K.S. Mudagal,Anticipatory,FALSE,FALSE,Smt. Jyothi Kakkar,Female
+1177,Sonu Gupta vs State Of U.P.,Allahabad High Court,2020-04-30,Justice Ashok Kumar,Regular,FALSE,FALSE,Sonu Gupta,Male
+0223,Mahesh vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2020-05-22,Justice Rajeev Kumar Shrivastava,Regular,FALSE,FALSE,Mahesh,Male
+0344,Imran Ilyas Dalla vs State Of Maharashtra Through PS In-Charge,"Bombay High Court, Nagpur Bench",2020-05-26,Justice Manish Pitale,Regular,FALSE,FALSE,Imran Ilyas Dalla,Male
+0658,Bhawani Sharma S/O Shri Dhoolilal vs State Of Rajasthan,Rajasthan High Court (Jaipur Bench),2020-05-28,Justice Manoj Kumar Vyas,Anticipatory,FALSE,FALSE,Bhawani Sharma,Male
+0275,Padeep vs The State Of M.P.,"Madhya Pradesh High Court, Gwalior Bench",2020-06-04,Justice Rajeev Kumar Shrivastava,Regular,FALSE,FALSE,Pradeep,Male
+0067,Miss G (Minor) Thr. Her Mother vs State Of NCT Of Delhi & Anr,Delhi High Court,2020-06-05,Justice Prathiba M. Singh,Interim,TRUE,TRUE,Not specified,Male
+0519,Shri Lakshmana S/O Narasappa vs The State Of Karnataka,"Karnataka High Court, Kalaburagi Bench",2020-06-18,Justice H.T. Narendra Prasad,Regular,FALSE,FALSE,Shri Lakshmana S/O Narasappa,Male
+0421,Sudesh Kedia vs Union Of India Through,Jharkhand High Court,2020-06-24,Justice H. C. Mishra and Rajesh Kumar,Regular,FALSE,FALSE,Sudesh Kedia,Male
+0531,Bhausaheb Dnyandev Khodve And Other vs State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2020-06-25,Justice Mangesh S. Patil,Anticipatory,FALSE,FALSE,Bhausaheb Dnyandev Khodve,Male
+0728,Anil Kumar vs State Of H.P,Himachal Pradesh High Court,2020-06-29,Justice Anoop Chitkara,Regular,FALSE,FALSE,Anil Kumar,Male
+1060,Paras Singh vs State Of Chhattisgarh,Chhattisgarh High Court,2020-07-01,Justice Sanjay K. Agrawal,Regular,FALSE,FALSE,Paras Singh,Male
+0221,Sri Manjunath S/O Ningappa Yeddalli vs State Of Karnataka,"Karnataka High Court, Dharwad Bench",2020-07-06,Justice Ashok G Nijagannavar,Regular,FALSE,FALSE,"Sri Ningappa Thimappa Yeddalli, Smt. Nagamma, Sri Kanaka Yeddalli",Male
+0485,Manju Devi vs State,Delhi High Court,2020-07-06,Justice Jyoti Singh,Anticipatory,FALSE,FALSE,Manju Devi,Female
+0582,Lokesh Sharma vs Union Of India,Gujarat High Court,2020-07-06,Justice Chief Justice Vikram Nath and Justice J.B. Pardiwala,Regular,FALSE,FALSE,Lokesh Sharma,Male
+0585,Rutugna Arvindkumar Trivedi vs Union Of India,Gujarat High Court,2020-07-06,Justice Chief Justice Vikram Nath and Justice J.B. Pardiwala,Regular,FALSE,TRUE,Rutugna Arvindkumar Trivedi,Female
+0635,Nita Chunilal Parmar vs Union Of India,Gujarat High Court,2020-07-06,Justice Vikram Nath and Justice J.B. Pardiwala,Interim,FALSE,FALSE,Nita Chunilal Parmar,Female
+0956,State Of NCT Of Delhi vs Deepak Dabas,Delhi High Court,2020-07-07,Justice Suresh Kumar Kait,Interim,TRUE,FALSE,Deepak Dabas,Male
+1114,Sidharth Jeitley vs The State (Govt. Of NCT Of Delhi),Delhi High Court,2020-07-07,"Justice J.R. Midha, Justice Brijesh Sethi",Interim,FALSE,FALSE,Sidharth Jeitley,Male
+0856,Yasin Khan vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-07-13,Justice Prakash Shrivastava,Anticipatory,FALSE,FALSE,Yasin Khan,Male
+1071,Vinay Kumar Mishra vs Union Of India Thru. Its Zonal Director,Allahabad High Court (Lucknow Bench),2020-07-24,Justice Jaspreet Singh,Regular,FALSE,FALSE,Vinay Kumar Mishra,Male
+0678,Mohit Kumar Kannojia vs State Of Uttarakhand,Uttarakhand High Court,2020-07-30,Justice Sharad Kumar Sharma,Regular,FALSE,FALSE,Mohit Kumar Kannojia,Male
+1062,Rakesh Umar Vaishya vs State Of Chhattisgarh,Chhattisgarh High Court,2020-08-04,Justice Sanjay K. Agrawal,Regular,FALSE,FALSE,Rakesh Umar Vaishya,Male
+1063,Satinder Kumar vs State Of Himachal Pradesh,Himachal Pradesh High Court,2020-08-04,Justice Anoop Chitkara,Regular,FALSE,FALSE,Satinder Kumar,Male
+1148,Imrat vs State Of U.P.,Allahabad High Court,2020-08-05,Justice Dinesh Kumar Singh-I,Regular,FALSE,FALSE,Imrat,Male
+0798,Balwinder Singh vs State Of Punjab,Punjab and Haryana High Court,2020-08-14,Justice Arun Kumar Tyagi,Anticipatory,FALSE,FALSE,Balwinder Singh,Male
+1118,Dhirendra Singh vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2020-08-14,Justice Rajeev Kumar Dubey,Anticipatory,FALSE,FALSE,Dhirendra Singh,Male
+0140,Rajesh @ Rinku Rod vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-08-24,Justice Sheel Nagu,Anticipatory,FALSE,FALSE,Rajesh @ Rinku Rod,Male
+0224,Guru vs State Of Karnataka,"Karnataka High Court, Bengaluru",2020-08-28,Justice Ashok G. Nijagannavar,Regular,FALSE,FALSE,Guru,Male
+0435,Nasim Akhtar @ Raju vs The State Of Jharkhand,Jharkhand High Court,2020-08-28,Justice Rajesh Shankar,Regular,FALSE,FALSE,Nasim Akhtar @ Raju,Male
+0927,Asfak Khan vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-08-31,Justice Sheel Nagu,Regular,FALSE,FALSE,Asfak Khan,Male
+0514,Salma @ Umme Salma C vs State Of Karnataka,"Karnataka High Court, Bengaluru",2020-09-03,Justice K. Natarajan,Anticipatory,FALSE,FALSE,Salma @ Umme Salma C and others,Female
+1082,Himalay Pavar vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-09-03,Justice Rajendra Kumar Srivastava,Regular,FALSE,FALSE,Himalay Pavar,Male
+1031,Nagarajau vs The State Of Karnataka,Karnataka High Court,2020-09-04,Justice Ashok G. Nijagannavar,Anticipatory,FALSE,FALSE,Nagarajau,Male
+0020,Amzad vs State Of U.P.,Allahabad High Court,2020-09-10,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Amzad,Male
+0100,Ramjan Khan vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-09-10,Justice Sheel Nagu,Anticipatory,FALSE,FALSE,Ramjan Khan,Male
+0799,Ramesh Kumar Yadav vs The State Of Bihar,Patna High Court,2020-09-11,Justice Chakradhari Sharan Singh,Anticipatory,FALSE,FALSE,Ramesh Kumar Yadav,Male
+0220,Sonu @ Narendra vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-09-18,Justice Rajeev Kumar Shrivastava,Interim,FALSE,FALSE,Sonu @ Narendra,Male
+0317,Jasvinder Singh vs State Of Himachal Pradesh,"Himachal Pradesh High Court, Shimla",2020-09-24,Justice Sandeep Sharma,Regular,FALSE,FALSE,Jasvinder Singh,Male
+0932,Ayyappa @ Manikantha Rathod vs The State Of Karnataka & Ors,Karnataka High Court (Kalaburagi Bench),2020-09-28,Justice Hanchate Sanjeevkumar,Regular,FALSE,FALSE,Ayyappa @ Manikantha Rathod,Male
+1023,Sumant @ Deendayal vs The State Of Madhya Pradesh,Madhya Pradesh High Court (Jabalpur Bench),2020-10-01,Justice Mohammed Fahim Anwar,Regular,FALSE,FALSE,Sumant @ Deendayal,Male
+0926,Mayaram Sharma vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-10-05,Justice Sheel Nagu,Regular,FALSE,FALSE,Mayaram Sharma,Male
+0050,Rhea Chakraborty vs Union Of India And Anr,Bombay High Court,2020-10-07,Justice Sarang V. Kotwal,Regular,FALSE,TRUE,Rhea Chakraborty,Female
+0341,Dipesh Uttam Sawant vs Union Of India,Bombay High Court,2020-10-07,Justice Sarang V. Kotwal,Regular,FALSE,TRUE,Dipesh Uttam Sawant,Male
+0342,Showik Chakraborty vs Union Of India And Anr,Bombay High Court,2020-10-07,Justice Sarang V. Kotwal,Regular,FALSE,TRUE,Showik Chakraborty,Male
+0343,Samuel Miranda S/O Marshal Miranda vs Union Of India And Anr,Bombay High Court,2020-10-07,Justice Sarang V. Kotwal,Regular,FALSE,TRUE,Samuel Miranda,Male
+1033,Dipak Soni vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-10-08,Justice Mohammed Fahim Anwar,Regular,FALSE,FALSE,Dipak Soni,Male
+0581,Salman Khan vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-10-09,Justice Gurpal Singh Ahluwalia,Regular,FALSE,FALSE,Salman Khan,Male
+0162,Smt. Ashna Agarwal vs State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2020-10-12,Justice Rajeev Kumar Shrivastava,Anticipatory,FALSE,FALSE,Smt. Ashna Agarwal and Shobit Agarwal,Female
+1122,A.M. Yogaraja vs State By,Karnataka High Court,2020-10-14,Justice Sreenivas Harish Kumar,Anticipatory,FALSE,FALSE,A.M. Yogaraja,Male
+0608,Raju Ranjan Yadav vs State Of UT Chandigarh,Punjab and Haryana High Court,2020-10-15,Justice Sanjay Kumar,Regular,FALSE,FALSE,Raju Ranjan Yadav,Male
+0642,Ajay Pandey @ Golu vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-10-19,Justice Sanjay Dwivedi,Regular,FALSE,FALSE,Ajay Pandey @ Golu,Male
+0991,Sanjay Beldar vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-10-20,Justice Mohammed Fahim Anwar,Regular,FALSE,FALSE,Sanjay Beldar,Male
+0211,Venkatesh Naik S/O Pomya Naik vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2020-10-22,Justice Mohammad Nawaz,Regular,FALSE,FALSE,Venkatesh Naik,Male
+0292,Badshah @ Riyaz Ahmad vs State Of U.P.,Allahabad High Court,2020-10-22,Justice Siddharth,Regular,FALSE,FALSE,Badshah @ Riyaz Ahmad,Male
+0408,Vikas vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur",2020-10-22,Justice Sanjay Dwivedi,Regular,FALSE,FALSE,Vikas,Male
+1078,Gatta @ Omsingh @ Omi vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-10-22,Justice Rajendra Kumar Srivastava,Interim,FALSE,FALSE,Gatta @ Omsingh @ Omi,Male
+1140,Divesh Kumar Bajaj vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2020-10-23,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Divesh Kumar Bajaj,Male
+0705,Rajesh Mandal @ Rajesh Kumar Mandal vs The State Of Jharkhand,Jharkhand High Court,2020-11-02,Justice Kailash Prasad Deo,Regular,FALSE,FALSE,Rajesh Mandal,Male
+0704,Krishna Kumar Yadav @ Krishna Yadav vs The State Of Jharkhand,Jharkhand High Court,2020-11-03,Justice Kailash Prasad Deo,Regular,FALSE,FALSE,Krishna Kumar Yadav,Male
+0248,Jijo @Karumbuse vs State Of Kerala,Kerala High Court,2020-11-04,Justice Ashok Menon,Regular,FALSE,FALSE,Jijo @Karumbuse and Nino @ Naimar,Male
+0196,Kamireddy Shyam Naidu @ Shyam K Naidu vs The State Of Telangana And Another,Telangana High Court,2020-11-09,Justice K. Lakshman,Regular,TRUE,TRUE,Kamireddy Shyam Naidu @ Shyam K Naidu,Male
+0898,Jitendera Taneja vs State Of U.P. And Another,Allahabad High Court,2020-11-09,Justice Raj Beer Singh,Regular,TRUE,FALSE,Jitendera Taneja,Male
+0864,Shri Shivasharan S/O Venktraman vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2020-11-10,Justice Mohammad Nawaz,Anticipatory,FALSE,FALSE,Shri Shivasharan S/O Venktraman and Others,Male
+1183,Shobha Devi vs The State Of Bihar,Patna High Court,2020-11-10,Justice Prabhat Kumar Jha,Regular,FALSE,FALSE,Shobha Devi,Female
+0879,Nancy Phillips vs State Of U.P. And Another,Allahabad High Court,2020-11-17,Justice Saumitra Dayal Singh,Anticipatory,FALSE,FALSE,Nancy Phillips,Female
+0486,Mohammad Munir vs State Of Punjab And Others,Punjab and Haryana High Court,2020-11-23,Justice Sudhir Mittal,Regular,FALSE,FALSE,Shakila,Female
+1039,Shafidad Khan vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2020-11-23,Justice B.K. Shrivastava,Regular,FALSE,FALSE,Shafidad Khan,Male
+0063,Tijesh Mohare @ Lalu vs The State Of Madhya Pradesh,High Court of Madhya Pradesh,2020-11-27,Justice Vishal Dhagat,Regular,FALSE,FALSE,Tijesh Mohare @ Lalu,Male
+1024,Shakti Gupta vs The State Of Madhya Pradesh,Madhya Pradesh High Court (Jabalpur Bench),2020-12-02,Justice Mohammed Fahim Anwar,Regular,FALSE,FALSE,Shakti Gupta,Male
+1172,Amit Ray vs The State Of Bihar,Patna High Court,2020-12-04,Justice Prabhat Kumar Jha,Regular,FALSE,FALSE,Amit Ray,Male
+0155,Kulwant Rai @ Rana vs State Of Punjab,Punjab and Haryana High Court,2020-12-08,Justice Harinder Singh Sidhu,Regular,FALSE,FALSE,Kulwant Rai @ Rana,Male
+0239,Balram Singh vs State Of Himachal Pradesh,Himachal Pradesh High Court,2020-12-10,Justice Sandeep Sharma,Regular,FALSE,FALSE,Balram Singh,Male
+0865,Binder Singh vs State Of Himachal Pradesh,Himachal Pradesh High Court,2020-12-18,Justice Sandeep Sharma,Regular,FALSE,FALSE,"Binder Singh, Kaptan Singh, Mamta Devi, Leela Pati",Male
+0919,Ramiz Mohamahadbhai Ghanchi vs State Of Gujarat,Gujarat High Court,2020-12-24,Justice B.N. Karia,Regular,FALSE,FALSE,Ramiz Mohamahadbhai Ghanchi,Male
+1142,Ajay Kumar Pandey vs The Central Bureau Of Investigation,Patna High Court,2021-01-04,Justice Chakradhari Sharan Singh,Regular,FALSE,FALSE,Ajay Kumar Pandey,Male
+0846,Tanveer Alisaheb Kumbharikar And Anr vs The State Of Maharashtra,Bombay High Court,2021-01-18,Justice Saranga V. Kotwal,Anticipatory,FALSE,FALSE,Tanveer Alisaheb Kumbharikar and Tarbez Alisaheb Kumbharikar,Male
+0548,M. Sivasankar vs Union Of India,Kerala High Court,2021-01-25,Justice Ashok Menon,Regular,FALSE,FALSE,M. Sivasankar,Male
+0252,Mange Lal vs State Of U.P.,Allahabad High Court,2021-02-02,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Mange Lal,Male
+0186,Tabasum Gulnaj @ Shaboo @ Sona Khan vs The State Of Bihar,Patna High Court,2021-02-03,"Justice Ashwani Kumar Singh, Justice Arvind Srivastava",Regular,FALSE,FALSE,Tabasum Gulnaj @ Shaboo @ Sona Khan,Female
+1192,Azeez @ Gudda And Another vs State Of U.P.,Allahabad High Court,2021-02-03,Justice Pradeep Kumar Srivastava,Regular,FALSE,FALSE,Azeez @ Gudda and Sameem,Male
+1184,Mohd Rasool vs State Of U.P.,Allahabad High Court,2021-02-09,Justice Vivek Kumar Singh,Regular,FALSE,FALSE,Mohd Rasool,Male
+0055,Prashant Suryakant Date vs The State Of Maharashtra,Bombay High Court,2021-02-15,Justice Prakash D. Naik,Regular,FALSE,FALSE,Prashant Suryakant Date,Male
+0870,Rakesh Pannalal Jaiswal And Ors vs The State Of Maharashtra,Bombay High Court,2021-02-15,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Rakesh Pannalal Jaiswal and Ors,Male
+0685,Pasupati Mahato vs Smt. Rupali Mahato & Ors,Calcutta High Court,2021-02-19,Justice Jay Sengupta,Anticipatory,FALSE,FALSE,Pasupati Mahato,Male
+1170,Nawab Mohd vs State Of Punjab,Punjab and Haryana High Court,2021-02-22,Justice Arun Kumar Tyagi,Regular,FALSE,FALSE,Nawab Mohd.,Male
+0068,Charakonda Chinna Chennaiah vs The State Of Telangana,Telangana High Court,2021-02-23,"Justice A. Rajasheker Reddy, Justice Shameem Akther",Regular,FALSE,FALSE,Charagonda Uday Kiran @ Uday,Male
+0106,The National Investigation Agency vs Areeb Ejaz Majeed,Bombay High Court,2021-02-23,"Justice S.S. Shinde, Justice Manish Pitale",Regular,TRUE,FALSE,Areeb Ejaz Majeed,Male
+0930,Vikaraman vs Central Bureau Of Investigation,Kerala High Court,2021-02-23,Justice Ashok Menon,Regular,FALSE,FALSE,Vikaraman and 13 other named co-accused,Male
+1021,Viren Nitin Barne vs The State Of Maharashtra,Bombay High Court (Aurangabad Bench),2021-03-01,Justice Mangesh S. Patil,Anticipatory,FALSE,FALSE,Viren Nitin Barne,Male
+1027,Sarfaraz Gulam Akhtar Shaikh vs The State Of Maharashtra,Bombay High Court (Aurangabad Bench),2021-03-01,Justice Mangesh S. Patil,Anticipatory,FALSE,FALSE,Sarfaraz Gulam Akhtar Shaikh,Male
+0231,Srawan Kumar Kushwaha vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2021-03-04,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Srawan Kumar Kushwaha,Male
+1043,Salman Salim Gondalwala vs The State Of Maharashtra,Bombay High Court,2021-03-05,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Salman Salim Gondalwala,Male
+1030,Pratik Mahendra Mungekar vs The State Of Maharashtra,Bombay High Court,2021-03-11,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Pratik Mahendra Mungekar,Male
+0328,Edwin Emeka Igbokwe vs Narcotics Control Bureau,Delhi High Court,2021-03-15,Justice Subramonium Prasad,Regular,FALSE,TRUE,Edwin Emeka Igbokwe,Male
+0598,Md. Ekramul @ Md. Ekramul Haque vs The State Of Bihar,Patna High Court,2021-03-18,Justice Partha Sarthy,Anticipatory,FALSE,FALSE,Md. Ekramul @ Md. Ekramul Haque,Male
+0623,Mobin Ansari vs The State Of Jharkhand,Jharkhand High Court,2021-03-19,Justice Aparesh Kumar Singh,Anticipatory,FALSE,FALSE,Mobin Ansari,Male
+0574,Mam Chand @ Bhola Ram vs State Of Rajasthan,Rajasthan High Court (Jodhpur Bench),2021-03-22,Justice Sandeep Mehta,Regular,FALSE,FALSE,Mam Chand @ Bhola Ram,Male
+1048,Anilkumar vs State Of Kerala,Kerala High Court,2021-03-23,Justice Ashok Menon,Anticipatory,FALSE,FALSE,Anilkumar,Male
+0414,Deepak Virendra Kochhar vs Directorate Of Enforcement And Anr,Bombay High Court,2021-03-25,Justice Prakash D. Naik,Regular,FALSE,FALSE,Deepak Virendra Kochhar,Male
+0854,Sukhwinder Kumar vs The State Of Punjab,Supreme Court of India,2021-03-25,"Justice N.V. Ramana, Justice Aniruddha Bose",Anticipatory,FALSE,FALSE,Sukhwinder Kumar,Male
+0187,State Of Manipur vs Laishram Surjit Singh,Manipur High Court,2021-03-26,Justice Mv Muralidaran,Regular,TRUE,TRUE,Laishram Surjit Singh,Male
+0855,Adarsh Ashok Gupta vs The State Of Maharashtra,Bombay High Court,2021-03-30,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Adarsh Ashok Gupta,Male
+0054,Milind Ravindra Hindurao vs The State Of Maharashtra And Anr,Bombay High Court,2021-04-08,"Justice Manish Pitale, Justice S. S. Shinde",Anticipatory,FALSE,FALSE,Milind Ravindra Hindurao,Male
+1159,Smt. Chhaya Devi vs Union Of India And Another,Allahabad High Court,2021-04-13,Justice Subhash Chand,Regular,FALSE,FALSE,Smt. Chhaya Devi,Female
+0117,Thokchom Thai Singh vs The Officer-In-Charge,Manipur High Court,2021-04-15,Justice M.V. Muralidaran,Anticipatory,FALSE,FALSE,Thokchom Thai Singh,Male
+0032,Brahmprakash @ Brhamprakash Dalchand vs State Of Gujarat,Gujarat High Court,2021-04-20,Justice Gita Gopi,Anticipatory,FALSE,FALSE,Brahmprakash @ Brhamprakash Dalchand,Male
+0530,Banty vs State Of Haryana,Punjab and Haryana High Court,2021-04-22,Justice Avneesh Jhingan,Regular,FALSE,FALSE,Banty,Male
+0847,Saiful Ahmed vs The State Of Assam,Gauhati High Court,2021-04-22,Justice Ajit Borthakur,Anticipatory,FALSE,FALSE,Saiful Ahmed,Male
+0742,Sudha Singh vs The State Of Uttar Pradesh,Supreme Court of India,2021-04-23,"Justice S.A. Bobde, Justice A.S. Bopanna, Justice V. Ramasubramanian",Unknown,TRUE,TRUE,Not specified,Male
+0006,Hardeep Singh @ Dipi vs State Of Punjab,Punjab and Haryana High Court,2021-04-29,Justice Sudip Ahluwalia,Regular,FALSE,TRUE,Hardeep Singh @ Dipi,Male
+0253,Danish Khan vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2021-05-04,Justice Vishal Dhagat,Regular,FALSE,FALSE,Danish Khan,Male
+0014,Abdul Mohamed Shaikh @ Abdul Thane vs Union Of India And Anr,Bombay High Court,2021-05-05,Justice Prakash D. Naik,Regular,FALSE,TRUE,Abdul Mohamed Shaikh @ Abdul Thane,Male
+0122,Amey Rajesh Mestry vs The State Of Maharashtra,Bombay High Court,2021-05-05,Justice Prakash D. Naik,Regular,FALSE,FALSE,Amey Rajesh Mestry,Male
+0107,Vikram Vinay Bhave S/O Vinay Bhave vs The State Of Maharashtra And Anr,Bombay High Court,2021-05-06,"Justice S.S. Shinde, Justice Manish Pitale",Regular,FALSE,FALSE,Vikram Vinay Bhave,Male
+1077,Dharmendra @ Bhanja vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2021-05-06,Justice Sheel Nagu,Interim,FALSE,FALSE,Dharmendra @ Bhanja,Male
+0357,Pravin Manilal Thakker And Anr vs The State Of Maharashtra And Anr,Bombay High Court,2021-05-19,"Justice S.J. Kathawalla, Justice Surendra P. Tavade",Regular,FALSE,FALSE,Parth Pravin Thakker and Pranav Hasmukh Thakker,Male
+0135,Salman Khan vs State Of H.P,"Himachal Pradesh High Court, Shimla",2021-05-31,Justice Anoop Chitkara,Regular,FALSE,FALSE,Salman Khan,Male
+1115,Prakash Gurbaxani vs The Directorate Of Enforcement,Punjab and Haryana High Court,2021-06-02,Justice Deepak Sibal,Regular,FALSE,FALSE,Prakash Gurbaxani,Male
+1145,Mohammed Zain vs State By Bharathi Nagar P.S,Karnataka High Court,2021-06-04,Justice K. Natarajan,Regular,FALSE,FALSE,Mohammed Zain,Male
+0449,Jasu Ram @ Jassa Ram vs State Of Rajasthan,"Rajasthan High Court, Jodhpur Bench",2021-06-11,Justice Sandeep Mehta,Regular,FALSE,FALSE,Jasu Ram @ Jassa Ram,Male
+0479,Ramachandra N Kale S/O Nilakantappa vs State Of Karnataka,"Karnataka High Court, Dharwad Bench",2021-06-11,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Ramachandra N Kale,Male
+1131,Subash vs State Of Kerala,Kerala High Court,2021-06-18,Justice Ashok Menon,Anticipatory,FALSE,FALSE,Subash,Male
+0670,Jahangir Mian vs The State Of Jharkhand,Jharkhand High Court,2021-06-21,Justice Rongon Mukhopadhyay,Regular,FALSE,FALSE,Jahangir Mian,Male
+0105,Syed Adnaan vs State Of Karnataka,Karnataka High Court,2021-06-22,Justice S. Sunil Dutt Yadav,Regular,FALSE,FALSE,Syed Adnaan,Male
+0624,Upendra Singh @ Indal Singh vs State Of U.P.,Allahabad High Court,2021-06-24,Justice Sanjay Kumar Singh,Regular,FALSE,FALSE,Upendra Singh @ Indal Singh,Male
+0246,Aekanbhai Rupabhai @ Rupsinghbhai vs State Of Gujarat,Gujarat High Court,2021-06-25,Justice Umesh A. Trivedi,Regular,FALSE,FALSE,Aekanbhai Rupabhai @ Rupsinghbhai Dindor,Male
+0512,Usman vs State Of U.P.,Allahabad High Court,2021-06-29,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Usman,Male
+1167,Bablu Sharma vs The State Of Bihar,Patna High Court,2021-06-29,Justice Prabhat Kumar Singh,Regular,FALSE,FALSE,Bablu Sharma,Male
+1046,Purushottam Meena vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2021-07-07,Justice Virender Singh,Regular,FALSE,FALSE,Purushottam Meena,Male
+0511,Daljit Singh vs State Of Haryana,Punjab and Haryana High Court,2021-07-12,Justice Alka Sarin,Regular,FALSE,FALSE,Daljit Singh,Male
+0636,Vaseem Pasha vs State Of Karnataka,Karnataka High Court,2021-07-13,Justice K. Natarajan,Regular,FALSE,FALSE,Vaseem Pasha,Male
+0671,Rahul Keshari @ Rahul Keshri vs The State Of Jharkhand,Jharkhand High Court,2021-07-13,Justice Rongon Mukhopadhyay,Regular,FALSE,FALSE,Rahul Keshari @ Rahul Keshri,Male
+0657,Raju Mandal vs The State Of Jharkhand,Jharkhand High Court,2021-07-16,Justice Kailash Prasad Deo,Regular,FALSE,FALSE,Raju Mandal,Male
+1166,Santosh Jayram Bhagat vs The State Of Maharashtra,Bombay High Court,2021-07-17,Justice M.S. Karnik,Regular,FALSE,FALSE,Santosh Jayram Bhagat,Male
+0359,Salman Shah Jamil Ahmed Shah vs The State Of Maharashtra,Bombay High Court,2021-07-19,Justice Prakash D. Naik,Regular,FALSE,FALSE,Salman Shah Jamil Ahmed Shah,Male
+0013,Somesh Chaurasia vs State Of M.P.,Supreme Court of India,2021-07-22,"Justice D.Y. Chandrachud, Justice Hrishikesh Roy",Regular,TRUE,TRUE,Govind Singh,Male
+0643,Nafisa Shaikh vs The State Of Maharashtra,Bombay High Court,2021-07-23,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Nafisa Shaikh,Female
+0644,Yasin Mohd. Abdul Khan vs The State Of Maharashtra,Bombay High Court,2021-07-23,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Yasin Mohd. Abdul Khan,Male
+0750,Parveen Bazard@ Lara vs State (NCT Of Delhi),Delhi High Court,2021-07-26,Justice Anu Malhotra,Regular,FALSE,FALSE,Parveen Bazard @ Lara,Male
+1116,Sufija Begum vs The State,Delhi High Court,2021-07-26,Justice Mukta Gupta,Anticipatory,FALSE,FALSE,Sufija Begum,Female
+0195,Hublal Sonwani vs State Of Chhattisgarh,"Chhattisgarh High Court, Bilaspur",2021-07-27,Justice Gautam Chourdiya,Regular,FALSE,FALSE,Hublal Sonwani,Male
+0739,Vidya Bhushan Prasad vs The State Of Bihar,Patna High Court,2021-07-29,Justice Anjani Kumar Sharan,Regular,FALSE,FALSE,Vidya Bhushan Prasad,Male
+0597,Aarti Ranjeet Singh Alias Aarti I. vs The State Of Maharashtra And Anr,Bombay High Court,2021-07-30,Justice Prakash D. Naik,Regular,TRUE,FALSE,Not specified,Male
+1153,Smt. Anjani Mishra vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2021-07-30,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Smt. Anjani Mishra,Female
+0038,Sumit vs State Of U.P.,Allahabad High Court,2021-08-02,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Sumit,Male
+0749,Rajdeep Sharma vs State Of Himachal Pradesh,Himachal Pradesh High Court,2021-08-02,Justice Vivek Singh Thakur,Anticipatory,FALSE,FALSE,Rajdeep Sharma,Male
+0475,Munna Lal @ Ramprasad Chadar vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2021-08-03,Justice Virender Singh,Anticipatory,FALSE,FALSE,Munna Lal @ Ramprasad Chadar,Male
+1127,Mohsin Kalim Shaikh vs The State Of Maharashtra,Bombay High Court,2021-08-04,Justice Sarang V. Kotwal,Anticipatory,FALSE,FALSE,Mohsin Kalim Shaikh,Male
+0996,Sunil vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2021-08-05,Justice Shailendra Shukla,Anticipatory,FALSE,FALSE,Sunil S/o Kailash Kothari,Male
+1120,Guddu Thakur @ Guddu Sharma vs The State Of Bihar,Patna High Court,2021-08-06,Justice Prabhat Kumar Singh,Regular,FALSE,FALSE,Guddu Thakur @ Guddu Sharma,Male
+1134,Mohd. Salim Anjum Mansoori vs The State Of Maharashtra,Bombay High Court,2021-08-06,Justice Sarang V. Kotwal,Anticipatory,FALSE,FALSE,Mohd. Salim Anjum Mansoori,Male
+1168,Abhinav Kumar vs The State Of Bihar,Patna High Court,2021-08-11,Justice Rajeev Ranjan Prasad,Regular,FALSE,FALSE,Abhinav Kumar,Male
+0293,Pramod vs State Of U.P.,Allahabad High Court,2021-08-16,Justice Raj Beer Singh,Regular,FALSE,FALSE,Pramod,Male
+0338,Madan Lama vs Narcotics Control Bureau,Delhi High Court,2021-08-16,Justice Subramonium Prasad,Regular,FALSE,FALSE,Madan Lama,Male
+0527,Jairam vs State Of Rajasthan,"Rajasthan High Court, Jodhpur",2021-08-16,Justice Devendra Kachhawaha,Regular,FALSE,FALSE,Jairam,Male
+1146,Abdus Sattar Ahmed vs The State Of Assam,Gauhati High Court,2021-08-23,Justice Soumitra Saikia,Anticipatory,FALSE,FALSE,Abdus Sattar Ahmed,Male
+0174,Harjit Singh vs Inderpreet Singh @ Inder,Supreme Court of India,2021-08-24,"Justice M.R. Shah, Justice Dhananjaya Y. Chandrachud",Regular,TRUE,FALSE,Inderpreet Singh @ Inder,Male
+0280,Chandan @ Chandu Majhi vs Unknown,Calcutta High Court,2021-08-25,"Justice Harish Tandon, Justice Bibek Chaudhuri",Regular,FALSE,FALSE,Chandan @ Chandu Majhi,Male
+0490,Pooja Mahesh Shettiyar vs The State Of Maharashtra,Bombay High Court,2021-08-27,Justice Sandeep K. Shinde,Regular,FALSE,FALSE,Pooja Mahesh Shettiyar,Female
+0152,"Duddu Lazar, Prakasam Dt 9 Others vs The State Of A.P. Rep P.P.",Andhra Pradesh High Court,2021-09-02,Justice C. Praveen Kumar and B. Krishna Mohan,Regular,FALSE,FALSE,"Duddu Lazar and Others (A-1, A-2, A-3, A-4 & A-12)",Male
+0033,Manishbhai Dahyabhai Makwana vs State Of Gujarat,Gujarat High Court,2021-09-03,Justice Vipul M. Pancholi,Anticipatory,FALSE,FALSE,Manishbhai Dahyabhai Makwana,Male
+1169,Rubi Khata vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2021-09-09,Justice Gurpal Singh Ahluwalia,Regular,FALSE,FALSE,Rubi Khata,Female
+0866,Nikhil Rajendra Chandarana vs The State Of Maharashtra,Bombay High Court,2021-09-13,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Nikhil Rajendra Chandarana,Male
+0258,Gaurav vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2021-09-17,Justice Rajeev Kumar Shrivastava,Regular,FALSE,FALSE,Gaurav,Male
+0972,Karthik @ Ullalu Karthik vs Commissioner Of Police,Karnataka High Court,2021-09-20,Justice Satish Chandra Sharma and Sachin Shankar Magadum,Regular,FALSE,FALSE,Karthik @ Ullalu Karthik,Male
+1099,Vinay Kumar Tiwari vs State Of U.P.,Allahabad High Court,2021-09-21,Justice Pradeep Kumar Srivastava,Regular,FALSE,FALSE,Vinay Kumar Tiwari,Male
+0093,Prashant Singh Rajput vs The State Of Madhya Pradesh,Supreme Court of India,2021-10-08,"Justice D.Y. Chandrachud, Justice B.V. Nagarathna",Anticipatory,TRUE,TRUE,Jogendra Singh and Suryabhan Singh,Male
+0333,Abul Kalam @ Sultan vs State (NCT Of Delhi),Delhi High Court,2021-10-21,Justice Subramonium Prasad,Regular,FALSE,FALSE,Abul Kalam @ Sultan,Male
+1123,Pradeep Kumar Chouhan vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Indore Bench",2021-10-22,Justice Vivek Rusia,Regular,FALSE,FALSE,Pradeep Kumar Chouhan,Male
+0049,"Akash Dilip More vs The State Of Maharashtra, Thr Pso Ps","Bombay High Court, Nagpur Bench",2021-10-27,"Justice M.S. Sonak, Justice Pushpa V. Ganediwala",Regular,FALSE,FALSE,Akash Dilip More,Male
+0042,Ghurwa vs State Of Chhattisgarh,High Court of Chhattisgarh,2021-11-01,Justice Narendra Kumar Vyas,Regular,FALSE,FALSE,Ghurwa,Male
+0417,Mohammed Ali vs National Investigation Agency,Kerala High Court,2021-11-02,Justice K. Vinod Chandran and C. Jayachandran,Regular,FALSE,TRUE,Mohammed Ali,Male
+0602,Abdul Latheef vs State Of Kerala,Kerala High Court,2021-11-03,Justice P. Gopinath,Regular,FALSE,FALSE,Abdul Latheef,Male
+0121,Sri Yarab Pasha vs State,Karnataka High Court,2021-11-09,Justice K. Natarajan,Anticipatory,FALSE,FALSE,Sri Yarab Pasha,Male
+0222,Dharmendra Singh vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2021-11-09,Justice Anand Pathak,Regular,FALSE,FALSE,Dharmendra Singh,Male
+0428,Ankur vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2021-11-10,Justice Satyendra Kumar Singh,Regular,FALSE,FALSE,Ankur,Male
+0562,Md Enamul Haque vs Central Bureau Of Investigation,Calcutta High Court,2021-11-11,Justice Arijit Banerjee and Justice Bivas Pattanayak,Regular,FALSE,FALSE,Md Enamul Haque,Male
+0247,Shivam Singh vs State Of Chhattisgarh,"Chhattisgarh High Court, Bilaspur",2021-11-22,Justice N.K. Chandravanshi,Anticipatory,FALSE,FALSE,Shivam Singh and Others,Male
+0703,Brayan Bogonko S/O Philip vs The State Of Karnataka,Karnataka High Court (Dharwad Bench),2021-11-24,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Brayan Bogonko,Male
+0515,Mr. Rohim S/O Imtiyaz Kagji vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2021-11-29,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Mr. Rohim S/O Imtiyaz Kagji,Male
+0324,Narendra Prajapati vs Union Of India,"Madhya Pradesh High Court, Jabalpur Bench",2021-11-30,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Narendra Prajapati,Male
+1158,Sidharth Chauhan vs State Govt Of NCT Delhi Through SHO,Delhi High Court,2021-12-13,Justice Manoj Kumar Ohri,Anticipatory,FALSE,FALSE,Sidharth Chauhan,Male
+0210,Smt. Roopini S @ Roopa vs State Of Karnataka,"Karnataka High Court, Bengaluru",2021-12-14,Justice K. Natarajan,Anticipatory,FALSE,FALSE,Smt. Roopini S @ Roopa,Female
+0273,Jacob Imanual Shivapur vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2021-12-20,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Jacob Imanual Shivapur,Male
+0158,Atul Aggarwal vs Directorate Of Revenue Intelligence,Delhi High Court,2021-12-21,Justice Subramonium Prasad,Regular,FALSE,FALSE,Atul Aggarwal,Male
+1139,Ramkrishna Mishra vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2021-12-21,Justice Rajeev Kumar Dubey,Regular,FALSE,FALSE,Ramkrishna Mishra,Male
+0065,The State Of Tripura vs Ashak Miah,High Court of Tripura,2021-12-22,Justice S.G. Chattopadhyay,Anticipatory,TRUE,FALSE,Ashak Miah,Male
+0637,Mukul Kumar vs The State Of Bihar,Patna High Court,2021-12-23,Justice Satyavrat Verma,Regular,FALSE,FALSE,Mukul Kumar,Male
+0345,Vijay vs State (NCT Of Delhi),Delhi High Court,2022-01-04,Justice Mukta Gupta,Regular,FALSE,FALSE,Vijay,Male
+0873,Munindra Kumar vs The State Of Bihar,Patna High Court,2022-01-06,Justice Ashutosh Kumar,Anticipatory,FALSE,FALSE,Munindra Kumar,Male
+0034,Shambhu Pandey vs The State Of Bihar,Patna High Court,2022-01-10,Justice Satyavrat Verma,Regular,FALSE,FALSE,Shambhu Pandey,Male
+1028,Santosh Medhe vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2022-01-11,Justice Virender Singh,Regular,FALSE,FALSE,Santosh Medhe,Male
+1129,Sunil Kumar vs State Of Kerala,Kerala High Court,2022-01-13,Justice P. Gopinath,Anticipatory,FALSE,FALSE,Sunil Kumar,Male
+0451,Saji. P vs State Of Kerala,Kerala High Court,2022-01-14,Justice P. Gopinath,Anticipatory,FALSE,FALSE,Saji. P and others,Male
+0633,Mukesh Mandal vs The State Of Jharkhand,Jharkhand High Court,2022-01-17,Justice Ambuj Nath,Regular,FALSE,FALSE,Mukesh Mandal,Male
+1173,Ikramul @ Md Ekramul Haque vs The State Of Bihar,Patna High Court,2022-01-17,Justice Sudhir Singh,Anticipatory,FALSE,FALSE,Ikramul @ Md Ekramul Haque,Male
+0606,Afshar Ali vs State Of Punjab,Punjab and Haryana High Court,2022-01-18,Justice Alka Sarin,Regular,FALSE,FALSE,Afshar Ali,Male
+0607,Ataul Ansari @ Atul Ansari vs State Of Punjab,Punjab and Haryana High Court,2022-01-18,Justice Alka Sarin,Regular,FALSE,FALSE,Ataul Ansari @ Atul Ansari,Male
+0209,Smt. Krishna Tiwari vs State Of Chhattisgarh,"Chhattisgarh High Court, Bilaspur",2022-01-20,Justice Parth Prateem Sahu,Anticipatory,FALSE,FALSE,Smt. Krishna Tiwari,Female
+0225,Bhagwan Singh vs State Of Chhattisgarh,"Chhattisgarh High Court, Bilaspur",2022-01-24,Justice Parth Prateem Sahu,Anticipatory,FALSE,FALSE,Bhagwan Singh,Male
+0332,Muhsin Ali vs Narcotics Control Bureau,Delhi High Court,2022-01-25,Justice Chandra Dhari Singh,Regular,FALSE,TRUE,Muhsin Ali,Male
+0702,Rounak Kumar Bansal vs State,Delhi High Court,2022-01-28,Justice Mukta Gupta,Regular,FALSE,FALSE,Rounak Kumar Bansal,Male
+1130,Atanu Mondal vs Unknown,Calcutta High Court,2022-01-28,"Justice Sugato Majumdar, Justice Tapabrata Chakraborty",Anticipatory,FALSE,FALSE,Atanu Mondal,Male
+1162,Sujay U. Desai vs Serious Fraud Investigation Office,Allahabad High Court,2022-01-28,Justice Shekhar Kumar Yadav,Regular,FALSE,FALSE,Sujay U. Desai,Male
+0051,Navinkumar Pandu Jatot vs The State Of Maharashtra,Bombay High Court,2022-01-31,Justice Prakash D. Naik,Regular,FALSE,TRUE,Navinkumar Pandu Jatot,Male
+0897,Abhilasha Prajapati vs Union Of India,"Madhya Pradesh High Court, Jabalpur Bench",2022-01-31,Justice Rajeev Kumar Dubey,Anticipatory,FALSE,FALSE,Abhilasha Prajapati,Female
+0291,Umesh Paswan vs The State Of Bihar,Patna High Court,2022-02-01,"Justice Ashwani Kumar Singh, Justice Rajeev Ranjan Prasad",Regular,FALSE,FALSE,Umesh Paswan,Male
+0740,"Shaik Mubaraq, Chittoor Dt Anr. vs The SHO, Mydukur U/G PS, Thr State Of A.P.",Andhra Pradesh High Court,2022-02-04,Justice C. Praveen Kumar and Ravi Nath Tilhari,Regular,FALSE,FALSE,Shaik Mubaraq,Male
+0899,Sri Anup Kiran vs The State Of Karnataka,Karnataka High Court,2022-02-15,Justice H.P. Sandesh,Anticipatory,FALSE,FALSE,Sri Anup Kiran,Male
+1152,K.P. Singh Chouhan vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Indore Bench",2022-02-22,Justice Rajendra Kumar Verma,Anticipatory,FALSE,FALSE,K.P. Singh Chouhan,Male
+0432,Adarsh Singh Rajawat Adarsh Golu vs The State Of A.P.,Andhra Pradesh High Court,2022-02-25,Justice C. Praveen Kumar and Dr. K. Manmadha Rao,Regular,FALSE,FALSE,Adarsh Singh Rajawat,Male
+0202,Pratik Vireshbhai Vavadia vs The State Of Gujarat,Gujarat High Court,2022-02-28,Justice Ilesh J. Vora,Anticipatory,FALSE,FALSE,Pratik Vireshbhai Vavadia,Male
+0516,Pratik Vireshbhai Vavadia vs The State Of Gujarat,Gujarat High Court,2022-02-28,Justice Ilesh J. Vora,Anticipatory,FALSE,FALSE,Pratik Vireshbhai Vavadia,Male
+1135,Harpreet Singh @ Gori vs State Of Punjab,Punjab and Haryana High Court,2022-02-28,Justice Karamjit Singh,Regular,FALSE,FALSE,Harpreet Singh @ Gori,Male
+0801,Bhunesh vs State Of Haryana,Punjab and Haryana High Court,2022-03-04,Justice Vikas Bahl,Anticipatory,FALSE,FALSE,Bhunesh,Male
+1147,Dharam Singh vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2022-03-08,Justice Sanjay Dwivedi,Regular,FALSE,FALSE,Dharam Singh,Male
+1171,Shally Sharma vs State Of Punjab,Punjab and Haryana High Court,2022-03-10,Justice Jasgurpreet Singh Puri,Regular,FALSE,FALSE,Shally Sharma,Female
+0179,Kulwant Singh @ Sajan vs State Of Punjab,Punjab and Haryana High Court,2022-03-11,Justice Jasgurpreet Singh Puri,Regular,FALSE,TRUE,Kulwant Singh @ Sajan,Male
+1157,Christian Michel James vs Directorate Of Enforcement,Delhi High Court,2022-03-11,Justice Manoj Kumar Ohri,Regular,FALSE,FALSE,Christian Michel James,Male
+0136,Shri Munshi Ram vs State Of Uttar Pradesh & Anr.,"Himachal Pradesh High Court, Shimla",2022-03-16,Justice Sandeep Sharma,Regular,FALSE,FALSE,Shivam Randhawa,Male
+0041,Md Ahamadulla Hossain @ Ahammed Sk vs Unknown,Calcutta High Court,2022-03-21,"Justice Debangsu Basak, Justice Bibhas Ranjan De",Anticipatory,FALSE,FALSE,Md Ahamadulla Hossain @ Ahammed Sk,Male
+0355,Zainabi Fakir Mohammed Khan vs The State Of Maharashtra,Bombay High Court,2022-03-21,Justice Anuja Prabhudessai,Regular,FALSE,FALSE,Zainabi Fakir Mohammed Khan,Female
+0183,Ashish Kumar @ Pintoo vs State,Delhi High Court,2022-03-25,Justice Prateek Jalan,Regular,FALSE,FALSE,Ashish Kumar @ Pintoo,Male
+0471,Ashish Kumar @ Pintoo vs State,Delhi High Court,2022-03-25,Justice Prateek Jalan,Regular,FALSE,FALSE,Ashish Kumar @ Pintoo,Male
+0419,Mohamed Shariff vs National Investigating Agency,Karnataka High Court,2022-03-30,Justice B. Veerappa and S. Rachaiah,Regular,FALSE,FALSE,Mohamed Shariff,Male
+0736,Khadam Hussain vs Union Territory Of J & K & Anr,Jammu & Kashmir and Ladakh High Court,2022-04-01,Justice M.A. Chowdhary,Regular,FALSE,FALSE,Khadam Hussain,Male
+0499,Smt. Pushpa Devi vs State Of U.P.,Allahabad High Court,2022-04-04,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Smt. Pushpa Devi,Female
+1007,Mallada K. Sri Ram vs The State Of Telangana,Supreme Court of India,2022-04-04,"Justice D.Y. Chandrachud, Justice Surya Kant",Regular,FALSE,TRUE,Mallada K. Sri Ram,Male
+0889,Sangeeta Sharma vs Union Of India,"Madhya Pradesh High Court, Jabalpur Bench",2022-04-07,Justice Rajeev Kumar Dubey,Anticipatory,FALSE,FALSE,Sangeeta Sharma,Female
+1181,Sanjay Agarwal vs The Directorate Of Enforcement,Calcutta High Court,2022-04-13,Justice Bibek Chaudhuri,Regular,FALSE,TRUE,Sanjay Agarwal,Male
+0503,Smt. Meghna Agarwal vs Smt. Manju Bagadiya,"Madhya Pradesh High Court, Gwalior Bench",2022-04-19,Justice Gurpal Singh Ahluwalia,Anticipatory,TRUE,FALSE,Smt. Manju Bagadiya and another,Female
+1029,Rubeena Khatoon vs The State Of Telangana,Telangana High Court,2022-04-20,"Justice Shameem Akther, Justice Juvvadi Sridevi",Regular,FALSE,FALSE,Mohammed Nizamuddin @ Nizam @ Sarkar,Male
+0323,Gurpreet Singh @ Gopi @ Panch vs State Of Punjab,Punjab and Haryana High Court,2022-04-28,Justice Vikas Bahl,Regular,FALSE,FALSE,Gurpreet Singh @ Gopi @ Panch,Male
+0752,Ajay Jain vs State Of Chhattisgarh,Chhattisgarh High Court,2022-05-04,Justice Sanjay K. Agrawal and Rajani Dubey,Regular,FALSE,FALSE,Ajay Jain,Male
+0615,Anmol Madhukar Divekar vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2022-05-06,Justice Vibha Kankanwadi,Anticipatory,FALSE,TRUE,Anmol Madhukar Divekar,Male
+0506,Smt. Rajansri vs State Of U.P.,Allahabad High Court,2022-05-09,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Smt. Rajansri,Female
+0509,Ram Dular vs State Of U.P.,Allahabad High Court,2022-05-09,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Ram Dular,Male
+0586,Santosh Paswan vs The State Of Bihar,Patna High Court,2022-05-09,Justice Prabhat Kumar Singh,Regular,FALSE,FALSE,Santosh Paswan,Male
+0048,Talib vs State Of U.P. And 3 Others,High Court of Judicature at Allahabad,2022-05-16,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Talib,Male
+0507,Kanhaiya Lal vs State Of U.P.,Allahabad High Court,2022-05-17,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Kanhaiya Lal,Male
+0030,Morasiya Kalubhai Rambhai vs State Of Gujarat,Gujarat High Court,2022-05-19,Justice Samir J. Dave,Anticipatory,FALSE,FALSE,Morasiya Kalubhai Rambhai,Male
+0478,Munna Lal vs State Of U.P.,Allahabad High Court,2022-05-19,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Munna Lal,Male
+0208,Mridu Bagadia vs State,"Rajasthan High Court, Jodhpur Bench",2022-05-20,Justice Manoj Kumar Garg,Anticipatory,FALSE,FALSE,Mridu Bagadia,Female
+0523,Amaresh S/O Veeresh Karabadinni vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-05-23,Justice K. Natarajan,Regular,FALSE,FALSE,Amaresh S/O Veeresh Karabadinni,Male
+1052,"Amit Ranjan vs Narcotics Control Bureau, Delhi",Delhi High Court,2022-05-23,Justice Anu Malhotra,Regular,FALSE,FALSE,Amit Ranjan,Male
+0279,Sri. Santosh S/O. Nandu Bosle vs State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-05-24,Justice K. Natarajan,Regular,FALSE,FALSE,Sri. Santosh S/O. Nandu Bosle,Male
+0192,Smt. Gulnaj W/O Liyaqat Alikhan Alias vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-05-25,Justice K. Natarajan,Regular,FALSE,FALSE,Smt. Gulnaj,Female
+0238,Santosh Rawat vs State Of U.P.,Allahabad High Court,2022-05-27,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Santosh Rawat,Male
+1000,Manaram vs State,Rajasthan High Court (Jodhpur Bench),2022-05-27,"Justice Sandeep Mehta, Justice Vinod Kumar Bharwani",Regular,FALSE,FALSE,Manaram,Male
+0505,Maya Devi vs State Of U.P.,Allahabad High Court,2022-05-31,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Maya Devi,Female
+1055,Ebera Nwanaforo vs Narcotics Control Bureau,Delhi High Court,2022-05-31,Justice Anu Malhotra,Regular,FALSE,FALSE,Ebera Nwanaforo,Male
+0502,Smt. Sunita @ Satto vs State Of U.P.,Allahabad High Court,2022-06-03,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Smt. Sunita @ Satto,Female
+0552,Shabna Abdulla vs The Union Of India,Kerala High Court,2022-06-03,Justice A.K. Jayasankaran Nambiar and Justice Mohammed Nias C.P.,Regular,FALSE,TRUE,Shabna Abdulla,Female
+0557,Nushath Koyamu vs The Union Of India,Kerala High Court,2022-06-03,Justice A.K. Jayasankaran Nambiar and Justice Mohammed Nias C.P.,Regular,FALSE,TRUE,Nushath Koyamu,Female
+0047,Sameer Pachauri vs State Of U.P. And 3 Others,High Court of Judicature at Allahabad,2022-06-07,Justice Sanjay Kumar Pachori,Regular,FALSE,FALSE,Sameer Pachauri,Male
+0609,Ashutosh Jaiswal vs State Of U.P.,Allahabad High Court,2022-06-07,Justice Ajay Bhanot,Interim,FALSE,FALSE,Ashutosh Jaiswal,Male
+0461,Ashok S/O Tippanna Sannakki vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-06-08,Justice K. Natarajan,Regular,FALSE,FALSE,Ashok S/O Tippanna Sannakki,Male
+0631,Chandan Kumar Das vs The State Of Jharkhand,Jharkhand High Court,2022-06-08,Justice Rajesh Kumar,Regular,FALSE,FALSE,Chandan Kumar Das,Male
+0632,Santosh Mahra vs The State Of Jharkhand,Jharkhand High Court,2022-06-08,Justice Rajesh Kumar,Regular,FALSE,FALSE,Santosh Mahra,Male
+1155,Praveen Kumar Agarwal vs Central Bureau Of Investigation,Delhi High Court,2022-06-13,Justice Prateek Jalan,Regular,FALSE,FALSE,Praveen Kumar Agarwal,Male
+0214,Ashok S/O Yenkappa Lamani vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-06-14,Justice K. Natarajan,Anticipatory,FALSE,FALSE,Ashok S/O Yenkappa Lamani,Male
+1113,Manoj Chaudhary vs The State Of Bihar,Patna High Court,2022-06-16,Justice Purnendu Singh,Regular,FALSE,FALSE,Manoj Chaudhary,Male
+0350,Nanda Manjunath vs State Of Karnataka,"Karnataka High Court, Bengaluru",2022-06-17,Justice H.P. Sandesh,Anticipatory,FALSE,FALSE,Nanda Manjunath,Female
+0130,Manjunath S/O Shekaragouda vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-06-20,Justice K. Natarajan,Regular,FALSE,FALSE,Manjunath,Male
+1112,Sanjay Yadav @ Prince Kumar vs The State Of Bihar,Patna High Court,2022-06-21,Justice Alok Kumar Pandey,Regular,FALSE,FALSE,Sanjay Yadav @ Prince Kumar,Male
+0244,Golu @ Goldi vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Indore Bench",2022-06-22,"Justice Subodh Abhyankar, Justice Satyendra Kumar Singh",Regular,FALSE,FALSE,Golu @ Goldi,Male
+0438,Abhimanyu Kumar @ Abhimanyu Kumar Singh vs The State Of Bihar,Patna High Court,2022-06-22,Justice Rajesh Kumar Verma,Regular,FALSE,FALSE,Abhimanyu Kumar @ Abhimanyu Kumar Singh,Male
+1091,Shaik Nazneen vs The State Of Telangana,Supreme Court of India,2022-06-22,Justice C.T. Ravikumar and Sudhanshu Dhulia,Not applicable,FALSE,TRUE,Not specified,Male
+0613,Sonu Gothwal vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Indore Bench",2022-06-27,Justice Anil Verma,Anticipatory,FALSE,FALSE,Sonu Gothwal,Female
+1161,Shiv Lingam vs The State And Anr,Delhi High Court,2022-07-04,Justice Anoop Kumar Mendiratta,Regular,TRUE,FALSE,Shiv Lingam,Male
+0423,Chetan Singh vs State Of Rajasthan,Rajasthan High Court,2022-07-08,Justice Manoj Kumar Garg,Regular,FALSE,FALSE,Chetan Singh,Male
+0007,Bharath Kumar R @ Bande @ Bharath vs The State Of Karnataka,Karnataka High Court,2022-07-11,Justice K. Natarajan,Regular,FALSE,FALSE,Bharath Kumar R @ Bande @ Bharath,Male
+1010,Varakala Narsimha @ Cherpata Narsimha vs The State Of Telangana And 2 Others,Telangana High Court,2022-07-12,"Justice Shameem Akther, Justice N. Tukaramji",Regular,FALSE,FALSE,Varakala Narsimha @ Cherpata Narsimha,Male
+0775,Ajit Kumar Thakur vs Union Of India Through National Investigation Agency,Jharkhand High Court,2022-07-13,Justice Rongon Mukhopadhyay and Rajesh Kumar,Regular,FALSE,FALSE,Ajit Kumar Thakur,Male
+1036,Anokhilal vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2022-07-13,Justice Pranay Verma,Anticipatory,FALSE,FALSE,Anokhilal,Male
+1041,Shivam Kumar vs The State Of Bihar,Patna High Court,2022-07-13,Justice Harish Kumar,Regular,FALSE,FALSE,Shivam Kumar,Male
+0071,Kotari Amboji vs State Of Telangana,Telangana High Court,2022-07-18,"Justice Shameem Akther, Justice N. Tukaramji",Regular,FALSE,TRUE,Kotari Amboji,Male
+1128,Hitesh S/O Sh. Manoj Kumar vs The State Of Rajasthan,"Rajasthan High Court, Jaipur Bench",2022-07-19,Justice Sameer Jain,Anticipatory,FALSE,FALSE,Hitesh,Male
+1020,Sri Chethan Kumar vs State Of Karnataka,Karnataka High Court,2022-07-22,Justice H.P. Sandesh,Anticipatory,FALSE,FALSE,Sri Chethan Kumar,Male
+0277,Sunil vs State Of U.P.,Allahabad High Court,2022-07-25,Justice Siddharth,Regular,FALSE,FALSE,Sunil,Male
+0591,Usha vs State Of U.P.,Allahabad High Court,2022-08-03,Justice Siddharth,Regular,FALSE,FALSE,Usha,Female
+0756,Bindeshwar Ganjhu @ Bindu Ganjhu vs The Union Of India Through NIA,Jharkhand High Court,2022-08-04,Justice Rongon Mukhopadhyay and Ambuj Nath,Regular,FALSE,FALSE,Bindeshwar Ganjhu @ Bindu Ganjhu,Male
+0459,Vimla Devi vs State Of U.P Through Secretary Home,Allahabad High Court,2022-08-06,Justice Siddharth,Regular,FALSE,FALSE,Vimla Devi,Female
+1109,Lovely vs State Of U.P.,Allahabad High Court,2022-08-10,Justice Ajit Singh,Regular,FALSE,FALSE,Lovely,Female
+0955,Shiban Shafi Shaikh vs The State Of Maharashtra,Bombay High Court,2022-08-11,Justice N.J. Jamadar,Regular,FALSE,FALSE,Shiban Shafi Shaikh,Male
+1163,Ram Nath Baid @ Gulla vs The State Of Jharkhand,Jharkhand High Court,2022-08-11,Justice Sanjay Prasad,Regular,FALSE,FALSE,Ram Nath Baid @ Gulla,Male
+0353,Novafor Samuel Inoamaobi vs The State Of Maharashtra,Bombay High Court,2022-08-12,Justice Bharati Dangre,Regular,FALSE,TRUE,Novafor Samuel Inoamaobi,Male
+0484,"Hukam Chand And Another vs State Of UT, Chandigarh",Punjab and Haryana High Court,2022-08-17,Justice Rajesh Bhardwaj,Anticipatory,FALSE,FALSE,Hukam Chand and another (parents-in-law of complainant),Male
+0276,Azad vs State,"Rajasthan High Court, Jodhpur Bench",2022-08-18,Justice Manoj Kumar Garg,Regular,FALSE,FALSE,Azad,Male
+0583,Gita Kaibartha vs The State Of Assam,Gauhati High Court,2022-08-18,Justice Kalyan Rai Surana,Anticipatory,FALSE,FALSE,Gita Kaibartha,Female
+0563,Chandan Sahni vs The State Of Bihar,Patna High Court,2022-08-23,Justice Arun Kumar Jha,Regular,FALSE,FALSE,Chandan Sahni,Male
+0267,Mohammed Ashik vs The State,"Karnataka High Court, Bengaluru",2022-08-26,Justice K. Natarajan,Regular,FALSE,FALSE,Mohammed Ashik and Isaak @ Icchu Jaffar Sadik,Male
+1165,Sumit Kumar vs The State Of Jharkhand,Jharkhand High Court,2022-08-29,Justice Pradeep Kumar Srivastava,Regular,FALSE,FALSE,Sumit Kumar,Male
+0454,Smt. Pinki vs State Of U.P.,Allahabad High Court,2022-08-30,Justice Sadhna Rani (Thakur),Regular,FALSE,FALSE,Smt. Pinki,Female
+0569,Poonam Devi vs State Of U.P.,Allahabad High Court,2022-09-05,Justice Manish Mathur,Regular,FALSE,FALSE,Poonam Devi,Female
+0168,Rashidul Jafar @ Chota vs The State Of Uttar Pradesh,Supreme Court of India,2022-09-06,"Justice D.Y. Chandrachud, Justice Hima Kohli",Interim,FALSE,TRUE,Rashidul Jafar @ Chota,Male
+1015,M Vinod Kumar vs State Of Karnataka By,Karnataka High Court,2022-09-06,Justice K. Natarajan,Regular,FALSE,FALSE,M Vinod Kumar,Male
+0571,Sukhdev Singh @ Sukha vs State Of Punjab,Punjab and Haryana High Court,2022-09-09,Justice Harnaresh Singh Gill,Regular,FALSE,FALSE,Sukhdev Singh @ Sukha,Male
+0207,Jagadish S/O Devendrappa Totnalli vs State Through Kurkunta P.S,"Karnataka High Court, Kalaburagi Bench",2022-09-12,Justice P.N. Desai,Regular,FALSE,FALSE,Jagadish S/O Devendrappa Totnalli,Male
+0434,Singrai Soren vs National Investigation Agency,Jharkhand High Court,2022-09-12,Justice Rongon Mukhopadhyay and Ambuj Nath,Regular,FALSE,FALSE,Singrai Soren,Male
+1110,Rakesh Babu Dohrey vs State Of U.P.,Allahabad High Court,2022-09-12,Justice Sadhna Rani (Thakur),Regular,FALSE,FALSE,Rakesh Babu Dohrey,Male
+0270,Javid Ahmad Shah vs Union Territory Of J&K Through SHO P/S Pulwama,"Jammu & Kashmir and Ladakh High Court, Srinagar Bench",2022-09-13,"Justice Ali Mohammad Magrey, Justice Md. Akram Chowdhary",Regular,FALSE,FALSE,Javid Ahmad Shah,Male
+0272,Altaf S/O Kutabuddin Ainapur vs The State Of Karnataka,"Karnataka High Court, Kalaburagi Bench",2022-09-13,Justice P.N. Desai,Regular,FALSE,FALSE,Altaf S/O Kutabuddin Ainapur,Male
+0918,Harjit Kaur vs State Of Punjab,Punjab and Haryana High Court,2022-09-13,Justice Anoop Chitkara,Regular,FALSE,FALSE,Harjit Kaur,Female
+0528,Saroj Devi vs State Of U.P. And Another,Allahabad High Court,2022-09-19,Justice Raj Beer Singh,Anticipatory,FALSE,FALSE,Saroj Devi,Female
+0403,Sumit Kumar vs State Of Delhi,Delhi High Court,2022-09-21,Justice Talwant Singh,Regular,FALSE,FALSE,Sumit Kumar,Male
+0469,Sumit Kumar vs State Of Delhi,Delhi High Court,2022-09-21,Justice Talwant Singh,Regular,FALSE,FALSE,Sumit Kumar,Male
+0501,Chandrashekhar S/O Basappa vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-09-21,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Chandrashekhar S/O Basappa Kuruvinakoppa,Male
+0726,Sumit Kumar vs State Of Delhi,Delhi High Court,2022-09-21,Justice Talwant Singh,Regular,FALSE,FALSE,Sumit Kumar,Male
+1004,Sandeep Kumar Mehta vs State Of Uttar Pradesh & Anr,Himachal Pradesh High Court,2022-09-22,Justice Sandeep Sharma,Regular,FALSE,FALSE,Sandeep Kumar Mehta,Male
+0589,Jitu @ Jitendra Soni vs The State Of Madhya Pradesh,Madhya Pradesh High Court (Indore Bench),2022-09-26,Justice Vivek Rusia,Regular,FALSE,FALSE,Jitu @ Jitendra Soni,Male
+0917,Sukha Singh @ Bhushi vs State Of Punjab,Punjab and Haryana High Court,2022-09-26,Justice Anoop Chitkara,Regular,FALSE,FALSE,Sukha Singh @ Bhushi,Male
+1012,Sandip Prasad vs State Of Jharkhand Through ATS,Jharkhand High Court,2022-09-26,"Justice Rongon Mukhopadhyay, Justice Ambuj Nath",Regular,FALSE,FALSE,Sandip Prasad,Male
+0320,Sudhir Sharma vs The State Of Bihar,Patna High Court,2022-09-27,Justice Chandra Shekhar Jha,Regular,FALSE,FALSE,Sudhir Sharma,Male
+0321,Ujjwal Kumar @ Ujjawal Jordan vs The State Of Bihar,Patna High Court,2022-09-27,Justice Chandra Shekhar Jha,Regular,FALSE,FALSE,Ujjwal Kumar @ Ujjawal Jordan,Male
+0737,Satnam Singh vs State Of Punjab,Punjab and Haryana High Court,2022-09-27,Justice Anoop Chitkara,Regular,FALSE,FALSE,Satnam Singh,Male
+0916,Vishal vs State Of Punjab,Punjab and Haryana High Court,2022-09-28,Justice Anoop Chitkara,Regular,FALSE,FALSE,Vishal,Male
+0352,Smt. Mangeethadevi vs State,"Karnataka High Court, Bengaluru",2022-09-29,Justice K. Natarajan,Regular,FALSE,FALSE,Smt. Mangeethadevi,Female
+0028,Khundongbam Joychandra Meitei vs The Officer-In-Charge,Manipur High Court,2022-10-10,Justice M.V. Muralidaran,Anticipatory,FALSE,FALSE,Khundongbam Joychandra Meitei,Male
+0219,Smt. Seethamma vs State By Subramanya Police Station,"Karnataka High Court, Bengaluru",2022-10-10,Justice Rajendra Badamikar,Anticipatory,FALSE,FALSE,"Smt. Seethamma, Sri Jayaprakash, Smt. Nishmitha B K",Female
+1058,Maninder Singh Alias Mani vs National Investigation Agency,Punjab and Haryana High Court,2022-10-12,Justice G.S. Sandhawalia and Jagmohan Bansal,Regular,FALSE,FALSE,Maninder Singh Alias Mani,Male
+0354,Davinderjit Kaur @ Aman vs State Of Punjab,Punjab and Haryana High Court,2022-10-14,Justice Vikas Bahl,Regular,FALSE,FALSE,Davinderjit Kaur @ Aman,Female
+0738,Baljinder Singh @ Billa vs State Of Punjab,Punjab and Haryana High Court,2022-10-14,Justice Anoop Chitkara,Regular,FALSE,FALSE,Baljinder Singh @ Billa,Male
+0336,Ram Kishan vs State Of NCT Of Delhi,Delhi High Court,2022-10-18,Justice Talwant Singh,Regular,FALSE,FALSE,Ram Kishan,Male
+1017,Aslam Ali @ Aslam Ansari vs State Of Jharkhand,Jharkhand High Court,2022-10-18,"Justice Rongon Mukhopadhyay, Justice Ambuj Nath",Regular,FALSE,FALSE,Aslam Ali @ Aslam Ansari,Male
+1019,Rahul Kumar vs The State Of Bihar Through Vigilance,Patna High Court,2022-10-20,Justice Alok Kumar Pandey,Regular,FALSE,FALSE,Rahul Kumar,Male
+1032,Gautam Kumar vs The State Of Bihar,Patna High Court,2022-10-20,Justice Alok Kumar Pandey,Regular,FALSE,FALSE,Gautam Kumar,Male
+1034,Dhananjay Ram vs The State Of Bihar,Patna High Court,2022-10-20,Justice Alok Kumar Pandey,Regular,FALSE,FALSE,Dhananjay Ram,Male
+1018,Manik Singh @ Manik Kumar @ Aditya Kumar vs The State Of Bihar,Patna High Court,2022-10-21,Justice Shailendra Singh,Regular,FALSE,FALSE,Manik Singh @ Manik Kumar @ Aditya Kumar,Male
+0483,Bindu Devi vs State Of U.P.,Allahabad High Court,2022-10-31,Justice Samit Gopal,Regular,FALSE,FALSE,Bindu Devi,Female
+1025,Shaik Hameed vs The State Of Telangana And 2 Others,Telangana High Court,2022-11-01,"Justice A. Abhishek Reddy, Justice Juvvadi Sridevi",Regular,FALSE,FALSE,Shaik Amer (detenu),Male
+1026,Shaik Fareed vs The State Of Telangana And 2 Others,Telangana High Court,2022-11-01,"Justice A. Abhishek Reddy, Justice Juvvadi Sridevi",Regular,FALSE,FALSE,Shaik Amer @ Ameer @ Ibrahim (detenu),Male
+0971,Shashi Poojari @ Shadow @ Shashikumar vs State Of Karnataka,Karnataka High Court,2022-11-02,Justice M. Nagaprasanna,Regular,FALSE,FALSE,Shashi Poojari @ Shadow @ Shashikumar,Male
+0060,Ashoka vs State Of Karnataka,High Court of Karnataka at Bengaluru,2022-11-03,Justice Sreenivas Harish Kumar,Regular,FALSE,FALSE,Ashoka,Male
+0142,Binod @ Kumud Khalipha vs The State Of Bihar,Patna High Court,2022-11-03,Justice Nawneet Kumar Pandey,Regular,FALSE,FALSE,Binod @ Kumud Khalipha,Male
+0458,Angad @ Neeraj vs State Of U.P. And Another,Allahabad High Court,2022-11-04,Justice Suresh Kumar Gupta,Anticipatory,FALSE,FALSE,Angad @ Neeraj,Male
+0218,Arun Shivayogappa Vali vs State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-11-08,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Arun Shivayogappa Vali,Male
+0500,Manjunath Shivappa Hubballi vs State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-11-10,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Manjunath Shivappa Hubballi,Male
+0722,Umed Singh vs State Of Haryana,Punjab and Haryana High Court,2022-11-11,Justice Anoop Chitkara,Regular,FALSE,FALSE,Umed Singh,Male
+0373,Kalla Mallah vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2022-11-14,"Justice Rohit Arya, Justice Milind Ramesh Phadke",Regular,FALSE,TRUE,Kalla Mallah,Male
+0409,Dr Rajiv Bajpai vs State Of Karnataka,Karnataka High Court,2022-11-15,Justice Sreenivas Harish Kumar,Regular,TRUE,FALSE,Dr. Rajiv Bajpai,Male
+0026,Prakash S/O Mahaveer Shiragavankar vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-11-16,Justice K. Natarajan,Regular,FALSE,FALSE,Prakash S/O Mahaveer Shiragavankar,Male
+0029,Huligeppa S/O Shivalingappa Vaddar vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-11-16,Justice K. Natarajan,Regular,FALSE,FALSE,Huligeppa S/O Shivalingappa Vaddar,Male
+0890,Roop Singh Yadav vs Central Bureau Of Investigation,"Allahabad High Court, Lucknow Bench",2022-11-16,Justice Dinesh Kumar Singh,Regular,FALSE,FALSE,Roop Singh Yadav,Male
+0193,Shabnum Begum vs UT of J&K & Ors,"High Court of Jammu and Kashmir and Ladakh, Jammu Bench",2022-11-18,Justice MA Chowdhary,Regular,FALSE,FALSE,Shabnum Begum,Female
+0460,Raj Bahadur Singh vs State Of U.P.,Allahabad High Court,2022-11-18,Justice Gajendra Kumar,Regular,FALSE,FALSE,Raj Bahadur Singh,Male
+0863,Surendra Singh S/O Shri Jagdish Singh vs State Of Rajasthan,"Rajasthan High Court, Jaipur Bench",2022-11-21,Justice Chandra Kumar Songara,Anticipatory,FALSE,FALSE,Surendra Singh and Kavita Rani,Male
+0840,Snigdha Ghosh Roy vs Unknown,Calcutta High Court,2022-11-22,"Justice Debangsu Basak, Justice Md. Shabbar Rashidi",Anticipatory,TRUE,FALSE,Indranil Roy,Male
+1016,Firoz Khan vs State Of Jharkhand Through ATS,Jharkhand High Court,2022-11-22,"Justice Rongon Mukhopadhyay, Justice Ambuj Nath",Regular,FALSE,FALSE,Firoz Khan,Male
+0570,Madhuri And 2 Others vs State Of U.P.,Allahabad High Court,2022-11-24,Justice Manju Rani Chauhan,Regular,FALSE,FALSE,"Madhuri, Runa and Maina",Female
+0675,Anita Deepak Salve vs State Of Maharashtra,Bombay High Court,2022-11-25,Justice A.S. Gadkari and Justice Prakash D. Naik,Regular,FALSE,FALSE,Anita Deepak Salve,Female
+0468,Harvinder Pal Singh Alias Golu vs State Of Punjab,Punjab and Haryana High Court,2022-11-29,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Harvinder Pal Singh @ Golu,Male
+0721,Rukmani Devi vs The State Of Bihar,Patna High Court,2022-11-29,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Rukmani Devi,Female
+0723,Ranjit Sah @ Ranjit Kumar Sah vs The State Of Bihar,Patna High Court,2022-11-29,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Ranjit Sah @ Ranjit Kumar Sah,Male
+0724,Rajendra Sah @ Raj Kumar Sah vs The State Of Bihar,Patna High Court,2022-11-29,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Rajendra Sah @ Raj Kumar Sah,Male
+0725,Subhash Sah @ Subhash Kumar Sah @ Subhash vs The State Of Bihar,Patna High Court,2022-11-29,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Subhash Sah @ Subhash Kumar Sah @ Subhash,Male
+0727,Nutan Devi vs The State Of Bihar,Patna High Court,2022-11-29,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Nutan Devi,Female
+0640,Saurabh Kumar vs The State Of Bihar,Patna High Court,2022-12-01,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Saurabh Kumar,Male
+0641,Pintu Kumar vs The State Of Bihar,Patna High Court,2022-12-01,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Pintu Kumar,Male
+0645,Dinesh Paswan vs The State Of Bihar,Patna High Court,2022-12-01,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Dinesh Paswan,Male
+0646,Pappu Singh @ Rakesh Kumar vs The State Of Bihar,Patna High Court,2022-12-01,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Pappu Singh @ Rakesh Kumar,Male
+0271,Babu S/O Chandrappa vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-12-12,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Babu S/O Chandrappa,Male
+1149,Simanto Bhakat @ Simanta Bhakat vs The State Of Jharkhand,Jharkhand High Court,2022-12-12,Justice Sanjay Prasad,Regular,FALSE,FALSE,Simanto Bhakat @ Simanta Bhakat,Male
+0587,Kulwinder Kaur vs State Of Punjab,Punjab and Haryana High Court,2022-12-13,Justice Arvind Singh Sangwan,Regular,FALSE,FALSE,Kulwinder Kaur,Female
+0144,Awadhesh Rai vs The State Of Bihar,Patna High Court,2022-12-14,Justice Chandra Shekhar Jha,Anticipatory,FALSE,FALSE,Awadhesh Rai,Male
+0498,Naveen S/O Mallappa Koppad vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2022-12-15,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Naveen S/O Mallappa Koppad,Male
+0630,Shahwan vs State Of U.P.,Allahabad High Court,2022-12-19,Justice Subhash Vidyarthi,Regular,FALSE,FALSE,Shahwan,Male
+0433,Om Shiv vs State Of U.P.,Allahabad High Court,2022-12-20,Justice Manish Mathur,Regular,FALSE,FALSE,Om Shiv,Male
+0358,Ramesh Sahani vs The State Of Bihar,Patna High Court,2023-01-02,Justice Rajiv Roy,Anticipatory,FALSE,FALSE,Ramesh Sahani,Male
+0185,Mohammad Islam And Others vs State Of U.P.,Allahabad High Court,2023-01-06,"Justice Kaushal Jayendra Thaker, Justice Ajit Singh",Regular,FALSE,FALSE,Mohammad Islam and others,Male
+1076,Chanda Kochhar vs Central Bureau Of Investigation And Anr,Bombay High Court,2023-01-09,"Justice Revati Mohite Dere, Justice Prithviraj K. Chavan",Interim,FALSE,FALSE,Chanda Kochhar,Female
+0674,Hariom Singh vs The State Of U.P. Thru. Prin.Secy.,"Allahabad High Court, Lucknow Bench",2023-01-20,Justice Rajeev Singh,Regular,FALSE,FALSE,Hariom Singh,Male
+0031,Pravinbhai Dayabhai Bhakodara vs State Of Gujarat,Gujarat High Court,2023-01-23,Justice Samir J. Dave,Anticipatory,FALSE,FALSE,Pravinbhai Dayabhai Bhakodara,Male
+0194,Visirikapally Raja Rao vs The State Of Maharashtra,Supreme Court of India,2023-01-30,"Justice M.M. Sundresh, Justice Sanjiv Khanna",Regular,FALSE,FALSE,Visirikapally Raja Rao,Male
+1111,Kari Choudhary @ Pramod Choudhary vs The State Of Bihar,Patna High Court,2023-02-01,Justice Rajiv Roy,Anticipatory,FALSE,FALSE,Kari Choudhary @ Pramod Choudhary,Male
+0290,Syed Mansoor Ali Khan vs State Of Karnataka,Karnataka High Court,2023-02-02,Justice K. Natarajan,Regular,FALSE,FALSE,Syed Mansoor Ali Khan,Male
+1126,Sri Naveen Gadad vs The State Of Karnataka,Karnataka High Court,2023-02-02,Justice M.G. Uma,Anticipatory,FALSE,FALSE,Sri Naveen Gadad,Male
+0251,Arun Kumar vs State By Rajankunte Police,"Karnataka High Court, Bengaluru",2023-02-08,Justice K. Natarajan,Regular,FALSE,FALSE,Arun Kumar,Male
+0441,Sanjit Kumar Das @ Sanjit Das @ Sanjit vs The State Of Bihar,Patna High Court,2023-02-09,Justice Satyavrat Verma,Regular,FALSE,FALSE,Sanjit Kumar Das @ Sanjit Das @ Sanjit,Male
+0278,Jitendra Jaiswal vs State Of Chhattisgarh,Chhattisgarh High Court,2023-02-10,Justice Sachin Singh Rajput,Regular,FALSE,FALSE,Jitendra Jaiswal,Male
+0677,Vineet Jhavar vs State,Delhi High Court,2023-02-13,Justice Swarana Kanta Sharma,Regular,FALSE,FALSE,Vineet Jhavar,Male
+0372,Duni Chand S/O Chittar Dev vs Union Territory Of Ladakh,High Court of Jammu & Kashmir and Ladakh,2023-02-17,Justice Mohan Lal,Regular,FALSE,FALSE,Duni Chand,Male
+0883,Deepak Kindo vs State Of Odisha,Orissa High Court,2023-02-17,Justice G. Satapathy,Regular,FALSE,FALSE,Deepak Kindo,Male
+0180,Chandra Prakash Khandelwal vs Directorate Of Enforcement,Delhi High Court,2023-02-23,Justice Yogesh Khanna,Regular,FALSE,FALSE,Chandra Prakash Khandelwal,Male
+0413,Chandra Prakash Khandelwal vs Directorate Of Enforcement,Delhi High Court,2023-02-23,Justice Yogesh Khanna,Regular,FALSE,FALSE,Chandra Prakash Khandelwal,Male
+0559,Smt. Rekha Shivhare vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2023-03-02,Justice Atul Sreedharan,Anticipatory,FALSE,FALSE,Smt. Rekha Shivhare,Female
+0720,Ranbir Singh vs State Of Punjab,Punjab and Haryana High Court,2023-03-02,Justice Anoop Chitkara,Regular,FALSE,FALSE,Ranbir Singh,Male
+0577,Anurag Das vs The State Of Bihar,Patna High Court,2023-03-15,Justice Shailendra Singh,Regular,FALSE,FALSE,Anurag Das,Male
+0578,Rajiv Kumar @ Rajiv Das vs The State Of Bihar,Patna High Court,2023-03-15,Justice Shailendra Singh,Regular,FALSE,FALSE,Rajiv Kumar @ Rajiv Das,Male
+0141,Gautam Kumar @ Gautam Sah @ Gautam Kumar vs The State Of Bihar,Patna High Court,2023-03-21,Justice Nawneet Kumar Pandey,Regular,FALSE,FALSE,Gautam Kumar @ Gautam Sah @ Gautam Kumar,Male
+0497,D. Abirami vs J. Dinesh,"Madras High Court, Madurai Bench",2023-03-21,Justice G. Ilangovan,Anticipatory,TRUE,FALSE,J. Dinesh and others,Male
+0482,Neetaben (Anita) Rameshkumar Chauhan vs State Of Gujarat,Gujarat High Court,2023-03-24,Justice Umesh A. Trivedi,Anticipatory,FALSE,FALSE,Neetaben (Anita) Rameshkumar Chauhan,Female
+0718,Arshad Ahmed vs Union Territory Of Jammu & Kashmir,Jammu & Kashmir and Ladakh High Court,2023-03-27,Justice Mohan Lal,Regular,FALSE,FALSE,Arshad Ahmed,Male
+0496,Santosh Kumar S/O Late Yashwanath Kumar vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2023-03-29,Justice J.M. Khazi,Anticipatory,FALSE,FALSE,Santosh Kumar,Male
+0269,Kailash Babu vs State Of U.P.,Allahabad High Court,2023-04-04,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Kailash Babu,Male
+0043,Navnath Ramchandra Pujari vs The State Of Maharashtra,Bombay High Court,2023-04-05,Justice Anuja Prabhudessai,Anticipatory,FALSE,FALSE,Navnath Ramchandra Pujari,Male
+1108,Chaman Singh vs State Of U.P.,Allahabad High Court,2023-04-07,Justice Raj Beer Singh,Regular,FALSE,FALSE,Chaman Singh,Male
+0289,Naseer @ Guddu @ Pan vs State Of U.P.,Allahabad High Court,2023-04-10,Justice Sameer Jain,Regular,FALSE,FALSE,Naseer @ Guddu @ Pan,Male
+0719,Phool Singh vs State Of Haryana,Punjab and Haryana High Court,2023-04-11,Justice Anoop Chitkara,Regular,FALSE,FALSE,Phool Singh,Male
+0282,Syed Sadiq vs State By The Psi,"Karnataka High Court, Bengaluru",2023-04-12,Justice V Srishananda,Regular,FALSE,FALSE,Syed Sadiq,Male
+0407,Lal Singh vs State Of Punjab,Punjab and Haryana High Court,2023-04-18,Justice Harnaresh Singh Gill,Regular,FALSE,FALSE,Lal Singh,Male
+0477,Kaushal Kumar vs State Of U.P.,Allahabad High Court,2023-04-19,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Kaushal Kumar,Male
+0418,Shoheb Ali @ Shajid Ali vs The State By Karnataka,Karnataka High Court,2023-04-20,Justice B. Veerappa and Venkatesh Naik T,Regular,FALSE,FALSE,Shoheb Ali @ Shajid Ali and Others,Male
+0455,Rajendra Agarwal Urf Bablu vs State Of U.P. And 3 Others,Allahabad High Court,2023-04-21,Justice Saurabh Shyam Shamshery,Regular,FALSE,TRUE,Rajendra Agarwal Urf Bablu,Male
+0915,Narender Alias Fatiya vs State Of Haryana,Punjab and Haryana High Court,2023-04-28,Justice Anoop Chitkara,Regular,FALSE,FALSE,Narender Alias Fatiya,Male
+0603,Avnish Kumar @ Avinash Kumar vs The State Of Bihar,Patna High Court,2023-05-01,Justice Chandra Shekhar Jha,Anticipatory,FALSE,FALSE,Avnish Kumar @ Avinash Kumar,Male
+0605,Pankaj Kumar vs The State Of Bihar,Patna High Court,2023-05-01,Justice Chandra Shekhar Jha,Anticipatory,FALSE,FALSE,Pankaj Kumar,Male
+0893,Rana Kapoor vs Directorate Of Enforcement,Bombay High Court,2023-05-04,Justice Prakash D. Naik,Regular,FALSE,FALSE,Rana Kapoor,Male
+0954,Mahendra Son Of Shri Shyoram @ Shivram vs The State Of Rajasthan,"Rajasthan High Court, Jaipur Bench",2023-05-08,Justice Manindra Mohan Shrivastava and Anil Kumar Upman,Not applicable,FALSE,FALSE,Mahendra,Male
+0236,Dr. Kartikeya Sharma And 2 Others vs State Of U.P. And Another,Allahabad High Court,2023-05-09,Justice Nalin Kumar Srivastava,Anticipatory,FALSE,TRUE,"Dr. Kartikeya Sharma, Ajaya Kumar Sharma, Smt. Sangeeta Sharma",Male
+0022,Kayyum vs State Of U.P.,Allahabad High Court,2023-05-16,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Kayyum,Male
+0023,Siddappa S/O. Laxman Naik vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2023-05-16,Justice M. Nagaprasanna,Regular,FALSE,FALSE,Siddappa S/O. Laxman Naik,Male
+0091,Rajkaran Patel vs State Of U.P.,Allahabad High Court,2023-05-17,Justice Samit Gopal,Regular,FALSE,FALSE,Rajkaran Patel,Male
+0683,Parmod Devgan @ Ashu vs State Of Haryana And Anr,Punjab and Haryana High Court,2023-05-18,Justice Avneesh Jhingan,Regular,FALSE,FALSE,Parmod Devgan @ Ashu,Male
+0774,Devendra Shukla vs State Of U.P.,Allahabad High Court,2023-05-22,Justice Raj Beer Singh,Regular,FALSE,FALSE,Devendra Shukla,Male
+0151,K Channabasappa Aliyas Channabasawa vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2023-05-26,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,K Channabasappa @ Channabasawa,Male
+0411,Amrinder Singh Walia vs The State Of Assam,Gauhati High Court,2023-06-07,Justice Soumitra Saikia,Anticipatory,FALSE,FALSE,Amrinder Singh Walia,Male
+0005,Smt. Shankri Devi Age 62 Years vs Union Territory Of J&K Through SHO,High Court of Jammu & Kashmir and Ladakh at Jammu,2023-06-12,Justice Mohan Lal,Regular,FALSE,FALSE,Smt. Shankri Devi,Female
+0834,Kusumdevi Revindranath Agrawal vs State Of Maharashtra And Anr,Bombay High Court,2023-06-16,Justice Amit Borkar,Anticipatory,FALSE,FALSE,Kusumdevi Revindranath Agrawal,Female
+0852,Shvetali Devendranath Agrawal vs State Of Maharashtra And Anr,Bombay High Court,2023-06-16,Justice Amit Borkar,Anticipatory,FALSE,FALSE,Shvetali Devendranath Agrawal,Female
+0853,Kusumdevi Ravindranath Agrawal vs The State Of Maharashtra And Anr,Bombay High Court,2023-06-16,Justice Amit Borkar,Anticipatory,FALSE,FALSE,Kusumdevi Ravindranath Agrawal,Female
+0062,Jaggu @ Jagmohan vs The State Of Madhya Pradesh,High Court of Madhya Pradesh at Jabalpur,2023-06-20,Justice Anuradha Shukla,Regular,FALSE,FALSE,Jaggu @ Jagmohan,Male
+0402,Lungsibui Thiumai vs The Union Of India,Gauhati High Court,2023-06-20,Justice Manash Ranjan Pathak,Regular,FALSE,FALSE,Lungsibui Thiumai,Male
+1107,Dilip Kumar @ Dilip Yadav vs The State Of Bihar,Patna High Court,2023-06-26,Justice Sunil Kumar Panwar,Regular,FALSE,FALSE,Dilip Kumar @ Dilip Yadav,Male
+1105,Ram Babu Singh vs The State Of Bihar,Patna High Court,2023-06-27,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Ram Babu Singh,Male
+0618,Pritesh Ambaji Shitkar And Ors vs State Of Maharashtra And Anr,Bombay High Court,2023-07-03,Justice Prakash D. Naik,Anticipatory,FALSE,FALSE,Pritesh Ambaji Shitkar and Others,Male
+1106,Manish Kumar vs The State Of Bihar,Patna High Court,2023-07-04,Justice Sunil Kumar Panwar,Regular,FALSE,FALSE,Manish Kumar,Male
+0751,Leena Paulose vs State Of Delhi,Delhi High Court,2023-07-11,Justice Dinesh Kumar Sharma,Regular,FALSE,FALSE,Leena Paulose,Female
+0149,Naushad vs State Of Haryana,Punjab and Haryana High Court,2023-07-13,Justice N.S. Shekhawat,Regular,FALSE,FALSE,Naushad,Male
+0684,Pukhraj Vaishnav vs State Of Haryana And Another,Punjab and Haryana High Court,2023-07-14,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Pukhraj Vaishnav,Male
+0446,Hasmati vs State Of U.P. And Another,Allahabad High Court,2023-07-17,Justice Nalin Kumar Srivastava,Anticipatory,FALSE,FALSE,Hasmati,Female
+0785,Shambhubhai Ranchhoddas Joshi vs State Of Gujarat,Gujarat High Court,2023-07-17,Justice Ilesh J. Vora,Anticipatory,FALSE,FALSE,Shambhubhai Ranchhoddas Joshi,Male
+1104,Shaikh Chand Pasha Shaikh Sailani vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2023-07-18,Justice S. G. Mehare,Regular,FALSE,FALSE,Shaikh Chand Pasha Shaikh Sailani,Male
+1195,Ajay Kumar vs The State Of Jharkhand,Jharkhand High Court,2023-07-21,Justice Rajesh Kumar,Regular,FALSE,FALSE,Ajay Kumar,Male
+0682,Adesh Soni And Others vs State Of Haryana And Another,Punjab and Haryana High Court,2023-07-24,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,"Adesh Soni, Deepak Pilada, Mansha Puri Goswami, Rajjak Mohammad Mansuri",Male
+0951,Chandrama Prasad Singh @ Chandrama vs State Of Bihar,Patna High Court,2023-08-01,Justice Chandra Shekhar Jha,Regular,FALSE,FALSE,Chandrama Prasad Singh @ Chandrama @ Tuntun Singh,Male
+0755,Mohammad Ubaid vs State Of U.P.,Allahabad High Court,2023-08-02,Justice Vikram D. Chauhan,Regular,FALSE,FALSE,Mohammad Ubaid,Male
+0371,Raj Jit Singh Hundal vs State Of Punjab,Punjab and Haryana High Court,2023-08-03,Justice G.S. Sandhawalia and Harpreet Kaur Jeewan,Anticipatory,FALSE,FALSE,Raj Jit Singh Hundal,Male
+0395,Bau Singh vs State Of Punjab,Punjab and Haryana High Court,2023-08-08,Justice Pankaj Jain,Regular,FALSE,FALSE,Bau Singh,Male
+0045,Badkau vs State Of U.P. Thru. Prin. Secy. Deptt.,"High Court of Judicature at Allahabad, Lucknow Bench",2023-08-16,Justice Brij Raj Singh,Regular,FALSE,FALSE,Badkau,Male
+1103,Najmul @ Md. Najmul @ Najmul Haque vs The State Of Bihar,Patna High Court,2023-08-17,Justice Rajiv Roy,Regular,FALSE,FALSE,Najmul @ Md. Najmul @ Najmul Haque,Male
+0360,Savita W/O Ram Poul vs The State Of Maharashtra,Bombay High Court,2023-08-18,Justice S.G. Mehare,Regular,FALSE,FALSE,Savita W/O Ram Poul,Female
+0256,Vishal Kumar Saw vs The State Of Jharkhand,Jharkhand High Court,2023-08-21,Justice Rajesh Kumar,Regular,FALSE,FALSE,Vishal Kumar Saw,Male
+0862,Rafeeq vs State Of U.P. And 3 Others,Allahabad High Court,2023-08-22,Justice Shekhar Kumar Yadav,Anticipatory,FALSE,FALSE,Rafeeq,Male
+0656,Mohd. Umar vs State Of U.P.,Allahabad High Court,2023-08-23,Justice Shekhar Kumar Yadav,Anticipatory,FALSE,FALSE,Mohd. Umar,Male
+1011,Suresh Kewat vs The State Of Bihar,Patna High Court,2023-08-24,Justice Rajiv Roy,Regular,FALSE,FALSE,Suresh Kewat,Male
+0132,Kampotar vs State Of U.P. And 3 Others,Allahabad High Court,2023-08-29,Justice Vikram D. Chauhan,Regular,FALSE,FALSE,Kampotar,Male
+0070,Kalavati W/O Kallappa Malagar vs The State Of Karnataka And Anr,"Karnataka High Court, Kalaburagi Bench",2023-08-31,Justice Venkatesh Naik T.,Regular,TRUE,FALSE,Trimurthy S/o Basayya Mathapati,Male
+0558,Anar Singh vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2023-08-31,Justice Sanjay Dwivedi,Regular,FALSE,FALSE,Anar Singh,Male
+0429,Sri K.S. Manjunath @ Santro Ravi vs The State Of Karnataka,Karnataka High Court,2023-09-01,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Sri K.S. Manjunath @ Santro Ravi,Male
+0245,Ishrail Ali vs The State Govt NCT Of Delhi,Delhi High Court,2023-09-06,Justice Swarana Kanta Sharma,Regular,FALSE,FALSE,Ishrail Ali,Male
+0227,Hakim vs State Of Himachal Pradesh,Himachal Pradesh High Court,2023-09-08,Justice Sushil Kukreja,Regular,FALSE,FALSE,Hakim,Male
+0735,Ravichandra Poojari vs State Of Karnataka,Karnataka High Court,2023-09-20,Justice K. Natarajan,Regular,FALSE,FALSE,Ravichandra Poojari @ Vikki Poojari,Male
+0396,Paramjit Singh @ Sunny vs State Of Punjab,Punjab and Haryana High Court,2023-09-21,Justice Pankaj Jain,Regular,FALSE,FALSE,Paramjit Singh @ Sunny,Male
+0398,Bhola Singh vs State Of Punjab,Punjab and Haryana High Court,2023-09-21,Justice Jasjit Singh Bedi,Anticipatory,FALSE,FALSE,Bhola Singh,Male
+0399,Pappu Singh vs State Of Punjab,Punjab and Haryana High Court,2023-09-21,Justice Pankaj Jain,Regular,FALSE,FALSE,Pappu Singh,Male
+0673,Mehrajuddin vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2023-09-21,Justice Sunita Yadav,Anticipatory,FALSE,FALSE,Mehrajuddin,Male
+0400,Rajwinder Singh vs State Of Punjab,Punjab and Haryana High Court,2023-09-22,Justice Pankaj Jain,Regular,FALSE,FALSE,Rajwinder Singh,Male
+0113,Hasim vs State Of Himachal Pradesh,Himachal Pradesh High Court,2023-09-25,Justice Sushil Kukreja,Regular,FALSE,FALSE,Hasim,Male
+0401,The State Of Tripura vs Sri Mahabul Alam,Tripura High Court,2023-09-27,Justice Arindam Lodh,Regular,TRUE,TRUE,Sri Mahabul Alam,Male
+1001,Uday Prakash Singh vs The State Of Bihar,Patna High Court,2023-09-27,Justice Anjani Kumar Sharan,Anticipatory,FALSE,FALSE,Uday Prakash Singh,Male
+1102,Kundan Sahani @ Kundan Sahni vs The State Of Bihar,Patna High Court,2023-09-27,Justice Shailendra Singh,Regular,FALSE,FALSE,Kundan Sahani @ Kundan Sahni,Male
+0058,Razak Hussain vs UT of J&K Through SHO,High Court of Jammu & Kashmir and Ladakh at Jammu,2023-09-29,Justice M A Chowdhary,Anticipatory,TRUE,FALSE,Waseem Akram and Sahil Choudhary,Male
+0397,Abdul Mannan Ali vs The State Of Assam,Gauhati High Court,2023-10-04,Justice Mridul Kumar Kalita,Regular,FALSE,FALSE,Abdul Mannan Ali,Male
+0649,Shivam Rajpoot vs State Of U.P.,Allahabad High Court,2023-10-05,Justice Shekhar Kumar Yadav,Anticipatory,FALSE,FALSE,Shivam Rajpoot,Male
+0204,Suman vs State Of U.P.,Allahabad High Court,2023-10-09,Justice Samit Gopal,Regular,FALSE,FALSE,Suman,Female
+0257,Ratan Lal Tanti vs The State Of Jharkhand,Jharkhand High Court,2023-10-10,Justice Rajesh Kumar,Regular,FALSE,FALSE,Ratan Lal Tanti,Male
+0334,Sheela vs State Govt. Of NCT Of Delhi,Delhi High Court,2023-10-11,Justice Amit Bansal,Regular,FALSE,FALSE,Sheela,Female
+0153,Mithun Rai @ Mithun Kumar @ Mithun vs Union Of India Through NCB,Jharkhand High Court,2023-10-13,Justice Ratnaker Bhengra,Regular,FALSE,FALSE,Mithun Rai @ Mithun Kumar @ Mithun,Male
+0128,Malkhan Pandey S/O Karinga @Haridas vs State Of U.P. Thru. Its Prin. Secy. Home,"Allahabad High Court, Lucknow Bench",2023-10-16,Justice Mohd. Faiz Alam Khan,Regular,FALSE,FALSE,Malkhan Pandey,Male
+0129,Ram Singh Kewat vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2023-10-16,Justice Sanjeev S Kalgaonkar,Regular,FALSE,FALSE,Ram Singh Kewat,Male
+0349,Praveen Kumar @ Golu vs The State Of Bihar,Patna High Court,2023-10-16,Justice Dr. Anshuman,Regular,FALSE,FALSE,Praveen Kumar @ Golu,Male
+0445,Paramveer Singh vs State Of Rajasthan,"Rajasthan High Court, Jodhpur Bench",2023-10-16,Justice Manoj Kumar Garg,Regular,FALSE,FALSE,Paramveer Singh,Male
+0526,Ajay @ Bhola vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2023-10-16,Justice Sanjeev S Kalgaonkar,Regular,FALSE,FALSE,Ajay @ Bhola,Male
+0995,Lakshmi @ Laxmi @ Jassi vs State Of Punjab,Punjab and Haryana High Court,2023-10-16,Justice Jasjit Singh Bedi,Anticipatory,FALSE,FALSE,Lakshmi @ Laxmi @ Jassi,Female
+0913,Sunil Kumar @ Rana vs State Of Haryana,Punjab and Haryana High Court,2023-10-17,Justice Deepak Gupta,Regular,FALSE,FALSE,Sunil Kumar @ Rana,Male
+0914,Vineet @ Vicky vs State Of Haryana,Punjab and Haryana High Court,2023-10-17,Justice Deepak Gupta,Regular,FALSE,FALSE,Vineet @ Vicky,Male
+0393,Manjit Singh @ Soni vs State Of Punjab,Punjab and Haryana High Court,2023-10-18,Justice Pankaj Jain,Regular,FALSE,FALSE,Manjit Singh @ Soni,Male
+0059,Yeshappa Mundalmani @ Yesuraj vs The State Of Karnataka And Anr,"High Court of Karnataka, Kalaburagi Bench",2023-10-26,Justice K Natarajan,Regular,FALSE,FALSE,Yeshappa Mundalmani @ Yesuraj,Male
+0315,Sukhchain Singh vs State Of Rajasthan,"Rajasthan High Court, Jodhpur",2023-10-31,Justice Kuldeep Mathur,Regular,FALSE,FALSE,Sukhchain Singh,Male
+0241,Rajinder Singh @ Anil Kumar vs State Of H.P,Himachal Pradesh High Court,2023-11-09,Justice Rakesh Kainthla,Regular,FALSE,FALSE,Rajinder Singh @ Anil Kumar,Male
+0952,Gursewak Singh vs State Of Punjab,Punjab and Haryana High Court,2023-11-09,Justice Ritu Bahri and Manisha Batra,Regular,FALSE,FALSE,Gursewak Singh,Male
+1178,Tarun Kumar vs Assistant Director Directorate Of Enforcement,Supreme Court of India,2023-11-20,"Justice Bela M. Trivedi, Justice Aniruddha Bose",Regular,FALSE,TRUE,Tarun Kumar,Male
+0394,Vasanth vs The State Rep. By,Madras High Court,2023-11-30,Justice C.V. Karthikeyan,Regular,FALSE,FALSE,Vasanth,Male
+0647,Mrs. Hu Xiaolin vs The State Of Karnataka,Karnataka High Court,2023-12-01,Justice S. Vishwajith Shetty,Regular,FALSE,FALSE,Mrs. Hu Xiaolin,Female
+0430,Kolindar Singh @ Kolindra vs State Of U.P.,Allahabad High Court,2023-12-04,Justice Rajeev Misra,Regular,FALSE,FALSE,Kolindar Singh @ Kolindra,Male
+0537,Manju Sharma vs The State,Delhi High Court,2023-12-04,Justice Jyoti Singh,Regular,FALSE,FALSE,Manju Sharma,Female
+0361,Bhaskara Nand vs State Of Himachal Pradesh,Himachal Pradesh High Court,2023-12-05,Justice Rakesh Kainthla,Regular,FALSE,FALSE,Bhaskara Nand,Male
+0392,Sohan Lal vs State Of Haryana,Punjab and Haryana High Court,2023-12-05,Justice Jasjit Singh Bedi,Anticipatory,FALSE,FALSE,Sohan Lal,Male
+0599,Abhishek Kumar Chandan vs The State Of Bihar,Patna High Court,2023-12-08,Justice Partha Sarthy,Anticipatory,FALSE,FALSE,Abhishek Kumar Chandan,Male
+0990,Himanshu Pandey @ Ribbu vs State Of U.P.,Allahabad High Court,2023-12-11,Justice Vikram D. Chauhan,Regular,FALSE,FALSE,Himanshu Pandey @ Ribbu,Male
+1013,Ranjit Singh Alias Ranjit Kumar vs State Of Punjab,Punjab and Haryana High Court,2023-12-11,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Ranjit Singh Alias Ranjit Kumar,Male
+0493,Mrs. Rubini vs Rajadurai,Madras High Court,2023-12-19,Justice C.V. Karthikeyan,Anticipatory,TRUE,FALSE,Rajadurai,Male
+0127,Rituraj Kumar vs State Of NCT Of Delhi,Delhi High Court,2023-12-22,Justice Swarana Kanta Sharma,Anticipatory,FALSE,FALSE,Rituraj Kumar,Male
+0968,Vinod Kumar vs State Of NCT Of Delhi,Delhi High Court,2023-12-22,Justice Swarana Kanta Sharma,Regular,FALSE,FALSE,Vinod Kumar,Male
+0285,Amit Kumar Vishwakarma vs The State Of Jharkhand,Jharkhand High Court,2024-01-02,Justice Rajesh Kumar,Regular,FALSE,FALSE,Amit Kumar Vishwakarma,Male
+1067,Sukhpal Singh Khaira vs State Of Punjab,Punjab and Haryana High Court,2024-01-04,Justice Anoop Chitkara,Regular,FALSE,TRUE,Sukhpal Singh Khaira,Male
+0243,Harwinder Singh @ Bhinda vs State Of Punjab,Punjab and Haryana High Court,2024-01-05,Justice Deepak Gupta,Regular,FALSE,FALSE,Harwinder Singh @ Bhinda,Male
+0386,Rinku Singh @ Gagan vs State Of Punjab,Punjab and Haryana High Court,2024-01-09,Justice Jasjit Singh Bedi,Anticipatory,FALSE,FALSE,Rinku Singh @ Gagan,Male
+0288,Sunil Muduli vs State Of Odisha,Orissa High Court,2024-01-10,Justice Savitri Ratho,Regular,FALSE,FALSE,Sunil Muduli,Male
+0612,Jerome Balla @ Sundae Dumaka vs State Of U.P. Thru. Prin. Secy. Annexe,"Allahabad High Court, Lucknow Bench",2024-01-11,Justice Renu Agarwal,Regular,FALSE,FALSE,Jerome Balla @ Sundae Dumaka,Male
+0680,Akashdeep Singh Alias Akash vs State Of Punjab,Punjab and Haryana High Court,2024-01-11,Justice Jasgurpreet Singh Puri,Regular,FALSE,FALSE,Akashdeep Singh Alias Akash,Male
+0975,Sri Nagaraja Surve vs The State Of Karnataka,Karnataka High Court,2024-01-11,Justice Mohammad Nawaz,Anticipatory,FALSE,FALSE,Sri Nagaraja Surve,Male
+0318,Mustakim vs State Of H.P,"Himachal Pradesh High Court, Shimla",2024-01-12,Justice Vivek Singh Thakur,Regular,FALSE,FALSE,Mustakim,Male
+0377,Mohammad Imran vs Narcotics Control Bureau Lucknow,"Allahabad High Court, Lucknow Bench",2024-01-16,Justice Pankaj Bhatia,Regular,FALSE,FALSE,Mohammad Imran,Male
+0217,Lucky vs State Of Madhya Pradesh,"Madhya Pradesh High Court, Indore Bench",2024-01-18,Justice Prem Narayan Singh,Regular,FALSE,FALSE,Lucky,Male
+0351,Shafik Sattar Shah vs State Of Maharashtra,Bombay High Court,2024-01-22,Justice Prakash D. Naik,Regular,FALSE,FALSE,Shafik Sattar Shah,Male
+0715,Kondelu Krupa Rao vs The State Of Andhra Pradesh,Andhra Pradesh High Court,2024-01-22,Justice U. Durga Prasad Rao and Kiranmayee Mandava,Interim,FALSE,FALSE,Kondelu Krupa Rao,Male
+0776,Mrityunjay Narayan Das @ Montu @ Bangali vs State Of Maharashtra,Bombay High Court,2024-01-22,Justice N. J. Jamadar,Regular,FALSE,FALSE,Mrityunjay Narayan Das @ Montu @ Bangali,Male
+0777,Ramesh Kitta Pujari vs State Of Maharashtra,Bombay High Court,2024-01-22,Justice N. J. Jamadar,Regular,FALSE,FALSE,Ramesh Kitta Pujari,Male
+0778,Suresh Kumar Pandiyan Pillai vs The State Of Maharashtra,Bombay High Court,2024-01-22,Justice N. J. Jamadar,Regular,FALSE,FALSE,Suresh Kumar Pandiyan Pillai,Male
+1051,Amarjeet vs State Of Haryana,Punjab and Haryana High Court,2024-01-29,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Amarjeet,Male
+0784,Swati Patel vs The State & Anr.,Delhi High Court,2024-01-30,Justice Swarana Kanta Sharma,Anticipatory,TRUE,FALSE,Not specified,Male
+0088,Anita Bhagmal Sangar vs State Of Gujarat,Gujarat High Court,2024-02-01,Justice J. C. Doshi,Regular,FALSE,FALSE,Anita Bhagmal Sangar,Female
+0369,Arjun Sharma vs The Union Of India,Gauhati High Court,2024-02-01,Justice Manish Choudhury,Regular,FALSE,FALSE,Arjun Sharma,Male
+0835,Braja Kishore Nath vs State Of Odisha,Orissa High Court,2024-02-05,Justice Savitri Ratho,Regular,FALSE,FALSE,Braja Kishore Nath,Male
+0203,State vs Sandeep Mittu Etc,"Court of Sh. Ravindra Kumar Pandey, Additional Sessions Judge-3, South District, Saket Courts, New Delhi",2024-02-06,Justice Ravindra Kumar Pandey,Regular,FALSE,FALSE,Anju and Samranjeet Kaur @ Dalcee,Female
+0366,Mukeshbhai Vrujlal Maheta vs State Of Gujarat,Gujarat High Court,2024-02-09,Justice Bhargav D. Karia,Regular,FALSE,FALSE,Mukeshbhai Vrujlal Maheta,Male
+0707,Sri. Prashanth Kumar M vs The State Of Karnataka,Karnataka High Court,2024-02-13,Justice Mohammad Nawaz,Regular,FALSE,FALSE,Prashanth Kumar M,Male
+0788,Naresh Mahato vs State Of Nct Of Delhi,Delhi High Court,2024-02-14,Justice Swarana Kanta Sharma,Regular,FALSE,FALSE,Naresh Mahato,Male
+0440,Santosh Vijay Survase vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2024-02-15,Justice Sanjay A. Deshmukh,Regular,FALSE,FALSE,Santosh Vijay Survase,Male
+0872,Nahar Singh vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Indore Bench",2024-02-15,Justice Prem Narayan Singh,Regular,FALSE,FALSE,Nahar Singh,Male
+0330,Asante Pinket Owusu vs Narcotics Control Bureau,Delhi High Court,2024-02-19,Justice Amit Mahajan,Regular,FALSE,TRUE,Asante Pinket Owusu,Female
+0962,Abhay @ Kaku vs State,Delhi High Court,2024-02-19,Justice Amit Mahajan,Regular,FALSE,FALSE,Abhay @ Kaku,Male
+0200,Himanshu Sharma vs The State Of Madhya Pradesh,Supreme Court of India,2024-02-20,"Justice B.R. Gavai, Justice Sandeep Mehta",Regular,TRUE,TRUE,Himanshu Sharma,Male
+0388,Vikram Kumar Yadav @ Vikram Yadav vs Union Of India,Punjab and Haryana High Court,2024-02-20,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Vikram Kumar Yadav,Male
+0385,Irfan Khan vs State Of Haryana,Punjab and Haryana High Court,2024-02-21,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Irfan Khan,Male
+0922,Tarun Kaushik vs The State Of Delhi,Delhi High Court,2024-02-22,Justice Jyoti Singh,Regular,FALSE,FALSE,Tarun Kaushik,Male
+0314,Surendra Bhati vs State Of Rajasthan,"Rajasthan High Court, Jodhpur",2024-02-26,Justice Farjand Ali,Regular,FALSE,FALSE,Surendra Bhati,Male
+0316,Vimal Kumar Bairva vs State Of Rajasthan,"Rajasthan High Court, Jodhpur",2024-02-26,Justice Farjand Ali,Regular,FALSE,FALSE,Vimal Kumar Bairva,Male
+0365,Jaku Daud Buchad vs State Of Gujarat,Gujarat High Court,2024-02-28,Justice Divyesh A. Joshi,Regular,FALSE,FALSE,Jaku Daud Buchad,Male
+0364,Sultan Habib Lodhda vs State Of Gujarat,Gujarat High Court,2024-03-01,Justice Divyesh A. Joshi,Regular,FALSE,FALSE,Sultan Habib Lodhda,Male
+0489,Avinash vs State Of Rajasthan,"Rajasthan High Court, Jodhpur Bench",2024-03-01,Justice Dinesh Mehta,Regular,FALSE,FALSE,Avinash,Male
+1198,Qamar Ahmed Kazmi vs State Of U.P.,Allahabad High Court,2024-03-01,Justice Piyush Agrawal,Regular,FALSE,FALSE,Qamar Ahmed Kazmi,Male
+0978,Kuldeep vs State Nct Of Delhi,Delhi High Court,2024-03-04,Justice Manoj Kumar Ohri,Regular,FALSE,FALSE,Kuldeep,Male
+0716,Savitri vs State Of Himachal Pradesh,Himachal Pradesh High Court,2024-03-06,Justice Rakesh Kainthla,Regular,FALSE,FALSE,Savitri,Female
+0304,Hari Sankaran vs Serious Fraud Investigation Office And,Bombay High Court,2024-03-07,Justice Prithviraj K. Chavan,Regular,FALSE,FALSE,Hari Sankaran,Male
+0442,Jaswant Singh vs State Of Rajasthan,"Rajasthan High Court, Jodhpur",2024-03-07,Justice Kuldeep Mathur,Regular,FALSE,FALSE,Jaswant Singh,Male
+1180,Anshul Goyal vs State Of U.P. And Another,Allahabad High Court,2024-03-07,Justice Samit Gopal,Anticipatory,FALSE,FALSE,Anshul Goyal,Male
+0362,Rohit Madariya S/O Shri Vallabh Bhai vs State Of Gujarat,Gujarat High Court,2024-03-12,Justice S.V. Pinto,Regular,FALSE,FALSE,Rohit Madariya,Male
+0242,Abhishek Balu Sasane @ Abhishek Manoj vs The State Of Maharashtra,Bombay High Court,2024-03-13,Justice Madhav J. Jamdar,Regular,FALSE,FALSE,Abhishek Balu Sasane @ Abhishek Manoj Patil,Male
+0416,Abhishek Balu Sasane @ Abhishek Manoj Patil vs The State Of Maharashtra,Bombay High Court,2024-03-13,Justice Madhav J. Jamdar,Regular,FALSE,FALSE,Abhishek Balu Sasane @ Abhishek Manoj Patil,Male
+0789,Anant Sontu S/O Navratan Jain vs State Of Maharashtra Through PSO Cyber PS Sadar,Bombay High Court (Nagpur Bench),2024-03-15,Justice M. W. Chandwani,Regular,FALSE,FALSE,Anant @ Sontu S/O Navratan Jain,Male
+0787,Wahengbam Joykumar Singh vs The Officer-In-Charge,Manipur High Court,2024-03-18,Justice A. Guneshwar Sharma,Regular,FALSE,FALSE,Wahengbam Joykumar Singh,Male
+0786,Akhilesh Mishra vs State (The Nct Of Delhi),Delhi High Court,2024-03-19,Justice Swarana Kanta Sharma,Regular,FALSE,FALSE,Akhilesh Mishra,Male
+0935,Kamlesh Pathak vs State Of U.P.,Allahabad High Court,2024-03-19,Justice Sanjay Kumar Singh,Regular,FALSE,FALSE,Kamlesh Pathak,Male
+0380,Shinderpal Alias Bangali Alias Shinderpal Singh vs State Of Punjab,Punjab and Haryana High Court,2024-03-21,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Shinderpal Alias Bangali Alias Shinderpal Singh,Male
+0621,Sachin S/O Dhanraj Sagorkar vs The State Of Maharashtra Thr. Ps,"Bombay High Court, Nagpur Bench",2024-03-21,Justice Urmila Joshi-Phalke,Anticipatory,FALSE,FALSE,Sachin S/O Dhanraj Sagorkar,Male
+0627,Niraj Kumar Turi @ Neeraj Kumar Turi vs The State Of Jharkhand,Jharkhand High Court,2024-03-21,Justice Ambuj Nath,Regular,FALSE,FALSE,Niraj Kumar Turi @ Neeraj Kumar Turi,Male
+0690,Mohan Rajak vs The State Of Jharkhand,Jharkhand High Court,2024-03-21,Justice Ratnaker Bhengra,Regular,FALSE,FALSE,Mohan Rajak,Male
+0691,Ashok Kumar Das vs The State Of Jharkhand,Jharkhand High Court,2024-03-21,Justice Ratnaker Bhengra,Regular,FALSE,FALSE,Ashok Kumar Das,Male
+0596,Biru Kumar vs The State Of Bihar,Patna High Court,2024-03-22,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Biru Kumar,Male
+0600,Rajesh Kumar vs The State Of Bihar,Patna High Court,2024-03-22,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Rajesh Kumar,Male
+0601,Shankar Kumar vs The State Of Bihar,Patna High Court,2024-03-22,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Shankar Kumar,Male
+0700,Rajesh Kumar vs The State Of Bihar,Patna High Court,2024-03-22,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Rajesh Kumar,Male
+0701,Biru Kumar vs The State Of Bihar,Patna High Court,2024-03-22,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Biru Kumar,Male
+0457,Anand Shrivas vs State Of U.P.,Allahabad High Court,2024-03-28,Justice Manju Rani Chauhan,Regular,FALSE,FALSE,Anand Shrivas,Male
+0836,Smt Seema Jatav @ Banti Kumar vs State Of U.P.,Allahabad High Court,2024-04-01,Justice Sadhna Rani (Thakur),Regular,FALSE,FALSE,Smt Seema Jatav @ Banti Kumar,Female
+0976,Sonia Keshwani vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-04-02,Justice Maninder S. Bhatti,Regular,FALSE,FALSE,Sonia Keshwani,Female
+0987,Shailesh Gunvantrai Maniar vs State Of Maharashtra,Bombay High Court,2024-04-02,Justice Madhav J. Jamdar,Regular,FALSE,FALSE,Shailesh Gunvantrai Maniar,Male
+0988,Viral Prakash Savla vs The State Of Maharashtra,Bombay High Court,2024-04-02,Justice Madhav J. Jamdar,Regular,FALSE,FALSE,Viral Prakash Savla,Male
+0989,Jayesh Shevantilal Shah vs State Of Maharashtra,Bombay High Court,2024-04-02,Justice Madhav J. Jamdar,Regular,FALSE,FALSE,Jayesh Shevantilal Shah,Male
+0027,Nilam Khatoon vs The State Of Bihar,Patna High Court,2024-04-03,Justice Chandra Prakash Singh,Regular,FALSE,FALSE,Nilam Khatoon,Female
+0378,Wasim Khan vs UT Of Ladakh,High Court of Jammu & Kashmir and Ladakh,2024-04-03,Justice MA Chowdhary,Regular,FALSE,FALSE,Wasim Khan,Male
+0083,Nirmil Jitendrabhai Shah vs State Of Gujarat,Gujarat High Court,2024-04-05,Justice J. C. Doshi,Anticipatory,TRUE,FALSE,Karan Devendrabhai Rabari,Male
+0250,395/120B/412 Of The Indian Penal Code vs In Re: Amarendra Kumar Singh @ Amar Singh,Calcutta High Court,2024-04-08,"Justice Prasenjit Biswas, Justice Joymalya Bagchi",Regular,FALSE,FALSE,Amarendra Kumar Singh @ Amar Singh @ Pahalwan,Male
+0348,Bilal Changesh Khan vs Union Of India And Anr,Bombay High Court,2024-04-10,Justice Bharati Dangre,Regular,FALSE,TRUE,Bilal Changesh Khan,Male
+0767,Firoz Hussain Shaikh vs State Of Maharashtra,Bombay High Court,2024-04-10,Justice N. J. Jamadar,Regular,FALSE,FALSE,Firoz Hussain Shaikh @ Firoze Chamda,Male
+0769,Sameer Taj Khan vs State Of Maharashtra,Bombay High Court,2024-04-10,Justice N. J. Jamadar,Regular,FALSE,FALSE,Sameer Taj Khan,Male
+0772,Ajay Himmatlal Gosalia vs The State Of Maharashtra,Bombay High Court,2024-04-10,Justice N. J. Jamadar,Regular,FALSE,FALSE,Ajay Himmatlal Gosalia,Male
+0628,Mahendra Singh vs The State Of Jharkhand,Jharkhand High Court,2024-04-15,Justice Ambuj Nath,Regular,FALSE,FALSE,Mahendra Singh,Male
+0994,Sanjay Chandrashekhar Birajdar @ Patil vs State Of Maharashtra,Bombay High Court,2024-04-15,Justice N. J. Jamadar,Regular,FALSE,FALSE,Sanjay Chandrashekhar Birajdar @ Patil,Male
+0379,Naresh Kumar Alias Billu vs State Of Punjab,Punjab and Haryana High Court,2024-04-18,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Naresh Kumar Alias Billu,Male
+0381,Aleem Mohd. Aleem @ Sadhu vs Union Of India Thru. Zonal Director NCB,"Allahabad High Court, Lucknow Bench",2024-04-18,Justice Pankaj Bhatia,Regular,FALSE,FALSE,Aleem Mohd. Aleem @ Sadhu,Male
+0745,Sunil Ashok Kondugale vs The State Of Maharashtra,Bombay High Court,2024-04-18,Justice Madhav J. Jamdar,Regular,FALSE,FALSE,Sunil Ashok Kondugale,Male
+0249,Laxman Alias Lachuma S/O Venkataramana vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2024-04-22,Justice Shivashankar Amarannavar,Regular,FALSE,FALSE,Laxman Alias Lachuma S/O Venkataramana,Male
+0944,Saizaan Wahidali Sayyed vs State Of Maharashtra,Bombay High Court,2024-04-23,Justice N. J. Jamadar,Regular,FALSE,FALSE,Saizaan Wahidali Sayyed,Male
+0945,Mohammad Rafiq Abdul Jabbar Shaikh vs State Of Maharashtra,Bombay High Court,2024-04-23,Justice N. J. Jamadar,Regular,FALSE,FALSE,Mohammad Rafiq Abdul Jabbar Shaikh,Male
+0356,Shivam Sharma vs State Of U.P.,Allahabad High Court,2024-04-24,Justice Sadhna Rani (Thakur),Regular,FALSE,FALSE,Shivam Sharma,Male
+0453,Shivam Sharma vs State Of U.P.,Allahabad High Court,2024-04-24,Justice Sadhna Rani (Thakur),Regular,FALSE,FALSE,Shivam Sharma,Male
+0629,Irfan Ansari vs The State Of Jharkhand,Jharkhand High Court,2024-04-24,Justice Ambuj Nath,Regular,FALSE,FALSE,Irfan Ansari,Male
+0939,Somnath Sayaji Gaikwad vs The State Of Maharashtra,Bombay High Court,2024-04-29,Justice Prithviraj K. Chavan,Regular,FALSE,FALSE,Somnath Sayaji Gaikwad,Male
+0963,Aakash Ganeshbhai Makwana vs State Of Gujarat,Gujarat High Court,2024-04-30,Justice Divyesh A. Joshi,Regular,FALSE,FALSE,Aakash Ganeshbhai Makwana,Male
+0494,Hemraj Kumar vs State Of U.P.,Allahabad High Court,2024-05-01,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Hemraj Kumar,Male
+0706,Kapil Bhandari vs The State Of Jharkhand,Jharkhand High Court,2024-05-02,Justice Ratnaker Bhengra,Regular,FALSE,FALSE,Kapil Bhandari,Male
+0616,Mohsin Amin Ahemad S/O Khalil Ahemad And Another vs The State Of Maharashtra,"Bombay High Court, Nagpur Bench",2024-05-03,Justice Urmila Joshi-Phalke,Anticipatory,FALSE,FALSE,Mohsin Amin Ahemad and Nikhat Farzana,Male
+0773,Nonender Singh vs State Of Himachal Pradesh,Himachal Pradesh High Court,2024-05-03,Justice Ranjan Sharma,Anticipatory,FALSE,FALSE,Nonender Singh,Male
+0867,Sameera Fatema W/O Gaulam Gaus Pathan vs The State Of Maharashtra Thr. Pso Ps,"Bombay High Court, Nagpur Bench",2024-05-03,Justice Urmila Joshi-Phalke,Anticipatory,FALSE,FALSE,Sameera Fatema,Female
+0439,Jayesh K Gopinathan vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2024-05-06,Justice Sanjay A. Deshmukh,Regular,FALSE,FALSE,Jayesh K Gopinathan,Male
+0861,Mokhtar Ansari vs The State Of Jharkhand And Another,Jharkhand High Court,2024-05-06,Justice Sanjay Kumar Dwivedi,Anticipatory,FALSE,FALSE,Mokhtar Ansari,Male
+0431,Sanjay Kumar vs State Of U.P. Thru. Secy. Deptt. Of Home,"Allahabad High Court, Lucknow Bench",2024-05-07,Justice Rajesh Singh Chauhan,Regular,FALSE,FALSE,Sanjay Kumar,Male
+0177,Union of India vs Mrityunjay Kumar Singh @ Mrityunjay @ Sonu Singh,Supreme Court of India,2024-05-10,"Justice Aravind Kumar, Justice Pamidighantam Sri Narasimha",Regular,TRUE,FALSE,Mrityunjay Kumar Singh @ Mrityunjay @ Sonu Singh,Male
+0347,Sayyed Sheru Sayyed Budan vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2024-05-10,Justice Sanjay A. Deshmukh,Regular,FALSE,FALSE,Sayyed Sheru Sayyed Budan,Male
+0268,Shivgopal @ Raja vs State Of U.P. And 3 Others,Allahabad High Court,2024-05-14,Justice Ajay Bhanot,Regular,FALSE,FALSE,Shivgopal @ Raja,Male
+0410,Kalamuddin Ansari @ Doka vs State Of U.P.,Allahabad High Court,2024-05-14,Justice Mrs. Sadhna Rani (Thakur),Regular,FALSE,FALSE,Kalamuddin Ansari @ Doka,Male
+0452,Kalamuddin Ansari @ Doka vs State Of U.P.,Allahabad High Court,2024-05-14,Justice Sadhna Rani (Thakur),Regular,FALSE,FALSE,Kalamuddin Ansari @ Doka,Male
+0938,Praveen vs State Of U.P.,Allahabad High Court,2024-05-14,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Praveen,Male
+0665,Vikash Das vs The State Of Jharkhand,Jharkhand High Court,2024-05-15,Justice Ratnaker Bhengra,Regular,FALSE,FALSE,Vikash Das,Male
+0717,Child Under Conflict With Law vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-05-28,Justice Dinesh Kumar Paliwal,Regular,FALSE,FALSE,Not specified,Male
+0448,Navin Dahraji vs State Of Chhattisgarh,"Chhattisgarh High Court, Bilaspur",2024-05-31,Justice Naresh Kumar Vyas,Anticipatory,FALSE,FALSE,Navin Dahraji,Male
+0686,Shambhu Kumar Mandal @ Shambhu Kr. Mandal vs The State Of Jharkhand,Jharkhand High Court,2024-06-11,Justice Pradeep Kumar Srivastava,Regular,FALSE,FALSE,Shambhu Kumar Mandal @ Shambhu Kr. Mandal,Male
+0286,Ajoy Singh Alias Ajay Singh vs Unknown,Calcutta High Court,2024-06-13,"Justice Arijit Banerjee, Justice Apurba Sinha Ray",Regular,FALSE,FALSE,Ajoy Singh Alias Ajay Singh,Male
+0426,Bhanwar Lal Changal vs The National Investigation Agency,Jharkhand High Court,2024-06-20,Justice Rongon Mukhopadhyay and Deepak Roshan,Regular,FALSE,FALSE,Bhanwar Lal Changal,Male
+0921,Muneer vs State Of Kerala,Kerala High Court,2024-06-20,Justice C.S. Dias,Regular,FALSE,FALSE,Muneer,Male
+0346,Mr. Manjunath P vs State By Karnataka,"Karnataka High Court, Bengaluru",2024-06-21,Justice M.G. Uma,Regular,FALSE,FALSE,Mr. Manjunath P,Male
+0436,Mr. Manjunath P vs State By Karnataka,Karnataka High Court,2024-06-21,Justice Mrs. Justice M.G. Uma,Regular,FALSE,FALSE,Mr. Manjunath P,Male
+0443,Mr Manjunath P vs State By Karnataka,Karnataka High Court,2024-06-21,Justice M G Uma,Regular,FALSE,FALSE,Mr. Manjunath P.,Male
+1150,Mehtab Alam vs The State Of Bihar,Patna High Court,2024-06-21,Justice Sandeep Kumar,Regular,FALSE,FALSE,Mehtab Alam,Male
+0510,Bibhu Das @ Bibhuti And vs State Of Odisha,Orissa High Court,2024-06-25,Justice Sibo Sankar Mishra,Regular,FALSE,FALSE,Bibhu Das @ Bibhuti and others,Male
+0953,Sachin Suresh Devmare vs State Of Maharashtra,Bombay High Court,2024-07-01,Justice N. J. Jamadar,Regular,FALSE,FALSE,Sachin Suresh Devmare,Male
+0287,Kailash Babu vs State Of U.P.,Allahabad High Court,2024-07-03,Justice Saurabh Shyam Shamshery,Regular,FALSE,FALSE,Kailash Babu,Male
+0622,Ganesh Prasad @ Ganesh Kumar vs The State Of Jharkhand,Jharkhand High Court,2024-07-03,Justice Pradeep Kumar Srivastava,Regular,FALSE,FALSE,Ganesh Prasad @ Ganesh Kumar,Male
+0037,Bharat Budha Koli vs The State Of Maharashtra And Another,"Bombay High Court, Aurangabad Bench",2024-07-05,Justice Abhay S. Waghwase,Interim,FALSE,FALSE,Bharat Budha Koli,Male
+0714,Mevindi Veeresha Alias Eranna A Alur vs Harihar Town Police Station,Karnataka High Court,2024-07-05,Justice M. Nagaprasanna,Regular,TRUE,FALSE,Mevindi Veeresha Alias Eranna A Alur,Male
+1044,Sahab Singh vs State Of Haryana,Punjab and Haryana High Court,2024-07-05,Justice Anoop Chitkara,Regular,FALSE,FALSE,Sahab Singh,Male
+1064,Sovraj vs State Govt. Of NCT Of Delhi,Delhi High Court,2024-07-08,Justice Amit Mahajan,Regular,FALSE,FALSE,Sovraj,Male
+0422,Shaikh Umer Shaikh Habib vs The State Of Maharashtra And Another,Bombay High Court,2024-07-11,Justice Vibha Kankanwadi and Y. G. Khobragade,Regular,FALSE,FALSE,Shaikh Umer Shaikh Habib,Male
+0668,Vikas Mahra @ Vikash Kumar vs The State Of Jharkhand,Jharkhand High Court,2024-07-11,Justice Rajesh Kumar,Regular,FALSE,FALSE,Vikas Mahra @ Vikash Kumar,Male
+0969,Javed Shabuddin Khan @ Papa Khan vs The State Of Maharashtra,Bombay High Court,2024-07-15,Justice N. J. Jamadar,Regular,FALSE,FALSE,Javed Shabuddin Khan @ Papa Khan,Male
+0970,Amjad Rais Redkar vs The State Of Maharashtra,Bombay High Court,2024-07-15,Justice N. J. Jamadar,Regular,FALSE,FALSE,Amjad Rais Redkar,Male
+0905,Rekha Devi vs The State Of Bihar,Patna High Court,2024-07-19,Justice Dr. Anshuman,Anticipatory,FALSE,FALSE,Rekha Devi,Female
+0907,Guddu Rai vs The State Of Bihar,Patna High Court,2024-07-19,Justice Dr. Anshuman,Regular,FALSE,FALSE,Guddu Rai,Male
+0908,Shashi Kumar Singh vs The State Of Bihar,Patna High Court,2024-07-19,Justice Dr. Anshuman,Regular,FALSE,FALSE,Shashi Kumar Singh,Male
+0909,Hiphajat Alam @ Hifajat Alam @ Irfan vs The State Of Bihar,Patna High Court,2024-07-19,Justice Dr. Anshuman,Regular,FALSE,FALSE,Hiphajat Alam @ Hifajat Alam @ Irfan,Male
+0910,Gandhi Sahani vs The State Of Bihar,Patna High Court,2024-07-19,Justice Dr. Anshuman,Regular,FALSE,FALSE,Gandhi Sahani,Male
+0412,Arun Nagnath Fuleboyane vs The State Of Maharashtra,"Bombay High Court, Aurangabad Bench",2024-07-20,Justice S. G. Mehare,Regular,FALSE,FALSE,Arun Nagnath Fuleboyane,Male
+0126,Narasing vs The State Of Karnataka And Anr,"Karnataka High Court, Kalaburagi Bench",2024-07-23,Justice S. Vishwajith Shetty,Regular,FALSE,FALSE,Narasing,Male
+0790,Rahul Yadav vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-07-23,Justice Sanjeev S Kalgaonkar,Anticipatory,FALSE,FALSE,Rahul Yadav,Male
+0368,Arjan @ Mohammed Irfan vs State Of Punjab,Punjab and Haryana High Court,2024-07-25,Justice Anoop Chitkara,Regular,FALSE,FALSE,Arjan @ Mohammed Irfan,Male
+0679,Rafikul Islam vs The State Of Assam,Gauhati High Court,2024-07-29,Justice Malasri Nandi,Anticipatory,FALSE,FALSE,Rafikul Islam,Male
+0906,Danish @ Chintu vs State Of NCT Of Delhi,Delhi High Court,2024-07-29,Justice Vikas Mahajan,Regular,FALSE,FALSE,Danish @ Chintu,Male
+0488,Moses N @ Moses vs Sub Inspector Of Police,"Karnataka High Court, Bengaluru",2024-07-30,Justice S. Vishwajith Shetty,Anticipatory,FALSE,FALSE,Moses N @ Moses,Male
+0382,Harpreet Singh Alias Peeta vs State Of Punjab,Punjab and Haryana High Court,2024-07-31,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Harpreet Singh @ Peeta,Male
+0069,Kaushalendra Pratap Singh vs State NCT Of Delhi & Anr.,Delhi High Court,2024-08-02,Justice Subramonium Prasad,Regular,TRUE,FALSE,Not specified,Male
+0651,Tarkeshwar Sen vs State Of Haryana,Punjab and Haryana High Court,2024-08-02,Justice Gurbir Singh,Anticipatory,FALSE,FALSE,Tarkeshwar Sen,Male
+0522,Mithun Kori vs State (NCT Of Delhi) & Ors,Delhi High Court,2024-08-05,Justice Neena Bansal Krishna,Regular,FALSE,FALSE,Mithun Kori,Male
+1154,Rakshith Kumar @ Harsha vs State Of Karnataka,Karnataka High Court,2024-08-05,Justice Mohammad Nawaz,Regular,FALSE,FALSE,Rakshith Kumar @ Harsha,Male
+0124,Mahabaleshwar Babu Siddi vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2024-08-06,Justice S. Vishwajith Shetty,Regular,FALSE,FALSE,Mahabaleshwar Babu Siddi,Male
+0036,Ali Hussain vs The State Of Assam And Anr,Gauhati High Court,2024-08-07,Justice Malasri Nandi,Anticipatory,FALSE,FALSE,Ali Hussain,Male
+0072,Abdul Wahid Alias Saddam vs National Investigation Agency,Delhi High Court,2024-08-07,"Justice Prathiba M. Singh, Justice Amit Sharma",Regular,FALSE,TRUE,Abdul Wahid Alias Saddam,Male
+0213,Rakesh @ Hari Om vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur",2024-08-07,Justice Vishal Mishra,Regular,FALSE,FALSE,Rakesh @ Hari Om,Male
+0780,Mohammad Shabbir Noor Mohd. Momin vs The State Of Maharashtra,Bombay High Court,2024-08-07,Justice N. J. Jamadar,Regular,FALSE,FALSE,Mohammad Shabbir Noor Mohd. Momin,Male
+0495,Masoodh Pasha @ Masood Pasha vs State Of Karnataka,"Karnataka High Court, Bengaluru",2024-08-12,Justice S. Rachaiah,Regular,FALSE,FALSE,Masoodh Pasha @ Masood Pasha,Male
+0845,Smt Rekha vs State Of U.P. And Another,Allahabad High Court,2024-08-12,Justice Vivek Varma,Anticipatory,FALSE,FALSE,Smt Rekha,Female
+0456,Golu Alias Harsh vs State Of U.P. And Another,Allahabad High Court,2024-08-13,Justice Vivek Varma,Anticipatory,FALSE,FALSE,Golu Alias Harsh,Male
+0781,Bhikhan Ganjhu @ Deepak Kumar vs Union Of India,Jharkhand High Court,2024-08-14,Justice Rongon Mukhopadhyay and Deepak Roshan,Regular,FALSE,FALSE,Bhikhan Ganjhu @ Deepak Kumar,Male
+0843,Sri Harish Kumar N.M vs The State Of Karnataka,Karnataka High Court,2024-08-20,Justice K. Natarajan,Regular,TRUE,FALSE,Harish Kumar N.M,Male
+0844,Smt Asfia Hussaini vs State Of Karnataka,Karnataka High Court,2024-08-20,Justice K. Natarajan,Anticipatory,TRUE,FALSE,Harish Kumar N.M,Male
+0960,Sheetal @ Vicky Nagnath More vs State Of Maharashtra,Bombay High Court,2024-08-26,Justice N. J. Jamadar,Regular,FALSE,FALSE,Sheetal @ Vicky Nagnath More,Male
+0669,Kamaluddin Ansari vs The State Of Jharkhand,Jharkhand High Court,2024-08-28,Justice Ratnaker Bhengra,Regular,FALSE,FALSE,Kamaluddin Ansari,Male
+0982,Shubham Singh Rajput vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-08-28,Justice Prakash Chandra Gupta,Regular,FALSE,FALSE,Shubham Singh Rajput,Male
+0983,Neeraj vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-08-28,Justice Prakash Chandra Gupta,Regular,FALSE,FALSE,Neeraj,Male
+0201,Amit Gupta vs State Of U.P.,Allahabad High Court,2024-09-04,Justice Samit Gopal,Regular,FALSE,FALSE,Amit Gupta,Male
+0580,S. Chitravel vs State Of Odisha (OPID),Orissa High Court,2024-09-04,Justice Sibo Sankar Mishra,Regular,FALSE,FALSE,S. Chitravel,Male
+1179,Chanpreet Singh Rayat vs Enforcement Directorate,Delhi High Court,2024-09-09,Justice Neena Bansal Krishna,Regular,FALSE,TRUE,Chanpreet Singh Rayat,Male
+0964,Daya Rani And Others vs State Of Punjab,Punjab and Haryana High Court,2024-09-12,Justice Manisha Batra,Anticipatory,FALSE,FALSE,Daya Rani and Others,Female
+0770,Devendra Shukla vs State Of U.P.,Allahabad High Court,2024-09-13,Justice Raj Beer Singh,Regular,FALSE,FALSE,Devendra Shukla,Male
+0992,Kushal Rakheja vs State Gnct Delhi,Delhi High Court,2024-09-17,Justice Amit Mahajan,Regular,FALSE,FALSE,Kushal Rakheja,Male
+0961,Gajju Ram vs State Of Punjab,Punjab and Haryana High Court,2024-09-20,Justice Anoop Chitkara,Anticipatory,FALSE,FALSE,Gajju Ram,Male
+1200,Harish Bansal vs The State Of Assam,Gauhati High Court,2024-09-20,Justice Malasri Nandi,Regular,FALSE,TRUE,Harish Bansal,Male
+0545,Chandersingh vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-09-21,Justice Prakash Chandra Gupta,Anticipatory,FALSE,FALSE,Chandersingh,Male
+0331,Girish Bharti vs Narcotics Control Bureau,Delhi High Court,2024-09-23,Justice Subramonium Prasad,Regular,FALSE,FALSE,Girish Bharti,Male
+0367,Girish Bharti vs Narcotics Control Bureau,Delhi High Court,2024-09-23,Justice Subramonium Prasad,Regular,FALSE,FALSE,Girish Bharti,Male
+0595,Mr. Shridhar K. Pujar vs The State Of Karnataka,Karnataka High Court,2024-09-23,Justice M.G. Uma,Anticipatory,FALSE,FALSE,Mr. Shridhar K. Pujar,Male
+0697,Nikhil Paul vs The State Of Jharkhand,Jharkhand High Court,2024-09-23,Justice Subhash Chand,Regular,FALSE,FALSE,Nikhil Paul,Male
+0687,Ravi Kant vs The State Of Jharkhand,Jharkhand High Court,2024-09-25,Justice Subhash Chand,Regular,FALSE,FALSE,Ravi Kant,Male
+0375,Salim Uddin vs The State Of Assam,Gauhati High Court,2024-09-30,Justice Malasri Nandi,Regular,FALSE,FALSE,Salim Uddin,Male
+0771,Navinbhai Jayantibhai Patel @ Navin vs Union Of India Through National Investigation Agency,Jharkhand High Court,2024-10-01,Justice Rongon Mukhopadhyay and Sanjay Prasad,Regular,FALSE,FALSE,Navinbhai Jayantibhai Patel @ Navin,Male
+0986,Madan vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-10-01,Justice Prakash Chandra Gupta,Regular,FALSE,FALSE,Madan,Male
+0868,Saroj vs State Of U.P.,Allahabad High Court,2024-10-03,Justice Mayank Kumar Jain,Regular,FALSE,FALSE,Saroj,Female
+0912,Nayim Ali Khan vs State Of Kerala,Kerala High Court,2024-10-03,Justice C.S. Dias,Regular,FALSE,FALSE,Nayim Ali Khan,Male
+0376,Tapas Ahmed vs Unknown,Calcutta High Court,2024-10-08,"Justice Arijit Banerjee, Justice Apurba Sinha Ray",Regular,FALSE,FALSE,Tapas Ahmed,Male
+0997,Maheshkumar Shantilal Akhani vs State Of Gujarat,Gujarat High Court,2024-10-14,Justice M. R. Mengdey,Anticipatory,FALSE,FALSE,Maheshkumar Shantilal Akhani,Male
+0374,Ranbeer Singh vs State Of Punjab,Punjab and Haryana High Court,2024-10-18,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Ranbeer Singh,Male
+0648,Muso Kumar @ Dhananjay Kumar vs The State Of Bihar,Patna High Court,2024-10-18,Justice Satyavrat Verma,Anticipatory,FALSE,FALSE,Muso Kumar @ Dhananjay Kumar,Male
+0966,Gudla Ramya Ponaganti Ramya vs The State Of Telangana,Telangana High Court,2024-10-18,Justice P. Sam Koshy and N. Tukaramji,Regular,FALSE,FALSE,Gudla Ramya Ponaganti Ramya,Female
+0967,Vitthanala Kavitha vs The State Of Telangana,Telangana High Court,2024-10-18,Justice P. Sam Koshy and N. Tukaramji,Regular,FALSE,FALSE,Vitthanala Kavitha,Female
+0125,Chandan Yadav vs The State Of Bihar,Patna High Court,2024-10-21,Justice Chandra Shekhar Jha,Regular,FALSE,FALSE,Chandan Yadav,Male
+0319,Deepak Rawat vs. State Of H.P.,"Himachal Pradesh High Court, Shimla",2024-10-25,Justice Rakesh Kainthla,Interim,FALSE,FALSE,Deepak Rawat,Male
+0699,Ravi Ranjan Kumar @ Ankit Kumar vs The State Of Bihar,Patna High Court,2024-10-25,Justice Chandra Prakash Singh,Regular,FALSE,FALSE,Ravi Ranjan Kumar @ Ankit Kumar,Male
+1151,Junaid @ Junaid Alam vs The State Of Bihar,Patna High Court,2024-10-25,Justice Rajiv Roy,Anticipatory,FALSE,FALSE,Junaid @ Junaid Alam,Male
+0546,Suraj Singh vs State Of Rajasthan,Rajasthan High Court,2024-11-06,Justice Munnuri Laxman,Regular,FALSE,FALSE,Suraj Singh,Male
+0363,Shavinderpal vs State Of Punjab,Punjab and Haryana High Court,2024-11-12,Justice Anoop Chitkara,Regular,FALSE,FALSE,Shavinderpal,Male
+0617,Aakash Mukharjee vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Jabalpur Bench",2024-11-14,Justice Anuradha Shukla,Regular,FALSE,FALSE,Aakash Mukharjee,Male
+0666,Mohammed Azar vs The State Represented By,Madras High Court,2024-11-18,Justice A.D. Jagadish Chandira,Regular,FALSE,FALSE,Mohammed Azar,Male
+0143,Jakir @ Zakir Vasta vs The State Of Bihar,Patna High Court,2024-11-20,Justice Chandra Prakash Singh,Anticipatory,FALSE,FALSE,Jakir @ Zakir Vasta,Male
+0307,Sanjeev Kumar vs State Of Haryana,Punjab and Haryana High Court,2024-11-20,Justice Anoop Chitkara,Regular,FALSE,FALSE,Sanjeev Kumar,Male
+0427,Imran Khan @ Imran vs National Investigating Agency,Karnataka High Court,2024-11-20,Justice K.S. Mudagal and Vijaykumar A. Patil,Regular,FALSE,FALSE,Imran Khan @ Imran,Male
+0713,Jaichand Pandey vs State Of U.P. Thru. Prin. Secy. Home,"Allahabad High Court, Lucknow Bench",2024-11-21,Justice Shree Prakash Singh,Regular,FALSE,FALSE,Jaichand Pandey,Male
+0746,State Of Karnataka vs Jagadeesh Devaramaji Choudhari,"Karnataka High Court, Dharwad Bench",2024-11-27,Justice K. Natarajan,Regular,TRUE,FALSE,Jagadeesh Devaramaji Choudhari,Male
+0747,Mr. Amit Mallikarjun Vannur vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2024-11-27,Justice K. Natarajan,Regular,TRUE,FALSE,Mr. Amit Mallikarjun Vannur,Male
+0384,Sri Anand Natarajan vs The Intelligence Officer,Karnataka High Court,2024-12-03,Justice S. Vishwajith Shetty,Regular,FALSE,FALSE,Sri Anand Natarajan,Male
+0802,Anish Rai vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Anish Rai,Male
+0803,Mayur Dayashanker Dave And Another vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Mayur Dayashanker Dave and another (name not specified),Male
+0804,Pankaj Birinder Gupta @ Pankaj vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Pankaj Birinder Gupta @ Pankaj,Male
+0805,Nilesh Pandey @ Pandey Nilesh vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Nilesh Pandey @ Pandey Nilesh,Male
+0806,Sohail Bhai P Chippa vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Sohail Bhai P Chippa,Male
+0807,Prasang Moradiya @ Moradiya Prasang vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Prasang Moradiya @ Moradiya Prasang,Male
+0808,Vaibhav Soosania @ Vaibhav Rajesh vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Vaibhav Soosania @ Vaibhav Rajesh,Male
+0809,Wiphuliu Kalengta vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Wiphuliu Kalengta,Female
+0810,Rahul Pandey vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Rahul Pandey,Male
+0811,Aifi Hussain vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Aifi Hussain,Male
+0812,Aavas Singh Negi and another vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Aavas Singh Negi and another (name not specified),Male
+0813,Shubham Sharma and others vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Shubham Sharma and others (names not specified),Male
+0814,Vishal Goswami vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Vishal Goswami,Male
+0815,Sanyam Thapa and others vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Sanyam Thapa and others (names not specified),Male
+0816,Rahul Pathak @ Rahul Bhaveshbhai Pathak vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Rahul Pathak @ Rahul Bhaveshbhai Pathak,Male
+0817,Saiyad Mahmmad Sagir vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Saiyad Mahmmad Sagir,Male
+0818,Lokesh Sharma @ Sharma Lokesh vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Lokesh Sharma @ Sharma Lokesh Hareshbhai,Male
+0819,Sanjana Nimbalkar vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Sanjana Nimbalkar,Female
+0820,Asheesh Pal and others vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Asheesh Pal and others (names not specified),Male
+0821,Avinash Yadav and others vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Avinash Yadav and others (names not specified),Male
+0822,Sahil Ghanchi vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Sahil Ghanchi @ Ghanchi Sahilbhai Ismailbhai,Male
+0823,Simran vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Simran,Female
+0824,Jairraj Chauhan @ Jayrajsinh Kiritsinh Chauhan vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Jairraj Chauhan @ Jayrajsinh Kiritsinh Chauhan,Male
+0825,Kundan Sahu vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Kundan Sahu,Male
+0826,Keshav vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Keshav,Male
+0827,Jebika vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Jebika,Female
+0828,Neha Rai @ Neha vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Neha Rai @ Neha,Female
+0829,Shivesh Dubey vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Shivesh Dubey,Male
+0830,Hari Krishnan J vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Hari Krishnan J,Male
+0831,Abhas Sunwar and others vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Abhas Sunwar and others (names not specified),Male
+0832,Aamin Rymbai vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Aamin Rymbai,Male
+0833,Kussum Thapa and another vs State Of Punjab,Punjab and Haryana High Court,2024-12-11,Justice Rajesh Bhardwaj,Regular,FALSE,FALSE,Kussum Thapa and another (name not specified),Female
+0420,Ram Singh vs State Of U.P.,Allahabad High Court,2024-12-12,Justice Rajeev Misra,Regular,FALSE,FALSE,Ram Singh,Male
+1056,Inder Singh vs State Of Himachal Pradesh,Himachal Pradesh High Court,2024-12-13,Justice Rakesh Kainthla,Regular,FALSE,FALSE,Inder Singh,Male
+0748,Arun Kumar vs State Of U.P.,Allahabad High Court,2024-12-16,Justice Raj Beer Singh,Regular,FALSE,FALSE,Arun Kumar,Male
+0760,Parekh Kurre vs Economic Offence Wing And Anti-Corruption Bureau,Chhattisgarh High Court,2024-12-16,Justice Narendra Kumar Vyas,Regular,FALSE,FALSE,Parekh Kurre,Male
+0761,Roshan Kumar Singh vs State Of Chhattisgarh,Chhattisgarh High Court,2024-12-16,Justice Narendra Kumar Vyas,Regular,FALSE,FALSE,Roshan Kumar Singh,Male
+0762,Sandeep Kumar Nayak vs State Of Chhattisgarh,Chhattisgarh High Court,2024-12-16,Justice Narendra Kumar Vyas,Regular,FALSE,FALSE,Sandeep Kumar Nayak,Male
+0763,Shiv Shankar Naag vs Anti-Corruption Bureau/ Economic Offence Wing,Chhattisgarh High Court,2024-12-16,Justice Narendra Kumar Vyas,Regular,FALSE,FALSE,Shiv Shankar Naag,Male
+0764,Virendra Kumar Jaiswal @ Montu vs State Of Chhattisgarh,Chhattisgarh High Court,2024-12-16,Justice Narendra Kumar Vyas,Regular,FALSE,FALSE,Virendra Kumar Jaiswal @ Montu,Male
+0765,Chandra Prakash Jaiswal vs State Of Chhattisgarh,Chhattisgarh High Court,2024-12-16,Justice Narendra Kumar Vyas,Regular,FALSE,FALSE,Chandra Prakash Jaiswal,Male
+0779,Abbas Ansari vs State Of U.P.,Allahabad High Court,2024-12-18,Justice Samit Gopal,Regular,FALSE,FALSE,Abbas Ansari,Male
+0985,Mamta Panwar vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2024-12-18,Justice Prakash Chandra Gupta,Regular,FALSE,FALSE,Mamta Panwar,Female
+0085,Pradeep Kumar Nehra vs Union Of India & Ors.,Delhi High Court,2024-12-23,"Justice Prathiba M. Singh, Justice Amit Sharma",Regular,FALSE,FALSE,Pradeep Kumar Nehra,Male
+0892,Sushant Muttreja vs Serious Fraud Investigation Office,Delhi High Court,2024-12-23,Justice Chandra Dhari Singh,Regular,FALSE,FALSE,Sushant Muttreja,Male
+0390,Lakho vs State Of Punjab,Punjab and Haryana High Court,2025-01-07,Justice Sumeet Goel,Anticipatory,FALSE,FALSE,Lakho Kaur,Female
+0391,Lakho vs State Of Punjab,Punjab and Haryana High Court,2025-01-07,Justice Sumeet Goel,Anticipatory,FALSE,FALSE,Lakho Kaur,Female
+0676,Divyaben @ Kavyaben Manilal Chandora vs State Of Gujarat,Gujarat High Court,2025-01-08,Justice Hasmukh D. Suthar,Anticipatory,FALSE,FALSE,Divyaben @ Kavyaben Manilal Chandora,Female
+0984,Rishi Choudhary vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2025-01-08,Justice Prakash Chandra Gupta,Regular,FALSE,FALSE,Rishi Choudhary,Male
+0871,Bhanu Pratap Chaubey vs The State Of Bihar,Patna High Court,2025-01-09,Justice Rudra Prakash Mishra,Regular,FALSE,FALSE,Bhanu Pratap Chaubey,Male
+0138,Rajini vs State Rep. By,Madras High Court,2025-01-10,Justice Sunder Mohan,Regular,FALSE,FALSE,Rajini,Male
+0942,Neelam Prabhavati vs The State Of Andhra Pradesh,Andhra Pradesh High Court,2025-01-10,Justice Dr. V.R.K. Krupa Sagar,Anticipatory,FALSE,FALSE,Neelam Prabhavati,Female
+1070,Vikram vs State Of Himachal Pradesh,Himachal Pradesh High Court,2025-01-10,Justice Ranjan Sharma,Regular,FALSE,FALSE,Vikram,Male
+0370,The State Of Tripura vs Kabir Hossen,Tripura High Court,2025-01-17,Justice Biswajit Palit,Interim,TRUE,FALSE,Kabir Hossen,Male
+0839,Mrs. Madhulata vs The State Of Jharkhand,Jharkhand High Court,2025-01-17,Justice Gautam Kumar Choudhary,Anticipatory,TRUE,FALSE,Pinku Kumar @ Pankaj Kumar,Male
+0708,Muhammed Rafeeq vs State Of Kerala,Kerala High Court,2025-01-21,Justice P.V. Kunhikrishnan,Anticipatory,FALSE,FALSE,Muhammed Rafeeq,Male
+0709,Rinoy Anil vs State Of Kerala,Kerala High Court,2025-01-21,Justice P.V. Kunhikrishnan,Anticipatory,FALSE,FALSE,Rinoy Anil,Male
+0710,Shamhoon S K vs State Of Kerala,Kerala High Court,2025-01-21,Justice P.V. Kunhikrishnan,Anticipatory,FALSE,FALSE,Shamhoon S K,Male
+0476,Zarina W/O Riyazahmed Basrikati vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2025-01-24,Justice Ravi V. Hosmani,Anticipatory,FALSE,FALSE,Zarina W/O Riyazahmed Basrikati,Female
+0046,X vs The State & Anr,High Court of Delhi,2025-01-27,Justice Amit Mahajan,Anticipatory,TRUE,FALSE,Respondent No. 2,Male
+0480,Prakash S/O Bharamappa Ballari vs State Of Karnataka,"Karnataka High Court, Dharwad Bench",2025-01-28,Justice Ravi V. Hosmani,Anticipatory,FALSE,FALSE,Prakash S/O Bharamappa Ballari,Male
+0306,Anil Kumar vs State Of Punjab,Punjab and Haryana High Court,2025-01-30,Justice Anoop Chitkara,Regular,FALSE,FALSE,Anil Kumar,Male
+1009,Vikram Alias Biku vs State Of Haryana,Punjab and Haryana High Court,2025-01-30,Justice Anoop Chitkara,Regular,FALSE,FALSE,Vikram Alias Biku,Male
+0481,Smt. Allabu W/O Husensab Gonnaddi vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2025-01-31,Justice Ravi V. Hosmani,Anticipatory,FALSE,FALSE,Smt. Allabu W/O Husensab Gonnaddi,Female
+1047,Karamjit Singh Dhaliwal vs State Of Punjab,Punjab and Haryana High Court,2025-02-03,Justice Sandeep Moudgil,Anticipatory,FALSE,FALSE,Karamjit Singh Dhaliwal,Male
+0389,Jeevanand Haldar vs State Of Odisha,Orissa High Court,2025-02-12,Justice Savitri Ratho,Regular,FALSE,FALSE,Jeevanand Haldar,Male
+0387,Manish Dua vs State Of Punjab,Punjab and Haryana High Court,2025-02-13,Justice Jasjit Singh Bedi,Regular,FALSE,FALSE,Manish Dua,Male
+0981,"Bhallu Singh @ Bhonu Prasad @ Bhallu vs The Union Of India Through Assistant Director, Directorate of Enforcement",Patna High Court,2025-02-13,Justice Chandra Shekhar Jha,Regular,FALSE,FALSE,Bhallu Singh @ Bhonu Prasad @ Bhallu Yadav,Male
+1014,Rakeshbhai Natvarlal Patel vs State Of Gujarat,Gujarat High Court,2025-02-13,Justice Hasmukh D. Suthar,Anticipatory,FALSE,FALSE,Rakeshbhai Natvarlal Patel,Male
+0405,Deepak Kumar @ Deepak Kumar Sahani vs The State Of Bihar,Patna High Court,2025-02-14,Justice Nawneet Kumar Pandey,Regular,FALSE,FALSE,Deepak Kumar @ Deepak Kumar Sahani,Male
+0467,Rahul vs State Of Haryana And Others,Punjab and Haryana High Court,2025-02-17,Justice Harpreet Singh Brar,Anticipatory,TRUE,FALSE,Respondent No.2 and 3 (names not specified),Unknown
+0653,Shasikant Kumar @ Shashikant Kumar vs The State Of Bihar,Patna High Court,2025-02-17,Justice Rajiv Roy,Regular,FALSE,FALSE,Shasikant Kumar @ Shashikant Kumar @ Shashikant Kumar Singh @ Guddu @ Guddu Singh,Male
+0654,Ravi Kumar vs The State Of Bihar,Patna High Court,2025-02-17,Justice Rajiv Roy,Regular,FALSE,FALSE,Ravi Kumar,Male
+0655,Shashikant Kumar @ Bablu vs The State Of Bihar,Patna High Court,2025-02-17,Justice Rajiv Roy,Regular,FALSE,FALSE,Shashikant Kumar @ Bablu,Male
+0980,Akashdeep vs State Of Punjab,Punjab and Haryana High Court,2025-02-17,Justice Harpreet Singh Brar,Regular,FALSE,FALSE,Akashdeep,Male
+0309,Arif vs State Of Punjab,Punjab and Haryana High Court,2025-02-19,Justice Anoop Chitkara,Regular,FALSE,FALSE,Arif,Male
+0940,Udaybhan Singh Rawat vs The State Of Madhya Pradesh,Madhya Pradesh High Court (Gwalior Bench),2025-02-19,Justice Maninder S. Bhatti,Regular,FALSE,FALSE,Udaybhan Singh Rawat,Male
+0941,Mukesh Singh Rawat vs The State Of Madhya Pradesh,"Madhya Pradesh High Court, Gwalior Bench",2025-02-19,Justice Maninder S. Bhatti,Regular,FALSE,FALSE,Mukesh Singh Rawat,Male
+0965,Chandra Shekhar Singh vs The State Of Jharkhand Through National Investigation Agency,Jharkhand High Court,2025-02-19,Justice Rongon Mukhopadhyay and Arun Kumar Rai,Regular,FALSE,FALSE,Chandra Shekhar Singh,Male
+0463,Thunga Padmavathamma vs State By,"Karnataka High Court, Bengaluru",2025-02-20,Justice Mohammad Nawaz,Regular,FALSE,FALSE,Thunga Padmavathamma,Female
+0663,Raju Gope vs State Of Jharkhand,Supreme Court of India,2025-02-20,"Justice B.V. Nagarathna, Justice Satish Chandra Sharma",Regular,TRUE,FALSE,Not specified,Male
+0462,Mahanthesh Aliyas Malatesh vs The State Of Karnataka,"Karnataka High Court, Dharwad Bench",2025-02-21,Justice Hemant Chandangoudar,Regular,FALSE,FALSE,Mahanthesh @ Malatesh Subhasappa Marata,Male
+0692,Dablu Das @ Dablu Kumar @ Dablu Kumar Aged vs The State Of Jharkhand,Jharkhand High Court,2025-02-24,Justice Sanjay Prasad,Regular,FALSE,FALSE,Dablu Das @ Dablu Kumar,Male
+0150,Anwar Dhebar vs Directorate Of Enforcement,Chhattisgarh High Court,2025-02-28,Justice Arvind Kumar Verma,Regular,FALSE,FALSE,Anwar Dhebar,Male
+0163,Shabeen Ahmad vs The State Of Uttar Pradesh,Supreme Court of India,2025-03-03,"Justice Vikram Nath, Justice Sandeep Mehta",Regular,TRUE,FALSE,"Mukhtar Ahmad, Tara Bano, Saba, Ayasha",Multiple
+0383,Dharmender Yadav vs State Of NCT Of Delhi,Delhi High Court,2025-03-05,Justice Sanjeev Narula,Regular,FALSE,FALSE,Dharmender Yadav,Male
+0979,Lovely vs State Of Haryana,Punjab and Haryana High Court,2025-03-05,Justice Manisha Batra,Regular,FALSE,FALSE,Lovely,Female
+0911,Akshay @ Vasu vs State Of NCT Of Delhi,Delhi High Court,2025-03-10,Justice Sanjeev Narula,Regular,FALSE,FALSE,Akshay @ Vasu,Male
+0694,Ajay Kumar vs State Of U.P.,Allahabad High Court,2025-03-18,Justice Siddharth,Regular,FALSE,FALSE,Ajay Kumar,Male
+0696,Aditya Das vs State Of U.P.,Allahabad High Court,2025-03-18,Justice Siddharth,Regular,FALSE,FALSE,Aditya Das,Male
+1022,Tinaben @ Dakshaben Virubhai Joshi vs State Of Gujarat,Gujarat High Court,2025-03-21,Justice Hasmukh D. Suthar,Anticipatory,FALSE,FALSE,Tinaben @ Dakshaben Virubhai Joshi,Female
+0310,Khushal Pal Alias Prince vs State Of Haryana,Punjab and Haryana High Court,2025-03-25,Justice Anoop Chitkara,Regular,FALSE,FALSE,Khushal Pal Alias Prince,Male
+0998,Rahimuddin Khan @ Rahmuddin Khan vs The State Of Bihar,Patna High Court,2025-03-26,Justice Shailendra Singh,Regular,FALSE,FALSE,Rahimuddin Khan @ Rahmuddin Khan,Male
+0024,Usman vs State Of Uttarakhand,Uttarakhand High Court,2025-03-27,Justice Ashish Naithani,Regular,FALSE,FALSE,Usman S/o Gulzar,Male
+0688,Satyendra Suman @ Netaji And 2 Others vs State Of U.P.,Allahabad High Court,2025-04-02,Justice Siddharth,Regular,FALSE,FALSE,"Satyendra Suman @ Netaji, Ranjan Kumar, Ramesh Singh Bhutola",Male
+0689,Ganesh Kumar Dhobi vs State Of U.P.,Allahabad High Court,2025-04-02,Justice Siddharth,Regular,FALSE,FALSE,Ganesh Kumar Dhobi,Male
+0695,Kishan Kumar vs State Of U.P.,Allahabad High Court,2025-04-02,Justice Siddharth,Regular,FALSE,FALSE,Kishan Kumar,Male
+0999,Jaspreet Singh Alias Jassa vs State Of Punjab,Punjab and Haryana High Court,2025-04-02,Justice Harpreet Singh Brar,Regular,FALSE,FALSE,Jaspreet Singh @ Jassa,Male
+0444,Rakshpal vs State Of U.P.,Allahabad High Court,2025-04-03,Justice Samit Gopal,Regular,FALSE,FALSE,Rakshpal,Male
+0766,Md. Mahmud Alam @ Mahmud @ Nepali vs State Of Jharkhand,Jharkhand High Court,2025-04-04,Justice Sujit Narayan Prasad and Pradeep Kumar Srivastava,Regular,FALSE,FALSE,Md. Mahmud Alam @ Mahmud @ Nepali,Male
+0880,Shivkanti And 2 Others vs State Of U.P.,Allahabad High Court,2025-04-05,Justice Deepak Verma,Anticipatory,FALSE,FALSE,"Shivkanti, Ram Das & Mohit",Female
+0095,Serious Fraud Investigation Office vs Aditya Sarda,Supreme Court of India,2025-04-09,Justice Bela M. Trivedi,Anticipatory,TRUE,TRUE,Aditya Sarda,Male
+0937,Dronadri Narasanna vs The State Of Andhra Pradesh,Andhra Pradesh High Court,2025-04-10,Justice T. Mallikarjuna Rao,Anticipatory,FALSE,FALSE,Dronadri Narasanna,Male
+0698,Rama Alias Chetan Kumar vs State Of U.P.,Allahabad High Court,2025-04-11,Justice Siddharth,Regular,FALSE,FALSE,Rama Alias Chetan Kumar,Male
+0216,Amandeep Singh Garewal vs State Of U.P.,Allahabad High Court,2025-04-16,Justice Samit Gopal,Regular,FALSE,FALSE,Amandeep Singh Garewal,Male
+0881,Smt. Nandini L M vs Devaraj P,Karnataka High Court,2025-04-16,Justice Mohammad Nawaz,Anticipatory,TRUE,FALSE,"Devaraj P, Shantha Kumari, Shobha",Male
+0693,Sushil Kumar vs State Of U.P.,Allahabad High Court,2025-04-17,Justice Siddharth,Regular,FALSE,FALSE,Sushil Kumar,Male
+0943,Arvind Rajak vs State Of U.P.,Allahabad High Court,2025-04-18,Justice Chandra Dhari Singh,Regular,FALSE,FALSE,Arvind Rajak,Male
+1042,Shahnawaz Mohammad Rafik Chhannu vs State Of Gujarat,Gujarat High Court,2025-04-21,Justice Hasmukh D. Suthar,Anticipatory,FALSE,FALSE,Shahnawaz Mohammad Rafik Chhannu,Male
+0156,Baljit @ Grari vs State Of Punjab,Punjab and Haryana High Court,2025-04-22,Justice Anoop Chitkara,Regular,FALSE,FALSE,Baljit @ Grari,Male
+1054,Arnav Dhankar vs Narcotics Control Bureau,Delhi High Court,2025-04-22,Justice Jasmeet Singh,Regular,FALSE,FALSE,Arnav Dhankar,Male
+1059,Nishant Rawat vs Narcotics Control Bureau,Delhi High Court,2025-04-22,Justice Jasmeet Singh,Regular,FALSE,FALSE,Nishant Rawat,Male
+1061,Pritesh Agarwal vs Narcotics Control Bureau,Delhi High Court,2025-04-22,Justice Jasmeet Singh,Regular,FALSE,FALSE,Pritesh Agarwal,Male
+1069,Vaibhav Yadav vs Narcotics Control Bureau,Delhi High Court,2025-04-22,Justice Jasmeet Singh,Regular,FALSE,FALSE,Vaibhav Yadav,Male
+1072,Yash Gupta Through Pairokar vs Narcotics Control Bureau,Delhi High Court,2025-04-22,Justice Jasmeet Singh,Regular,FALSE,FALSE,Yash Gupta,Male
+1125,Rahul Babu vs State Of Kerala,Kerala High Court,2025-04-22,Justice Muralee Krishna S.,Anticipatory,FALSE,FALSE,Rahul Babu,Male
+0104,Sumant Kumar vs The Union Of India Through National Investigation Agency,Jharkhand High Court,2025-04-23,"Justice Sujit Narayan Prasad, Justice Gautam Kumar Choudhary",Regular,FALSE,FALSE,Sumant Kumar,Male
+0744,Shakuntala Kumari vs Union Of India Through National Investigating Agency,Jharkhand High Court,2025-04-23,Justice Sujit Narayan Prasad and Gautam Kumar Choudhary,Regular,FALSE,FALSE,Shakuntala Kumari,Female
+0878,Amir Hussain @ Md Amir Hussain vs The State Of Assam,Gauhati High Court,2025-04-23,Justice Sushmita Phukan Khaund,Regular,FALSE,FALSE,Amir Hussain @ Md Amir Hussain,Male
+0894,Md. Aamir Ansari @ Rock vs The State Of Jharkhand,Jharkhand High Court,2025-04-25,Justice Ambuj Nath,Regular,FALSE,FALSE,Md. Aamir Ansari @ Rock,Male
+0308,Maninder Pal Singh Sodhi vs State Of Punjab,Punjab and Haryana High Court,2025-04-29,Justice Anoop Chitkara,Regular,FALSE,FALSE,Maninder Pal Singh Sodhi,Male
+0950,Navjot Singh Alias Navtej Singh vs State Of Punjab,Punjab and Haryana High Court,2025-04-29,Justice Anoop Chitkara,Regular,FALSE,FALSE,Navjot Singh Alias Navtej Singh,Male
+1160,Rohit Bhaitha vs The State Of Jharkhand,Jharkhand High Court,2025-04-30,Justice Sanjay Prasad,Regular,FALSE,FALSE,Rohit Bhaitha,Male
+0681,Jerome Balla @ Sunday Dumaka vs State Of U.P. Thru. Prin. Secy. Home,"Allahabad High Court, Lucknow Bench",2025-05-02,Justice Manish Mathur,Regular,FALSE,FALSE,Jerome Balla @ Sunday Dumaka,Male
+0255,Waseem Alias Raj Alias Nepali vs State Of U.P.,Allahabad High Court,2025-05-05,Justice Raj Beer Singh,Regular,FALSE,FALSE,Waseem Alias Raj Alias Nepali,Male
+0768,Manoj Kumar Soni vs Directorate Of Enforcement,Chhattisgarh High Court,2025-05-09,Justice Arvind Kumar Verma,Regular,FALSE,FALSE,Manoj Kumar Soni,Male
+0948,Rajnikant Shukla vs State Of U.P.,Allahabad High Court,2025-05-09,Justice Anish Kumar Gupta,Regular,FALSE,FALSE,Rajnikant Shukla,Male
+0977,Radhe @ Radheshyam vs The State Of Madhya Pradesh,Madhya Pradesh High Court,2025-05-16,Justice Binod Kumar Dwivedi,Regular,FALSE,FALSE,Radhe @ Radheshyam,Male
+0572,The Deputy Director vs Shri Ramees K T,Kerala High Court,2025-05-21,Justice V.G. Arun,Regular,TRUE,FALSE,Ramees K T,Male
+0206,Ashish Singh vs State Of U.P. And Another,Allahabad High Court,2025-05-23,Justice Samit Gopal,Regular,FALSE,FALSE,Ashish Singh,Male
+0884,Asha Jain vs State Nct Of Delhi,Delhi High Court,2025-05-29,Justice Neena Bansal Krishna,Regular,FALSE,FALSE,Asha Jain,Female
+0885,Vinay Jain vs State NCT Of Delhi,Delhi High Court,2025-05-29,Justice Neena Bansal Krishna,Regular,FALSE,FALSE,Vinay Jain,Male
+0993,Dr. Kapil Kalaswa vs State Gnct Of Delhi And Anr,Delhi High Court,2025-05-30,Justice Shalinder Kaur,Regular,FALSE,FALSE,Dr. Kapil Kalaswa,Male
+0284,Kantilal vs State Of Rajasthan,"Rajasthan High Court, Jodhpur",2025-06-02,Justice Sandeep Shah,Regular,FALSE,FALSE,Kantilal,Male
